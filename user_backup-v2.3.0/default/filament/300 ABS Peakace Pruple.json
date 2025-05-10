@@ -1,0 +1,46 @@
+{
+    "default_filament_colour": [
+        "#8811F4"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "65"
+    ],
+    "fan_min_speed": [
+        "65"
+    ],
+    "filament_flow_ratio": [
+        "0.972"
+    ],
+    "filament_max_volumetric_speed": [
+        "24"
+    ],
+    "filament_settings_id": [
+        "300 ABS Peakace Pruple"
+    ],
+    "filament_vendor": [
+        "PeakAce"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "300 ABS Peakace Pruple",
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
+    "overhang_fan_speed": [
+        "100"
+    ],
+    "pressure_advance": [
+        "0.021"
+    ],
+    "version": "1.8.0.0"
+}

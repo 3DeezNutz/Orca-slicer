@@ -1,0 +1,35 @@
+[error]	2025-04-19 14:59:24.705592[Thread 0x00002450]:can not find parent for config C:\Users\Tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-04-19 14:59:27.843568[Thread 0x00002450]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-19 14:59:27.847557[Thread 0x00004950]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-19 14:59:27.847557[Thread 0x00003434]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-19 14:59:27.847557[Thread 0x00002450]:Unable to open the fileD:\Handle.3mf
+[error]	2025-04-19 14:59:27.847557[Thread 0x000034b4]:Unable to open the fileD:\ladybug_b6_preview.3mf
+[error]	2025-04-19 14:59:27.847557[Thread 0x00001870]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-19 14:59:27.847557[Thread 0x00003434]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-19 14:59:27.847557[Thread 0x00004950]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-19 14:59:27.847557[Thread 0x00002450]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-19 14:59:27.847557[Thread 0x00003434]:Unable to open the fileD:\HX8+Phone+Stand+V2\HX8 Magsafe hardware free phone stand.3mf
+[error]	2025-04-19 14:59:27.847557[Thread 0x000034b4]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-19 14:59:27.847557[Thread 0x00001870]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-19 14:59:27.847557[Thread 0x00004950]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-19 14:59:27.847557[Thread 0x00002450]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-19 14:59:30.163437[Thread 0x00002450]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-19 14:59:30.520885[Thread 0x00002450]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-04-19 15:00:10.507245[Thread 0x00002450]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-19 15:00:20.728628[Thread 0x00002450]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-19 15:01:04.712909[Thread 0x000052c8]:Reversing even wall line causes it to be printed CCW instead of CW!
+[error]	2025-04-19 19:10:33.804888[Thread 0x00002450]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-19 19:10:34.509471[Thread 0x00002450]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-19 19:10:35.098978[Thread 0x00002450]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-19 19:10:36.231567[Thread 0x00002450]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-19 19:10:37.086545[Thread 0x00002450]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-19 19:10:38.003957[Thread 0x00002450]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-19 19:10:43.113095[Thread 0x000043e0]:Arrange full params: {"min_obj_distance":4000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-04-19 19:12:48.995338[Thread 0x000043e0]:Arrange full params: {"min_obj_distance":4000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-04-20 09:34:05.694915[Thread 0x000043e0]:Arrange full params: {"min_obj_distance":4000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-04-20 09:35:10.331207[Thread 0x000043e0]:Arrange full params: {"min_obj_distance":4000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2025-04-20 09:36:02.453160[Thread 0x00002450]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-20 10:14:12.667512[Thread 0x000043e0]:Arrange full params: {"min_obj_distance":4000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-04-20 10:16:17.783376[Thread 0x000043e0]:Arrange full params: {"min_obj_distance":4000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2025-04-20 10:16:20.566821[Thread 0x00002450]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-20 11:11:35.412939[Thread 0x00002450]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

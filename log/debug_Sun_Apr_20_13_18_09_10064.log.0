@@ -1,0 +1,23 @@
+[error]	2025-04-20 13:18:11.565744[Thread 0x000014e4]:can not find parent for config C:\Users\Tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-04-20 13:18:16.874936[Thread 0x000014e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-20 13:18:16.889896[Thread 0x00003c48]:Unable to open the fileD:\HX8+Phone+Stand+V2\HX8 Magsafe hardware free phone stand.3mf
+[error]	2025-04-20 13:18:16.905854[Thread 0x000025c4]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-20 13:18:16.905854[Thread 0x00005504]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-20 13:18:16.905854[Thread 0x00000fa8]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-20 13:18:16.905854[Thread 0x00005998]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-20 13:18:16.905854[Thread 0x00000fa8]:Unable to open the fileD:\ladybug_b6_preview.3mf
+[error]	2025-04-20 13:18:16.905854[Thread 0x00000fa8]:Unable to open the fileD:\Handle.3mf
+[error]	2025-04-20 13:18:16.918819[Thread 0x00005504]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-20 13:18:16.920815[Thread 0x00005998]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-20 13:18:16.920815[Thread 0x000014e4]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-20 13:18:16.921811[Thread 0x00001f74]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-20 13:18:16.921811[Thread 0x000025c4]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-20 13:18:16.921811[Thread 0x00000fa8]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-20 13:18:19.810855[Thread 0x000014e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-20 13:18:20.101078[Thread 0x000014e4]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-04-20 13:19:50.301604[Thread 0x000055a0]:Arrange full params: {"min_obj_distance":4000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-04-20 13:19:54.908283[Thread 0x000055a0]:Arrange full params: {"min_obj_distance":4000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2025-04-20 13:24:33.220017[Thread 0x000014e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-20 13:24:33.394497[Thread 0x000014e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-20 13:24:33.582820[Thread 0x000014e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-20 13:24:41.640285[Thread 0x000014e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,49 @@
+{
+    "default_filament_colour": [
+        "#8F66B5"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "65"
+    ],
+    "fan_min_speed": [
+        "65"
+    ],
+    "filament_end_gcode": [
+        "; filament end gcode \nSET_GCODE_OFFSET z=0\n"
+    ],
+    "filament_flow_ratio": [
+        "0.935"
+    ],
+    "filament_max_volumetric_speed": [
+        "24"
+    ],
+    "filament_settings_id": [
+        "300 ASA Sunlu Purple #"
+    ],
+    "filament_start_gcode": [
+        "; Filament gcode\nSET_GCODE_OFFSET z=0\nSET_GCODE_OFFSET Z_ADJUST=0.03"
+    ],
+    "filament_type": [
+        "ASA"
+    ],
+    "filament_vendor": [
+        "SunLu"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "300 ASA Sunlu Purple #",
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "overhang_fan_speed": [
+        "100"
+    ],
+    "pressure_advance": [
+        "0.019"
+    ],
+    "version": "1.8.0.0"
+}

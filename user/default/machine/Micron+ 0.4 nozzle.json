@@ -1,0 +1,50 @@
+{
+    "bed_custom_model": "C:\\\\Users\\\\Tommy\\\\Documents\\\\GitHub\\\\Micron\\\\Firmware\\\\Slicer\\\\BedModel\\\\micron-bed-model-simple-180.stl",
+    "bed_custom_texture": "C:\\\\Users\\\\Tommy\\\\Documents\\\\GitHub\\\\Micron\\\\Slicer\\\\micron-180-grid-green.png",
+    "before_layer_change_gcode": "SET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}\n;BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0\n",
+    "change_filament_gcode": "M600",
+    "enable_filament_ramming": "0",
+    "extruder_clearance_height_to_lid": "280",
+    "from": "User",
+    "inherits": "Voron 2.4 300 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_max_acceleration_extruding": [
+        "15000",
+        "20000"
+    ],
+    "machine_max_acceleration_x": [
+        "15000",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "15000",
+        "20000"
+    ],
+    "machine_max_speed_z": [
+        "15",
+        "12"
+    ],
+    "machine_start_gcode": ";M104 S0 ; Stops OrcaSlicer from sending temp waits separately\n;M140 S0\nCLEAR_PAUSE\nSET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nPRINT_START EXTRUDER=[first_layer_temperature] BED=[first_layer_bed_temperature] CHAMBER=[chamber_temperature]",
+    "manual_filament_change": "1",
+    "name": "Micron+ 0.4 nozzle",
+    "print_host": "192.168.2.89",
+    "printable_area": [
+        "0x0",
+        "180x0",
+        "180x180",
+        "0x180"
+    ],
+    "printable_height": "165",
+    "printer_settings_id": "Micron+ 0.4 nozzle",
+    "purge_in_prime_tower": "0",
+    "retraction_length": [
+        "0.5"
+    ],
+    "version": "1.8.0.0",
+    "z_hop": [
+        "0.3"
+    ],
+    "z_hop_types": [
+        "Auto Lift"
+    ]
+}

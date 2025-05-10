@@ -1,0 +1,40 @@
+{
+    "default_filament_colour": [
+        "#808040"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "65"
+    ],
+    "fan_min_speed": [
+        "65"
+    ],
+    "filament_flow_ratio": [
+        "0.9025"
+    ],
+    "filament_max_volumetric_speed": [
+        "24"
+    ],
+    "filament_settings_id": [
+        "300 ABS PolyMaker Army Green"
+    ],
+    "filament_vendor": [
+        "PolyMaker"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "300 ABS PolyMaker Army Green",
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "overhang_fan_speed": [
+        "100"
+    ],
+    "pressure_advance": [
+        "0.026"
+    ],
+    "version": "1.8.0.0"
+}

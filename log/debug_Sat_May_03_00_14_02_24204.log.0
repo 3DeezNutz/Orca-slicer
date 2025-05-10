@@ -1,0 +1,19 @@
+[error]	2025-05-03 00:14:04.056488[Thread 0x00005cc4]:can not find parent for config C:\Users\Tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-05-03 00:14:08.873125[Thread 0x00005cc4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-03 00:14:08.883098[Thread 0x000053dc]:Unable to open the fileD:\ladybug_b6_preview.3mf
+[error]	2025-05-03 00:14:08.904042[Thread 0x00000a48]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-03 00:14:08.904042[Thread 0x00004d3c]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-03 00:14:08.904042[Thread 0x00002020]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-03 00:14:08.904042[Thread 0x00003f48]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-03 00:14:08.904042[Thread 0x00004d3c]:Unable to open the fileD:\Handle.3mf
+[error]	2025-05-03 00:14:08.904042[Thread 0x00002020]:Unable to open the fileD:\HX8+Phone+Stand+V2\HX8 Magsafe hardware free phone stand.3mf
+[error]	2025-05-03 00:14:08.911024[Thread 0x00002acc]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-03 00:14:08.919003[Thread 0x00002020]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-03 00:14:08.919003[Thread 0x00000a48]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-03 00:14:08.919999[Thread 0x00003f48]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-03 00:14:08.919999[Thread 0x000053dc]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-03 00:14:08.919999[Thread 0x00003014]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-03 00:14:12.298973[Thread 0x00005cc4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-05-03 00:14:12.648459[Thread 0x00005cc4]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-05-03 00:14:46.769688[Thread 0x00005cc4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-03 00:29:24.641020[Thread 0x00005cc4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

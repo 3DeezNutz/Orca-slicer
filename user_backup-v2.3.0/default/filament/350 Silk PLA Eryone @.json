@@ -1,0 +1,37 @@
+{
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
+    "default_filament_colour": [
+        "#9F606B"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_end_gcode": [
+        "; filament end gcode "
+    ],
+    "filament_flow_ratio": [
+        "0.94"
+    ],
+    "filament_max_volumetric_speed": [
+        "28"
+    ],
+    "filament_settings_id": [
+        "350 Silk PLA Eryone @"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode"
+    ],
+    "filament_type": [
+        "Silk PLA "
+    ],
+    "filament_vendor": [
+        "Eryone"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic PLA",
+    "is_custom_defined": "0",
+    "name": "350 Silk PLA Eryone @",
+    "version": "1.8.0.0"
+}

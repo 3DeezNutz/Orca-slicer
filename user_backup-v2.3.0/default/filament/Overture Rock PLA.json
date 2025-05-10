@@ -1,0 +1,43 @@
+{
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
+    "default_filament_colour": [
+        "#C0C0C0"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_settings_id": [
+        "Overture Rock PLA"
+    ],
+    "filament_vendor": [
+        "Overture"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Overture Rock PLA",
+    "nozzle_temperature": [
+        "225"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "nozzle_temperature_range_low": [
+        "205"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "version": "1.8.0.0"
+}

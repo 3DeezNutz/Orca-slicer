@@ -1,0 +1,34 @@
+{
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
+    "default_filament_colour": [
+        "#04FB23"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_settings_id": [
+        "SunLu PLA+"
+    ],
+    "filament_vendor": [
+        "SunLu"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "SunLu PLA+",
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "nozzle_temperature_range_low": [
+        "205"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "version": "1.8.0.0"
+}

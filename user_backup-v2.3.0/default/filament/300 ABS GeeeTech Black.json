@@ -1,0 +1,55 @@
+{
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "65"
+    ],
+    "fan_min_speed": [
+        "65"
+    ],
+    "filament_flow_ratio": [
+        "0.94"
+    ],
+    "filament_max_volumetric_speed": [
+        "21"
+    ],
+    "filament_notes": [
+        "Revo settings\nmax volumetric flow rate 14\nPA 0.026\nPrinting temp 255\nFlow rate .95"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_settings_id": [
+        "300 ABS GeeeTech Black"
+    ],
+    "filament_vendor": [
+        "GeeeTech"
+    ],
+    "filament_wipe": [
+        "0"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "300 ABS GeeeTech Black",
+    "nozzle_temperature": [
+        "255"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "nozzle_temperature_range_high": [
+        "280"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
+    "overhang_fan_speed": [
+        "100"
+    ],
+    "version": "1.8.0.0"
+}

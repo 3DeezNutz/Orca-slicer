@@ -1,0 +1,30 @@
+[error]	2025-04-17 05:40:08.845795[Thread 0x0000159c]:can not find parent for config C:\Users\Tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-04-17 05:40:12.595094[Thread 0x0000159c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-17 05:40:12.616487[Thread 0x0000159c]:Unable to open the fileD:\Handle.3mf
+[error]	2025-04-17 05:40:12.616487[Thread 0x0000159c]:Unable to open the fileD:\ladybug_b6_preview.3mf
+[error]	2025-04-17 05:40:12.617484[Thread 0x00003268]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-17 05:40:12.617484[Thread 0x0000325c]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-17 05:40:12.617484[Thread 0x00003264]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-17 05:40:12.618481[Thread 0x00002654]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-17 05:40:12.618481[Thread 0x00002bc8]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-17 05:40:12.618481[Thread 0x00002bc8]:Unable to open the fileD:\HX8+Phone+Stand+V2\HX8 Magsafe hardware free phone stand.3mf
+[error]	2025-04-17 05:40:12.628455[Thread 0x00000928]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-17 05:40:12.629453[Thread 0x00003264]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-17 05:40:12.630450[Thread 0x00002654]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-17 05:40:12.630450[Thread 0x0000159c]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-17 05:40:12.631447[Thread 0x00003268]:File Metadata/plate_1.png not found from archive
+[warning]	2025-04-17 05:40:15.254787[Thread 0x0000159c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-04-17 05:40:16.446240[Thread 0x0000159c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-17 05:40:16.718987[Thread 0x0000159c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-17 05:40:16.801597[Thread 0x0000159c]:Slic3r::PresetCollection::validate_preset: preset_name 350 PLA+ SunLu Green @, inherit_name Voron Generic PLA, can not found preset and inherit in list
+[warning]	2025-04-17 05:40:16.801597[Thread 0x0000159c]:Slic3r::PresetBundle::validate_presets:file_name .3mf, found the filament 1 preset not inherit from system
+[warning]	2025-04-17 05:40:16.801597[Thread 0x0000159c]:Slic3r::PresetBundle::validate_presets:file_name .3mf, found self defined presets, count 1
+[error]	2025-04-17 05:40:34.495268[Thread 0x0000159c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-04-17 06:24:52.921329[Thread 0x0000158c]:Arrange full params: {"min_obj_distance":4000000,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2025-04-17 19:48:34.023408[Thread 0x0000159c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-17 19:48:42.627398[Thread 0x0000158c]:Arrange full params: {"min_obj_distance":4000000,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2025-04-17 20:36:31.017137[Thread 0x0000159c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-17 20:36:32.278762[Thread 0x0000159c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-17 20:37:20.079930[Thread 0x0000159c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-17 20:37:30.594810[Thread 0x0000159c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-04-18 05:59:33.442554[Thread 0x0000159c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

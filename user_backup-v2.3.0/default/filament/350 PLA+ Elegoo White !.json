@@ -1,0 +1,34 @@
+{
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.991"
+    ],
+    "filament_max_volumetric_speed": [
+        "28"
+    ],
+    "filament_settings_id": [
+        "350 PLA+ Elegoo White !"
+    ],
+    "filament_vendor": [
+        "Elegoo"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic PLA",
+    "is_custom_defined": "0",
+    "name": "350 PLA+ Elegoo White !",
+    "nozzle_temperature": [
+        "225"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "version": "1.8.0.0"
+}

@@ -1,0 +1,46 @@
+{
+    "default_filament_colour": [
+        "#00FF00"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "65"
+    ],
+    "fan_min_speed": [
+        "65"
+    ],
+    "filament_flow_ratio": [
+        "0.953"
+    ],
+    "filament_max_volumetric_speed": [
+        "24"
+    ],
+    "filament_settings_id": [
+        "300 ASA PolyMaker Green"
+    ],
+    "filament_vendor": [
+        "PolyMaker"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic ASA",
+    "is_custom_defined": "0",
+    "name": "300 ASA PolyMaker Green",
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "overhang_fan_speed": [
+        "100"
+    ],
+    "pressure_advance": [
+        "0.021"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "version": "1.8.0.0"
+}

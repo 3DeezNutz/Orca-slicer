@@ -1,0 +1,34 @@
+{
+    "before_layer_change_gcode": "SET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}\n;BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0\n",
+    "change_filament_gcode": "M600",
+    "deretraction_speed": [
+        "40"
+    ],
+    "from": "User",
+    "inherits": "Voron 2.4 350 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_start_gcode": ";M104 S0 ; Stops OrcaSlicer from sending temp waits separately\n;M140 S0\nCLEAR_PAUSE\nSET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nPRINT_START EXTRUDER=[first_layer_temperature] BED=[first_layer_bed_temperature] CHAMBER=[chamber_temperature]",
+    "name": "Voron 2.4 350 0.4 nozzle - ABS",
+    "print_host": "http://192.168.2.171",
+    "printable_area": [
+        "0x0",
+        "348x0",
+        "348x355",
+        "0x355"
+    ],
+    "printable_height": "260",
+    "printer_settings_id": "Voron 2.4 350 0.4 nozzle - ABS",
+    "retraction_length": [
+        "0.5"
+    ],
+    "retraction_speed": [
+        "40"
+    ],
+    "version": "2.1.1.0",
+    "z_hop": [
+        "0.3"
+    ],
+    "z_hop_types": [
+        "Auto Lift"
+    ]
+}

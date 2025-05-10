@@ -1,0 +1,40 @@
+{
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
+    "default_filament_colour": [
+        "#2B9CF9"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_settings_id": [
+        "Kingroon PLA"
+    ],
+    "filament_vendor": [
+        "Kingroon"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Kingroon PLA",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "nozzle_temperature_range_low": [
+        "195"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "version": "1.8.0.0"
+}

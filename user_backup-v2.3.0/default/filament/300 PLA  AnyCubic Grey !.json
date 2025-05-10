@@ -1,0 +1,31 @@
+{
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
+    "default_filament_colour": [
+        "#808080"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "1.009"
+    ],
+    "filament_max_volumetric_speed": [
+        "24"
+    ],
+    "filament_settings_id": [
+        "300 PLA  AnyCubic Grey !"
+    ],
+    "filament_vendor": [
+        "AnyCubuc"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic PLA",
+    "is_custom_defined": "0",
+    "name": "300 PLA  AnyCubic Grey !",
+    "pressure_advance": [
+        "0.018"
+    ],
+    "version": "1.8.0.0"
+}
