@@ -31,7 +31,7 @@
     "is_custom_defined": "0",
     "name": "Micron PLA AnyCubic Black",
     "pressure_advance": [
-        "0.028"
+        "0.024"
     ],
     "version": "2.3.0.3"
 }

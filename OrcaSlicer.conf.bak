@@ -29,7 +29,7 @@
         "iot_environment": "3",
         "keyboard_supported": "none/alt/control/shift",
         "language": "en_GB",
-        "last_backup_path": "C:\\Users\\Tommy\\AppData\\Local\\Temp/orcaslicer_model/Thu_May_08/16_42_37#21216#49",
+        "last_backup_path": "C:\\Users\\Tommy\\AppData\\Local\\Temp/orcaslicer_model/Sat_May_10/18_07_20#21216#751",
         "last_export_path": "D:\\",
         "log_severity_level": "warning",
         "max_recent_count": "18",
@@ -668,8 +668,8 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "Micron PLA Overture Rock PLA",
-            "filament_colors": "#F0F0F0",
+            "filament": "Micron PLA+ SunLu Green",
+            "filament_colors": "#2FFF63",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Micron+ 0.4 nozzle",
@@ -875,7 +875,7 @@
         "timelapse": "1"
     },
     "recent": {
-        "last_opened_folder": "D:\\",
+        "last_opened_folder": "C:\\Users\\Tommy\\Desktop\\OrcaSlicer\\resources\\calib\\vfa",
         "printhost_path": "",
         "settings_folder": "D:\\"
     },
@@ -900,4 +900,4 @@
         "18": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - Large x1 - Small Long x2 - Very Small x3.3mf"
     }
 }
-# MD5 checksum 7FCE45679F9DE4FDD85CD5F9E29836C0
+# MD5 checksum 96D63B4726390E78783A6CF0FD90DD8F
