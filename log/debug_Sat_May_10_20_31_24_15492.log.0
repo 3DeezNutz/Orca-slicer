@@ -1,0 +1,21 @@
+[error]	2025-05-10 20:31:29.154111[Thread 0x00006530]:can not find parent for config C:\Users\Tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-05-10 20:31:33.445388[Thread 0x00006530]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-10 20:31:33.456425[Thread 0x00000bc0]:Unable to open the fileD:\Handle.3mf
+[error]	2025-05-10 20:31:33.471303[Thread 0x00004228]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-10 20:31:33.473298[Thread 0x0000446c]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-10 20:31:33.473298[Thread 0x00005940]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-10 20:31:33.473298[Thread 0x00005594]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-10 20:31:33.477541[Thread 0x00003d08]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-10 20:31:33.477541[Thread 0x00003d08]:Unable to open the fileD:\ladybug_b6_preview.3mf
+[error]	2025-05-10 20:31:33.486502[Thread 0x00004228]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-10 20:31:33.487499[Thread 0x00005594]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-10 20:31:33.488497[Thread 0x00005940]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-10 20:31:33.494557[Thread 0x000040e8]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-10 20:31:33.494557[Thread 0x00000bc0]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-10 20:31:36.175486[Thread 0x00006530]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-05-10 20:31:36.451803[Thread 0x00006530]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-05-10 20:31:57.340256[Thread 0x00006530]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-05-10 20:36:25.983770[Thread 0x00003a34]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2025-05-10 20:41:32.261143[Thread 0x00006530]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-10 20:45:43.703479[Thread 0x00006530]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-05-11 04:39:37.791508[Thread 0x00006530]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

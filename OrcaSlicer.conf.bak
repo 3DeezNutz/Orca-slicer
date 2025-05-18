@@ -23,13 +23,13 @@
         "enable_multi_machine": false,
         "enable_ssl_for_ftp": true,
         "enable_ssl_for_mqtt": true,
-        "flush_multiplier": "1.000000",
+        "flush_multiplier": "0.800000",
         "import_project_action": "2",
         "internal_developer_mode": false,
         "iot_environment": "3",
         "keyboard_supported": "none/alt/control/shift",
         "language": "en_GB",
-        "last_backup_path": "C:\\Users\\Tommy\\AppData\\Local\\Temp/orcaslicer_model/Sat_May_10/18_59_05#21216#1458",
+        "last_backup_path": "C:\\Users\\Tommy\\AppData\\Local\\Temp/orcaslicer_model/Sat_May_17/19_25_55#15480#49",
         "last_export_path": "D:\\",
         "log_severity_level": "warning",
         "max_recent_count": "18",
@@ -86,7 +86,7 @@
         "user_mode": "advanced",
         "version": "01.10.01.50",
         "window_layout": "layout2|name=sidebar;caption=;state=1996;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=423;besth=900;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=main;caption=;state=256;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=20|dock_size(4,0,0)=425|",
-        "window_mainframe": "-1920; 183; 1920; 897; 0",
+        "window_mainframe": "-1918; 171; 1918; 897; 0",
         "zoom_to_mouse": true,
         "zoom_view": "none/mouse left"
     },
@@ -659,15 +659,6 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "Bambu PLA Basic @BBL X1C(Tweezer JST v1-export.3mf)",
-            "filament_colors": "#808080",
-            "flush_volumes_matrix": "0.000000",
-            "flush_volumes_vector": "140.000000|140.000000",
-            "machine": "Fast Start .4(Tweezer JST v1-export.3mf)",
-            "process": "0.20mm PLA - OAB 23.08.05(Tweezer JST v1-export.3mf)"
-        },
-        {
-            "curr_bed_type": "3",
             "filament": "Generic PLA @System",
             "filament_colors": "#F0F0F0",
             "flush_volumes_matrix": "0.000000",
@@ -677,12 +668,12 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "Micron PLA AnyCubic Black",
-            "filament_colors": "#000000",
+            "filament": "Micron Silk PLA Aceaddity purple pink",
+            "filament_colors": "#9B7EC2",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Micron+ 0.4 nozzle",
-            "process": "180 Fast 0.20mm Standard 4 4 4 @Voron"
+            "process": "180 Quality 0.20mm Standard 4 4 4 @Voron"
         },
         {
             "curr_bed_type": "3",
@@ -794,12 +785,12 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "300 ABS NAGA Purple #",
-            "filament_colors": "#8000FF",
+            "filament": "300 PLA+ SunLu Green",
+            "filament_colors": "#00FF00",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 300 0.4 nozzle ABS",
-            "process": "Voron PIF 2 settings"
+            "process": "350 Fast 0.20mm Standard 4 4 4 @Voron"
         },
         {
             "curr_bed_type": "3",
@@ -848,8 +839,8 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "350 PLA  Kingroon White !",
-            "filament_colors": "#F0F0F0",
+            "filament": "350 PLA+ SunLu Green @",
+            "filament_colors": "#00FF00",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 350 0.4 nozzle - ABS",
@@ -884,29 +875,29 @@
         "timelapse": "1"
     },
     "recent": {
-        "last_opened_folder": "D:\\",
+        "last_opened_folder": "D:\\ורד+נוטף_stls",
         "printhost_path": "",
-        "settings_folder": "D:\\"
+        "settings_folder": "C:\\Users\\Tommy\\Documents\\GitHub\\A4T\\3mf\\Backflow Inhibitors"
     },
     "recent_projects": {
-        "01": "D:\\Tweezer JST v1-export.3mf",
-        "02": "D:\\zatyczki.3mf",
-        "03": "D:\\filament clip ROBUST.3mf",
-        "04": "D:\\small-arm-hinge.3mf",
-        "05": "D:\\Punisher+2099+Marvel+Rivals+Inspired+Mask\\punisher2099-mask.3mf",
-        "06": "D:\\Handle.3mf",
-        "07": "D:\\split_pg7_strain_relief.3mf",
-        "08": "D:\\ladybug_b6_preview.3mf",
-        "09": "D:\\windmill-wind-turbine-model_files\\Body\\Stopper D10 adapter.3mf",
-        "10": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - Wide Large Long x1 - Large Long x2.3mf",
-        "11": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - X-Large.3mf",
-        "12": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - X-Wide Large Long x1 - Large Long x1.3mf",
-        "13": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - Wide Large Long x1 - Very Small x8.3mf",
-        "14": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - Large Long x4.3mf",
-        "15": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - Wide Large Long x1 - Small Long x4.3mf",
-        "16": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - Medium Long x4 - Very Small x4.3mf",
-        "17": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - Lid V5.3mf",
-        "18": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - Large x1 - Very Small x7.3mf"
+        "01": "C:\\Users\\Tommy\\Documents\\GitHub\\A4T\\3mf\\Backflow Inhibitors\\A4T Backflow Inhibitor [x2].3mf",
+        "02": "D:\\Drippy+Pail\\Handle.3mf",
+        "03": "D:\\Drippy+Pail\\Drippy.3mf",
+        "04": "D:\\Drippy+Pail\\Insert.3mf",
+        "05": "D:\\Drippy+Pail\\Pail.3mf",
+        "06": "D:\\zatyczki.3mf",
+        "07": "D:\\filament clip ROBUST.3mf",
+        "08": "D:\\small-arm-hinge.3mf",
+        "09": "D:\\Punisher+2099+Marvel+Rivals+Inspired+Mask\\punisher2099-mask.3mf",
+        "10": "D:\\Handle.3mf",
+        "11": "D:\\split_pg7_strain_relief.3mf",
+        "12": "D:\\ladybug_b6_preview.3mf",
+        "13": "D:\\windmill-wind-turbine-model_files\\Body\\Stopper D10 adapter.3mf",
+        "14": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - Wide Large Long x1 - Large Long x2.3mf",
+        "15": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - X-Large.3mf",
+        "16": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - X-Wide Large Long x1 - Large Long x1.3mf",
+        "17": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - Wide Large Long x1 - Very Small x8.3mf",
+        "18": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - Large Long x4.3mf"
     }
 }
-# MD5 checksum BD3C5FE100BFDD9054B7659AD7AB86A4
+# MD5 checksum 78368422F03874EBAF8439AFAB18D0A8

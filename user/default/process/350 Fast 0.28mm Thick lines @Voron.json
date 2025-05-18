@@ -8,7 +8,7 @@
     "gap_infill_speed": "30",
     "inherits": "0.20mm Standard @Voron",
     "initial_layer_acceleration": "2000",
-    "initial_layer_speed": "30",
+    "initial_layer_speed": "75",
     "initial_layer_travel_speed": "400",
     "inner_wall_line_width": "0.5",
     "inner_wall_speed": "160",

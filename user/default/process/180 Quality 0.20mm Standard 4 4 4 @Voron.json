@@ -27,7 +27,6 @@
     "outer_wall_speed": "200",
     "print_settings_id": "180 Quality 0.20mm Standard 4 4 4 @Voron",
     "skirt_height": "2",
-    "skirt_loops": "2",
     "skirt_speed": "125",
     "small_area_infill_flow_compensation": "1",
     "sparse_infill_acceleration": "12000",

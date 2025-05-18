@@ -247,3 +247,4 @@
 [warning]	2025-05-08 20:33:31.897807[Thread 0x00002c1c]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
 [error]	2025-05-10 15:38:02.500240[Thread 0x00005b30]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-05-10 15:38:23.300296[Thread 0x00005b30]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-10 20:11:00.158099[Thread 0x00005b30]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

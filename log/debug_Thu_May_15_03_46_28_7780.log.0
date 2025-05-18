@@ -1,0 +1,25 @@
+[error]	2025-05-15 03:46:32.425415[Thread 0x000042e0]:can not find parent for config C:\Users\Tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-05-15 03:46:36.628417[Thread 0x000042e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-15 03:46:36.646369[Thread 0x0000221c]:Unable to open the fileD:\Handle.3mf
+[error]	2025-05-15 03:46:36.647367[Thread 0x0000221c]:Unable to open the fileD:\split_pg7_strain_relief.3mf
+[error]	2025-05-15 03:46:36.647367[Thread 0x0000221c]:Unable to open the fileD:\ladybug_b6_preview.3mf
+[error]	2025-05-15 03:46:36.654348[Thread 0x000042e0]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-15 03:46:36.661115[Thread 0x00002d48]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-15 03:46:36.661115[Thread 0x00004318]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-15 03:46:36.661115[Thread 0x00002d48]:Unable to open the fileD:\zatyczki.3mf
+[error]	2025-05-15 03:46:36.661115[Thread 0x00002228]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-15 03:46:36.666102[Thread 0x00000d20]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-15 03:46:36.668097[Thread 0x000042e0]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-15 03:46:36.674023[Thread 0x00000c9c]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-15 03:46:36.674023[Thread 0x00004318]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-15 03:46:36.674023[Thread 0x00002d48]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-15 03:46:36.675020[Thread 0x00002228]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-15 03:46:39.518378[Thread 0x000042e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-05-15 03:46:39.755755[Thread 0x000042e0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-05-15 03:46:42.761298[Thread 0x000042e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-05-15 03:46:56.916499[Thread 0x000034fc]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-05-15 03:47:06.572253[Thread 0x000034fc]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-05-15 03:47:15.753827[Thread 0x000034fc]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-05-15 03:47:26.184215[Thread 0x000034fc]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-05-15 03:47:44.739076[Thread 0x0000221c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-05-15 15:26:55.582773[Thread 0x000042e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
