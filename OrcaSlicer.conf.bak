@@ -23,13 +23,13 @@
         "enable_multi_machine": false,
         "enable_ssl_for_ftp": true,
         "enable_ssl_for_mqtt": true,
-        "flush_multiplier": "0.800000",
+        "flush_multiplier": "1.000000",
         "import_project_action": "2",
         "internal_developer_mode": false,
         "iot_environment": "3",
         "keyboard_supported": "none/alt/control/shift",
         "language": "en_GB",
-        "last_backup_path": "C:\\Users\\Tommy\\AppData\\Local\\Temp/orcaslicer_model/Sat_May_17/19_25_55#15480#49",
+        "last_backup_path": "C:\\Users\\Tommy\\AppData\\Local\\Temp/orcaslicer_model/Sun_May_25/14_26_55#18912#5466",
         "last_export_path": "D:\\",
         "log_severity_level": "warning",
         "max_recent_count": "18",
@@ -115,6 +115,11 @@
         "25": "240,240,240,255"
     },
     "filaments": [
+        "Bambu PET-CF @BBL A1",
+        "Bambu PET-CF @BBL P1P",
+        "Bambu PET-CF @BBL X1C",
+        "Bambu PET-CF @BBL X1E",
+        "Bambu PET-CF @System",
         "Generic ABS",
         "Generic ABS @0.2 nozzle",
         "Generic ABS @Anycubic Kobra 3 0.4 nozzle",
@@ -668,12 +673,12 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "Micron Silk PLA Aceaddity purple pink",
-            "filament_colors": "#9B7EC2",
+            "filament": "Micron PLA Kingroon White",
+            "filament_colors": "#F0F0F0",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Micron+ 0.4 nozzle",
-            "process": "180 Quality 0.20mm Standard 4 4 4 @Voron"
+            "process": "180 Fast 0.20mm Standard 4 4 4 @Voron"
         },
         {
             "curr_bed_type": "3",
@@ -731,6 +736,15 @@
         },
         {
             "curr_bed_type": "3",
+            "filament": "SirayaTech PET-CF @Qidi X-Plus 4 0.4 nozzle(SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf)",
+            "filament_colors": "#26A69A",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Qidi X-Plus 4 0.4 nozzle(SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf)",
+            "process": "Default Setting"
+        },
+        {
+            "curr_bed_type": "3",
             "filament": "Inland PLA+",
             "filament_colors": "#8000FF",
             "flush_volumes_matrix": "0.000000",
@@ -785,12 +799,12 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "300 PLA+ SunLu Green",
-            "filament_colors": "#00FF00",
+            "filament": "300 ASA Ambrosia Terrestrial Blue",
+            "filament_colors": "#4D99EE",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 300 0.4 nozzle ABS",
-            "process": "350 Fast 0.20mm Standard 4 4 4 @Voron"
+            "process": "300 Fast 0.2mm  4 4 4 @Voron"
         },
         {
             "curr_bed_type": "3",
@@ -812,12 +826,21 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "PLA+ SunLu",
+            "filament": "300 Siraya Tech PET-CF @System - Copy",
             "filament_colors": "#26A69A",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 300 0.6 nozzle",
             "process": "0.30mm Standard 0.6 nozzle @Voron"
+        },
+        {
+            "curr_bed_type": "3",
+            "filament": "300 Siraya Tech PET-CF @System - Copy",
+            "filament_colors": "#26A69A",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Voron 2.4 300 0.6 nozzle - Copy",
+            "process": "0.20mm Siraya Tech PET CF 0.6 @Voron - Copy"
         },
         {
             "curr_bed_type": "3",
@@ -839,12 +862,12 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "350 PLA+ SunLu Green @",
-            "filament_colors": "#00FF00",
+            "filament": "350 ABS SunLu Black #",
+            "filament_colors": "#000000",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 350 0.4 nozzle - ABS",
-            "process": "350 Fast 0.20mm Standard 4 4 4 @Voron"
+            "process": "300 Voron PIF 2 settings"
         },
         {
             "curr_bed_type": "3",
@@ -867,7 +890,7 @@
     ],
     "presets": {
         "filaments": null,
-        "machine": "Micron+ 0.4 nozzle"
+        "machine": "Voron 2.4 300 0.4 nozzle ABS"
     },
     "print": {
         "bed_leveling": "1",
@@ -875,29 +898,29 @@
         "timelapse": "1"
     },
     "recent": {
-        "last_opened_folder": "D:\\ורד+נוטף_stls",
+        "last_opened_folder": "D:\\",
         "printhost_path": "",
-        "settings_folder": "C:\\Users\\Tommy\\Documents\\GitHub\\A4T\\3mf\\Backflow Inhibitors"
+        "settings_folder": "D:\\"
     },
     "recent_projects": {
-        "01": "C:\\Users\\Tommy\\Documents\\GitHub\\A4T\\3mf\\Backflow Inhibitors\\A4T Backflow Inhibitor [x2].3mf",
-        "02": "D:\\Drippy+Pail\\Handle.3mf",
-        "03": "D:\\Drippy+Pail\\Drippy.3mf",
-        "04": "D:\\Drippy+Pail\\Insert.3mf",
-        "05": "D:\\Drippy+Pail\\Pail.3mf",
-        "06": "D:\\zatyczki.3mf",
-        "07": "D:\\filament clip ROBUST.3mf",
-        "08": "D:\\small-arm-hinge.3mf",
-        "09": "D:\\Punisher+2099+Marvel+Rivals+Inspired+Mask\\punisher2099-mask.3mf",
-        "10": "D:\\Handle.3mf",
-        "11": "D:\\split_pg7_strain_relief.3mf",
-        "12": "D:\\ladybug_b6_preview.3mf",
-        "13": "D:\\windmill-wind-turbine-model_files\\Body\\Stopper D10 adapter.3mf",
-        "14": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - Wide Large Long x1 - Large Long x2.3mf",
-        "15": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - X-Large.3mf",
-        "16": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - X-Wide Large Long x1 - Large Long x1.3mf",
-        "17": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - Wide Large Long x1 - Very Small x8.3mf",
-        "18": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - Large Long x4.3mf"
+        "01": "D:\\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf",
+        "02": "D:\\Both handles with Micron logo and fuzzy skin_x1.3mf",
+        "03": "C:\\Users\\Tommy\\Documents\\GitHub\\A4T\\3mf\\Backflow Inhibitors\\A4T Backflow Inhibitor [x2].3mf",
+        "04": "D:\\Drippy+Pail\\Handle.3mf",
+        "05": "D:\\Drippy+Pail\\Drippy.3mf",
+        "06": "D:\\Drippy+Pail\\Insert.3mf",
+        "07": "D:\\Drippy+Pail\\Pail.3mf",
+        "08": "D:\\zatyczki.3mf",
+        "09": "D:\\filament clip ROBUST.3mf",
+        "10": "D:\\small-arm-hinge.3mf",
+        "11": "D:\\Punisher+2099+Marvel+Rivals+Inspired+Mask\\punisher2099-mask.3mf",
+        "12": "D:\\Handle.3mf",
+        "13": "D:\\split_pg7_strain_relief.3mf",
+        "14": "D:\\ladybug_b6_preview.3mf",
+        "15": "D:\\windmill-wind-turbine-model_files\\Body\\Stopper D10 adapter.3mf",
+        "16": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - Wide Large Long x1 - Large Long x2.3mf",
+        "17": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - X-Large.3mf",
+        "18": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - X-Wide Large Long x1 - Large Long x1.3mf"
     }
 }
-# MD5 checksum 78368422F03874EBAF8439AFAB18D0A8
+# MD5 checksum 6698666D01C4214070D1BFF07D83BFC9
