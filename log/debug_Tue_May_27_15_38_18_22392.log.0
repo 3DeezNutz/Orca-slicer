@@ -1,0 +1,39 @@
+[error]	2025-05-27 15:38:22.835501[Thread 0x00004afc]:can not find parent for config C:\Users\Tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-05-27 15:38:26.829758[Thread 0x00004afc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-05-27 15:38:26.839785[Thread 0x00005af0]:Unable to open the fileD:\ladybug_b6_preview.3mf
+[error]	2025-05-27 15:38:26.839785[Thread 0x00002ce4]:Unable to open the fileD:\Handle.3mf
+[error]	2025-05-27 15:38:26.839785[Thread 0x000048b4]:Unable to open the fileD:\split_pg7_strain_relief.3mf
+[error]	2025-05-27 15:38:26.856686[Thread 0x00002cdc]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-27 15:38:26.857683[Thread 0x00002cdc]:Unable to open the fileD:\zatyczki.3mf
+[error]	2025-05-27 15:38:26.857683[Thread 0x00001c04]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-27 15:38:26.857683[Thread 0x0000589c]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-27 15:38:26.857683[Thread 0x00002ce4]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-27 15:38:26.863667[Thread 0x000048b4]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-27 15:38:26.864664[Thread 0x00005db8]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-27 15:38:26.869651[Thread 0x0000589c]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-27 15:38:26.869651[Thread 0x00001c04]:File Metadata/plate_1.png not found from archive
+[error]	2025-05-27 15:38:29.575619[Thread 0x00004afc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-05-27 15:38:29.837707[Thread 0x00004afc]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-05-27 15:40:50.022451[Thread 0x00005160]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 74 NextTarget: 74 Distance to top: 58 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000001DF4F241850: Radius: 1349954 at layer: 75 NextTarget: 75 Distance to top: 57 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2025-05-27 15:40:50.036413[Thread 0x00002ce4]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 68 NextTarget: 68 Distance to top: 59 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000001DF4F250B20: Radius: 1349954 at layer: 69 NextTarget: 69 Distance to top: 58 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2025-05-27 15:40:50.049379[Thread 0x00005af0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 63 NextTarget: 63 Distance to top: 69 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000001DF4F258500: Radius: 1349954 at layer: 64 NextTarget: 64 Distance to top: 68 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2025-05-27 15:40:50.108222[Thread 0x00005af0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 34 NextTarget: 34 Distance to top: 93 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000001DF4F3798A0: Radius: 1349954 at layer: 35 NextTarget: 35 Distance to top: 92 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2025-05-27 15:40:50.129166[Thread 0x00005db8]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 24 NextTarget: 24 Distance to top: 57 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000001DF4F375050: Radius: 1349954 at layer: 25 NextTarget: 25 Distance to top: 56 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2025-05-27 15:40:50.131161[Thread 0x00002cdc]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 23 NextTarget: 23 Distance to top: 109 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000001DF4F374EB0: Radius: 1349954 at layer: 24 NextTarget: 24 Distance to top: 108 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2025-05-27 15:44:40.525151[Thread 0x00005160]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 74 NextTarget: 74 Distance to top: 58 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000001DF4C38E650: Radius: 1349954 at layer: 75 NextTarget: 75 Distance to top: 57 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2025-05-27 15:44:40.537118[Thread 0x00002cdc]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 68 NextTarget: 68 Distance to top: 59 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000001DF549427B0: Radius: 1349954 at layer: 69 NextTarget: 69 Distance to top: 58 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2025-05-27 15:44:40.545097[Thread 0x00005af0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 64 NextTarget: 64 Distance to top: 68 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000001DF55458AF0: Radius: 1349954 at layer: 65 NextTarget: 65 Distance to top: 67 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2025-05-27 15:44:40.601945[Thread 0x00002cdc]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 34 NextTarget: 34 Distance to top: 93 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000001DF4C6D6CA0: Radius: 1349954 at layer: 35 NextTarget: 35 Distance to top: 92 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2025-05-27 15:44:40.627876[Thread 0x00001c04]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 19 NextTarget: 19 Distance to top: 113 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000001DF4C9B1A70: Radius: 1349954 at layer: 20 NextTarget: 20 Distance to top: 112 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[error]	2025-05-28 06:12:48.930560[Thread 0x00004afc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

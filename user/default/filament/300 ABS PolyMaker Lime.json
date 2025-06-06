@@ -93,7 +93,7 @@
         "1.75"
     ],
     "filament_end_gcode": [
-        "; filament end gcode\n"
+        "; filament end gcode\nSET_GCODE_OFFSET z=0"
     ],
     "filament_flow_ratio": [
         "0.982"
@@ -180,7 +180,7 @@
         "0"
     ],
     "filament_start_gcode": [
-        "; Filament gcode\n"
+        "; Filament gcode\nSET_GCODE_OFFSET z=0\nSET_GCODE_OFFSET Z_ADJUST=0.04"
     ],
     "filament_toolchange_delay": [
         "0"
