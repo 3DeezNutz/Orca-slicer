@@ -29,7 +29,7 @@
         "iot_environment": "3",
         "keyboard_supported": "none/alt/control/shift",
         "language": "en_GB",
-        "last_backup_path": "C:\\Users\\Tommy\\AppData\\Local\\Temp/orcaslicer_model/Thu_Jun_05/20_35_14#21588#49",
+        "last_backup_path": "C:\\Users\\Tommy\\AppData\\Local\\Temp/orcaslicer_model/Fri_Jun_13/20_56_48#15768#1045",
         "last_export_path": "D:\\",
         "log_severity_level": "warning",
         "max_recent_count": "18",
@@ -85,8 +85,8 @@
         "use_perspective_camera": false,
         "user_mode": "advanced",
         "version": "01.10.01.50",
-        "window_layout": "layout2|name=sidebar;caption=;state=1996;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=423;besth=900;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=main;caption=;state=256;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=20|dock_size(4,0,0)=425|",
-        "window_mainframe": "-1914; 171; 1918; 897; 0",
+        "window_layout": "layout2|name=sidebar;caption=;state=1996;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=420;besth=900;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=main;caption=;state=256;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=20|dock_size(4,0,0)=422|",
+        "window_mainframe": "-1914; 171; 1914; 897; 0",
         "zoom_to_mouse": true,
         "zoom_view": "none/mouse left"
     },
@@ -536,6 +536,15 @@
         },
         {
             "curr_bed_type": "3",
+            "filament": "Generic ABS @System",
+            "filament_colors": "#526B2C",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Bambu Lab X1 Carbon 0.4 nozzle(1 - Easy Print 3mf - Laptop Stand.3mf)",
+            "process": "Default Setting"
+        },
+        {
+            "curr_bed_type": "3",
             "filament": "Bambu PLA Matte @BBL X1C(Apple+MagSafe+Charger+1m+&+2m.3mf)",
             "filament_01": "PolyLite PLA @BBL X1C(Apple+MagSafe+Charger+1m+&+2m.3mf)",
             "filament_02": "Bambu PLA Matte @BBL X1C(Apple+MagSafe+Charger+1m+&+2m.3mf)",
@@ -685,12 +694,12 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "Micron PLA Kingroon White",
-            "filament_colors": "#F0F0F0",
+            "filament": "Micron Silk PLA Aceaddity purple pink",
+            "filament_colors": "#9B7EC2",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Micron+ 0.4 nozzle",
-            "process": "180 Fast 0.20mm Standard 4 4 4 @Voron"
+            "process": "180 Quality 0.20mm Standard 4 4 4 @Voron"
         },
         {
             "curr_bed_type": "3",
@@ -838,6 +847,15 @@
         },
         {
             "curr_bed_type": "3",
+            "filament": "Siraya Tech PET-CF Shrinkage",
+            "filament_colors": "#EB4A05",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Voron 2.4 300 0.5 nozzle PET CF",
+            "process": "300 Voron PIF PET CF"
+        },
+        {
+            "curr_bed_type": "3",
             "filament": "300 Siraya Tech PET-CF @System - Copy",
             "filament_colors": "#26A69A",
             "flush_volumes_matrix": "0.000000",
@@ -865,21 +883,21 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "PLA Meta SunLu Grey @",
+            "filament": "Generic PLA @System",
             "filament_colors": "#101010",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 350 0.4 nozzle",
-            "process": "PIF @ Voron"
+            "process": "0.20mm Standard @Voron"
         },
         {
             "curr_bed_type": "3",
-            "filament": "350 PLA+ SunLu Blue Grey @",
-            "filament_colors": "#387CC7",
+            "filament": "350 ABS SunLu Black #",
+            "filament_colors": "#000000",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 350 0.4 nozzle - ABS",
-            "process": "0.2mm  4 4 4 Quality @Voron"
+            "process": "300 Voron PIF 2 settings"
         },
         {
             "curr_bed_type": "3",
@@ -902,7 +920,7 @@
     ],
     "presets": {
         "filaments": null,
-        "machine": "Voron 2.4 300 0.4 nozzle ABS"
+        "machine": "Voron 2.4 300 0.5 nozzle PET CF"
     },
     "print": {
         "bed_leveling": "1",
@@ -912,27 +930,27 @@
     "recent": {
         "last_opened_folder": "D:\\",
         "printhost_path": "",
-        "settings_folder": "D:\\Kobalt+Rail+for+DeWALT+Pole+Saw"
+        "settings_folder": "D:\\Portable Laptop Stand"
     },
     "recent_projects": {
-        "01": "D:\\Kobalt+Rail+for+DeWALT+Pole+Saw\\M3 KobaltRailDewaltPole2.3mf",
-        "02": "D:\\Bowden_Guide V2.3mf",
-        "03": "D:\\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf",
-        "04": "D:\\Both handles with Micron logo and fuzzy skin_x1.3mf",
-        "05": "C:\\Users\\Tommy\\Documents\\GitHub\\A4T\\3mf\\Backflow Inhibitors\\A4T Backflow Inhibitor [x2].3mf",
-        "06": "D:\\Drippy+Pail\\Handle.3mf",
-        "07": "D:\\Drippy+Pail\\Drippy.3mf",
-        "08": "D:\\Drippy+Pail\\Insert.3mf",
-        "09": "D:\\Drippy+Pail\\Pail.3mf",
-        "10": "D:\\zatyczki.3mf",
-        "11": "D:\\filament clip ROBUST.3mf",
-        "12": "D:\\small-arm-hinge.3mf",
-        "13": "D:\\Punisher+2099+Marvel+Rivals+Inspired+Mask\\punisher2099-mask.3mf",
-        "14": "D:\\Handle.3mf",
-        "15": "D:\\split_pg7_strain_relief.3mf",
-        "16": "D:\\ladybug_b6_preview.3mf",
-        "17": "D:\\windmill-wind-turbine-model_files\\Body\\Stopper D10 adapter.3mf",
-        "18": "D:\\Bento+Stax+4x4\\Bento Stax 4x4 - 220mm - Wide Large Long x1 - Large Long x2.3mf"
+        "01": "D:\\Portable Laptop Stand\\1 - Easy Print 3mf - Laptop Stand.3mf",
+        "02": "D:\\Kobalt+Rail+for+DeWALT+Pole+Saw\\M3 KobaltRailDewaltPole2.3mf",
+        "03": "D:\\Bowden_Guide V2.3mf",
+        "04": "D:\\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf",
+        "05": "D:\\Both handles with Micron logo and fuzzy skin_x1.3mf",
+        "06": "C:\\Users\\Tommy\\Documents\\GitHub\\A4T\\3mf\\Backflow Inhibitors\\A4T Backflow Inhibitor [x2].3mf",
+        "07": "D:\\Drippy+Pail\\Handle.3mf",
+        "08": "D:\\Drippy+Pail\\Drippy.3mf",
+        "09": "D:\\Drippy+Pail\\Insert.3mf",
+        "10": "D:\\Drippy+Pail\\Pail.3mf",
+        "11": "D:\\zatyczki.3mf",
+        "12": "D:\\filament clip ROBUST.3mf",
+        "13": "D:\\small-arm-hinge.3mf",
+        "14": "D:\\Punisher+2099+Marvel+Rivals+Inspired+Mask\\punisher2099-mask.3mf",
+        "15": "D:\\Handle.3mf",
+        "16": "D:\\split_pg7_strain_relief.3mf",
+        "17": "D:\\ladybug_b6_preview.3mf",
+        "18": "D:\\windmill-wind-turbine-model_files\\Body\\Stopper D10 adapter.3mf"
     }
 }
-# MD5 checksum D5A2B39591E9DBD7D9F11A48F7BEE632
+# MD5 checksum 6860BC23D50AB6F1AD888497B44CFC91

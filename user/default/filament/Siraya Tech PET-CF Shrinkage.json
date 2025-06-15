@@ -2,6 +2,9 @@
     "compatible_printers": [
         "Voron 2.4 300 0.4 nozzle"
     ],
+    "default_filament_colour": [
+        "#EB4A05"
+    ],
     "enable_pressure_advance": [
         "1"
     ],
@@ -21,10 +24,16 @@
         "0"
     ],
     "filament_settings_id": [
-        "Siraya Tech PET-CF"
+        "Siraya Tech PET-CF Shrinkage"
+    ],
+    "filament_shrink": [
+        "99.6%"
+    ],
+    "filament_shrinkage_compensation_z": [
+        "98.7%"
     ],
     "filament_start_gcode": [
-        "; Filament gcode\nSET_GCODE_OFFSET z=0\nSET_GCODE_OFFSET Z_ADJUST=0.04"
+        "; Filament gcode\nSET_GCODE_OFFSET z=0\nSET_GCODE_OFFSET Z_ADJUST=0.025"
     ],
     "filament_vendor": [
         "Siraya Tech"
@@ -41,7 +50,7 @@
     ],
     "inherits": "Bambu PET-CF @System",
     "is_custom_defined": "0",
-    "name": "Siraya Tech PET-CF",
+    "name": "Siraya Tech PET-CF Shrinkage",
     "nozzle_temperature": [
         "300"
     ],

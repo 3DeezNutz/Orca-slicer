@@ -1,0 +1,16 @@
+[error]	2025-06-06 22:29:45.068007[Thread 0x000020a8]:can not find parent for config C:\Users\Tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-06-06 22:29:51.592409[Thread 0x000020a8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-06 22:29:51.606372[Thread 0x00006508]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-06-06 22:29:51.606372[Thread 0x00006508]:Unable to open the fileD:\zatyczki.3mf
+[error]	2025-06-06 22:29:51.620334[Thread 0x00007314]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-06 22:29:51.620334[Thread 0x00007314]:Unable to open the fileD:\split_pg7_strain_relief.3mf
+[error]	2025-06-06 22:29:51.620334[Thread 0x00007314]:Unable to open the fileD:\ladybug_b6_preview.3mf
+[error]	2025-06-06 22:29:51.623326[Thread 0x00006508]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-06 22:29:51.624324[Thread 0x00004468]:Unable to open the fileD:\Handle.3mf
+[error]	2025-06-06 22:29:51.631305[Thread 0x0000473c]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-06 22:29:51.637289[Thread 0x00006508]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-06 22:29:51.638287[Thread 0x00004468]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-06 22:29:55.583041[Thread 0x000020a8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-06 22:29:56.164247[Thread 0x000020a8]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-06-06 22:30:44.752778[Thread 0x000020a8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-07 09:19:31.031341[Thread 0x000020a8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

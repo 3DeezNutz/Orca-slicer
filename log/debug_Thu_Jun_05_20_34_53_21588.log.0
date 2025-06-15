@@ -12,3 +12,24 @@
 [error]	2025-06-05 20:35:10.654661[Thread 0x00004cd4]:File Metadata/plate_1.png not found from archive
 [error]	2025-06-05 20:35:10.659647[Thread 0x00004c40]:File Metadata/plate_1.png not found from archive
 [error]	2025-06-05 20:35:14.565715[Thread 0x00004d14]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-05 20:35:14.885417[Thread 0x00004d14]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-06-06 05:33:27.779000[Thread 0x00006e18]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2025-06-06 05:33:43.669483[Thread 0x00004d14]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-06 05:33:44.817074[Thread 0x00004d14]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-06 05:33:44.850984[Thread 0x00004d14]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-06 05:33:44.981634[Thread 0x00004d14]:Slic3r::PresetCollection::validate_preset: preset_name Bambu Lab X1 Carbon 0.4 nozzle, no inherit, set to not found
+[warning]	2025-06-06 05:33:44.981634[Thread 0x00004d14]:Slic3r::PresetBundle::validate_presets:file_name 1 - Easy Print 3mf - Laptop Stand.3mf, found the printer preset not inherit from system
+[warning]	2025-06-06 05:33:44.982631[Thread 0x00004d14]:Slic3r::PresetCollection::validate_preset: preset_name Bambu PLA Basic @BBL X1C, no inherit, set to not found
+[warning]	2025-06-06 05:33:44.982631[Thread 0x00004d14]:Slic3r::PresetBundle::validate_presets:file_name 1 - Easy Print 3mf - Laptop Stand.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-06-06 05:33:44.982631[Thread 0x00004d14]:Slic3r::PresetBundle::validate_presets:file_name 1 - Easy Print 3mf - Laptop Stand.3mf, found self defined presets, count 2
+[error]	2025-06-06 05:33:50.199279[Thread 0x00004d14]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-06 05:34:04.416035[Thread 0x00004d14]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-06 05:34:24.885636[Thread 0x00004d14]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-06 05:34:25.911707[Thread 0x00004d14]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-06 05:34:26.259793[Thread 0x00004d14]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-06 05:34:26.471941[Thread 0x00004d14]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-06 05:34:27.556258[Thread 0x00004d14]:Slic3r::GUI::PartPlateList::delete_plate:only one plate left, can not delete
+[error]	2025-06-06 05:34:30.160584[Thread 0x00004d14]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-06 05:34:42.405198[Thread 0x00004d14]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-06 05:34:44.678485[Thread 0x00004d14]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-06 05:46:02.375750[Thread 0x00004d14]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
