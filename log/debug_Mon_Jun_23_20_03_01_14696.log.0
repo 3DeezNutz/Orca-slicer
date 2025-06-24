@@ -1,0 +1,20 @@
+[error]	2025-06-23 20:03:10.159659[Thread 0x00004010]:can not find parent for config C:\Users\Tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-06-23 20:03:18.377881[Thread 0x00004010]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 20:03:18.390847[Thread 0x00004010]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-06-23 20:03:18.390847[Thread 0x00004010]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-06-23 20:03:18.390847[Thread 0x000065cc]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-06-23 20:03:18.410794[Thread 0x00004010]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-23 20:03:18.410794[Thread 0x00005a5c]:Unable to open the fileD:\split_pg7_strain_relief.3mf
+[error]	2025-06-23 20:03:18.410794[Thread 0x00004010]:Unable to open the fileD:\ladybug_b6_preview.3mf
+[error]	2025-06-23 20:03:18.410794[Thread 0x00005a5c]:Unable to open the fileD:\Handle.3mf
+[error]	2025-06-23 20:03:18.410794[Thread 0x00005a5c]:Unable to open the fileD:\zatyczki.3mf
+[error]	2025-06-23 20:03:18.411792[Thread 0x00002edc]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-23 20:03:18.411792[Thread 0x00005d30]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-23 20:03:18.416778[Thread 0x000028d4]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-23 20:03:18.422762[Thread 0x000009ac]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-23 20:03:22.713337[Thread 0x00004010]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-23 20:03:23.292041[Thread 0x00004010]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-06-23 20:03:31.785996[Thread 0x00004010]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-23 20:03:32.669294[Thread 0x00004010]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-23 20:03:35.927450[Thread 0x00004010]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-23 20:04:04.178204[Thread 0x000051ec]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,

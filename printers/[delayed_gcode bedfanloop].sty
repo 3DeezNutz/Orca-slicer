@@ -1,0 +1,61 @@
+[delayed_gcode bedfanloop]
+gcode:  
+
+    {% if printer["gcode_macro _BEDFANVARS"].bedfansenabled == 1 %}	
+
+        {% if printer.heater_bed.target >= printer["gcode_macro _BEDFANVARS"].bedfantripon %}	
+
+            {% if printer.heater_bed.temperature|int >= (printer.heater_bed.target|int - 2) and printer["gcode_macro _BEDFANVARS"].bedreached == 0 %}
+                SET_GCODE_VARIABLE MACRO=_BEDFANVARS VARIABLE=bedreached VALUE=1
+            {% endif %}
+
+            {% if printer["gcode_macro _BEDFANVARS"].bedreached == 1 %}
+
+
+                {% set high_threshold = 1.04 %}
+                {% set low_threshold = 0.9861 %}
+
+                {% set previous_speed = printer['fan_generic BedFan'].speed %}
+                
+                # If coming out of max speed, set previous to 95% of normal speed
+                {% if previous_speed == printer["gcode_macro _BEDFANVARS"].bedfan100 and printer["temperature_sensor ch0_avg"].temperature > (printer["gcode_macro _BEDFANVARS"].bedfanchambertarget * low_threshold) %} {% set previous_speed = ( printer['gcode_macro _BEDFANVARS'].bedfannormal * 0.95 ) %} {% endif %}
+
+                # Determines temp/target error percentage, adjusts fan speed by that percentage
+                {% set fan_speed = (previous_speed * (1 - ((printer["temperature_sensor ch0_avg"].temperature - printer["gcode_macro _BEDFANVARS"].bedfanchambertarget) / printer["gcode_macro _BEDFANVARS"].bedfanchambertarget) / 2))|float %}
+
+                # Prevents ramping up of temperature. If last_temp is higher than the current temp, leave fan speed as it was.
+                {% if printer["temperature_sensor ch0_avg"].temperature > printer['gcode_macro _BEDFANVARS'].last_temp and printer["temperature_sensor ch0_avg"].temperature < printer["gcode_macro _BEDFANVARS"].bedfanchambertarget %} {% set fan_speed = previous_speed %} {% endif %}
+
+                # Prevents ramping down of temperature. If last_temp is lower than the current temp, leave fan speed as it was.
+                {% if printer["temperature_sensor ch0_avg"].temperature < printer['gcode_macro _BEDFANVARS'].last_temp and printer["temperature_sensor ch0_avg"].temperature > printer["gcode_macro _BEDFANVARS"].bedfanchambertarget %} {% set fan_speed = previous_speed %} {% endif %}
+
+                # THRESHOLD Override: If the temperature is above (target * high_threshold) set min speed
+                {% set fan_speed = printer["gcode_macro _BEDFANVARS"].bedfannormal if printer["temperature_sensor ch0_avg"].temperature > (printer["gcode_macro _BEDFANVARS"].bedfanchambertarget * high_threshold) else fan_speed %}
+
+                # THRESHOLD Override: If the temperature is below (target * low_threshold) set to max speed
+                {% set fan_speed = printer["gcode_macro _BEDFANVARS"].bedfan100 if printer["temperature_sensor ch0_avg"].temperature < (printer["gcode_macro _BEDFANVARS"].bedfanchambertarget * low_threshold) else fan_speed %}
+
+                # Ensure bed fan speeds are within min/max and set speed
+                SET_FAN_SPEED FAN=BedFan SPEED={[([printer["gcode_macro _BEDFANVARS"].bedfan100|float, fan_speed]|min),printer["gcode_macro _BEDFANVARS"].bedfanlowestspin]|max}
+
+                # Here, we take the current fan speed and use it to re-average the normal speed. If the fan speed is the min or max speed, the re-averaging will be skipped.
+                {% if fan_speed == printer["gcode_macro _BEDFANVARS"].bedfannormal or fan_speed == printer["gcode_macro _BEDFANVARS"].bedfan100 %}
+                    
+                {% else %}
+                    SET_GCODE_VARIABLE MACRO=_BEDFANVARS VARIABLE=bedfannormal VALUE={( (printer['gcode_macro _BEDFANVARS'].bedfannormal + fan_speed) / 2 )}
+                {% endif %}
+
+                # Save temperature for next loop checking
+                SET_GCODE_VARIABLE MACRO=_BEDFANVARS VARIABLE=last_temp VALUE={printer["temperature_sensor ch0_avg"].temperature}
+
+            {% endif %}
+
+        {% endif %}
+
+        UPDATE_DELAYED_GCODE ID=bedfanloop DURATION=10
+
+    {% else %}
+
+        UPDATE_DELAYED_GCODE ID=bedfanloop DURATION=0
+        
+    {% endif %}
