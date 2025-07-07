@@ -1,0 +1,38 @@
+[error]	2025-06-27 17:09:39.323357[Thread 0x00001014]:can not find parent for config C:\Users\Tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-06-27 17:09:44.887663[Thread 0x00001014]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-27 17:09:44.898196[Thread 0x00005790]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-06-27 17:09:44.898196[Thread 0x00005488]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-06-27 17:09:44.898196[Thread 0x00005790]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-06-27 17:09:44.898196[Thread 0x00006d1c]:Unable to open the fileD:\split_pg7_strain_relief.3mf
+[error]	2025-06-27 17:09:44.898196[Thread 0x00002e24]:Unable to open the fileD:\ladybug_b6_preview.3mf
+[error]	2025-06-27 17:09:44.909166[Thread 0x00006844]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-27 17:09:44.909166[Thread 0x00006844]:Unable to open the fileD:\zatyczki.3mf
+[error]	2025-06-27 17:09:44.915150[Thread 0x00004d9c]:Unable to open the fileD:\Handle.3mf
+[error]	2025-06-27 17:09:44.916148[Thread 0x00006d1c]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-27 17:09:44.918143[Thread 0x00000f8c]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-27 17:09:44.928115[Thread 0x00004d9c]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-27 17:09:44.928115[Thread 0x00005488]:File Metadata/plate_1.png not found from archive
+[error]	2025-06-27 17:09:48.500513[Thread 0x00001014]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-27 17:09:48.874962[Thread 0x00001014]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-06-27 17:09:53.765137[Thread 0x00001014]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-27 17:09:58.442508[Thread 0x00001014]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-27 17:10:12.316903[Thread 0x00001014]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-27 17:10:19.018560[Thread 0x00001014]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-27 17:10:34.076403[Thread 0x00001014]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-27 17:16:30.131269[Thread 0x00005658]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-06-27 17:17:17.275032[Thread 0x00005658]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-06-27 17:18:55.005646[Thread 0x00005658]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-06-27 20:03:52.698475[Thread 0x00005658]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-06-27 20:05:27.200725[Thread 0x00005658]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-06-27 20:11:12.258796[Thread 0x00001014]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-27 20:11:28.440388[Thread 0x00001014]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-06-28 18:59:48.835509[Thread 0x00005658]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-06-28 18:59:54.023244[Thread 0x00005658]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-06-28 18:59:57.187770[Thread 0x00005658]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-06-28 19:04:18.573114[Thread 0x00001014]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-28 19:04:22.002309[Thread 0x00001014]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-28 19:04:28.475113[Thread 0x00001014]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-28 19:05:16.948596[Thread 0x00000600]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[error]	2025-06-28 19:08:42.644541[Thread 0x00001014]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-28 21:51:24.960940[Thread 0x00001014]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-28 22:44:03.084636[Thread 0x00001014]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

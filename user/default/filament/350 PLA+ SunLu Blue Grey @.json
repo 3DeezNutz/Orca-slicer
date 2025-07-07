@@ -229,10 +229,10 @@
     "is_custom_defined": "0",
     "name": "350 PLA+ SunLu Blue Grey @",
     "nozzle_temperature": [
-        "225"
+        "215"
     ],
     "nozzle_temperature_initial_layer": [
-        "225"
+        "215"
     ],
     "nozzle_temperature_range_high": [
         "240"

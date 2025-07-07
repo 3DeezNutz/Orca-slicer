@@ -1,0 +1,76 @@
+{
+    "compatible_printers": [
+        "Voron 2.4 300 0.4 nozzle ABS"
+    ],
+    "default_filament_colour": [
+        "#EB4A05"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "38"
+    ],
+    "filament_end_gcode": [
+        "; filament end gcode\nSET_GCODE_OFFSET z=0\nSET_TMC_CURRENT STEPPER=extruder  CURRENT=0.6\n"
+    ],
+    "filament_flow_ratio": [
+        "1.04"
+    ],
+    "filament_notes": [
+        "Shirnkage \n\nXY= 99.6%\nZ = 98.7%"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_settings_id": [
+        "Siraya Tech PET-CF Shrinkage 0.4"
+    ],
+    "filament_shrink": [
+        "99.6%"
+    ],
+    "filament_shrinkage_compensation_z": [
+        "98.7%"
+    ],
+    "filament_start_gcode": [
+        "; Filament gcode\nSET_GCODE_OFFSET z=0\nSET_GCODE_OFFSET Z_ADJUST=0.02\nSET_TMC_CURRENT STEPPER=extruder  CURRENT=0.8"
+    ],
+    "filament_vendor": [
+        "Siraya Tech"
+    ],
+    "filament_wipe": [
+        "0"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "Bambu PET-CF @System",
+    "is_custom_defined": "0",
+    "name": "Siraya Tech PET-CF Shrinkage 0.4",
+    "nozzle_temperature": [
+        "300"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "300"
+    ],
+    "nozzle_temperature_range_high": [
+        "320"
+    ],
+    "nozzle_temperature_range_low": [
+        "280"
+    ],
+    "pressure_advance": [
+        "0.013"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "1"
+    ],
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "version": "2.3.0.3"
+}

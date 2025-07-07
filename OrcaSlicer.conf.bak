@@ -29,7 +29,7 @@
         "iot_environment": "3",
         "keyboard_supported": "none/alt/control/shift",
         "language": "en_GB",
-        "last_backup_path": "C:\\Users\\Tommy\\AppData\\Local\\Temp/orcaslicer_model/Sat_Jun_21/21_48_09#15676#49",
+        "last_backup_path": "C:\\Users\\Tommy\\AppData\\Local\\Temp/orcaslicer_model/Mon_Jul_07/07_18_13#14488#49",
         "last_export_path": "D:\\",
         "log_severity_level": "warning",
         "max_recent_count": "18",
@@ -86,7 +86,7 @@
         "user_mode": "advanced",
         "version": "01.10.01.50",
         "window_layout": "layout2|name=sidebar;caption=;state=1996;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=420;besth=900;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=main;caption=;state=256;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=20|dock_size(4,0,0)=422|",
-        "window_mainframe": "-1914; 171; 1914; 897; 0",
+        "window_mainframe": "-1913; 144; 1913; 933; 0",
         "zoom_to_mouse": true,
         "zoom_view": "none/mouse left"
     },
@@ -94,7 +94,7 @@
         "align_to_y_axis": true,
         "allow_multi_materials_on_same_plate": false,
         "enable_rotation_fff": false,
-        "min_object_distance_fff": "3"
+        "min_object_distance_fff": "0"
     },
     "custom_color_list": {
         "10": "0,0,0,255",
@@ -699,7 +699,7 @@
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Micron+ 0.4 nozzle",
-            "process": "0.2mm  4 4 4 Quality @Voron"
+            "process": "180 Quality 0.20mm Standard 4 4 4 @Voron"
         },
         {
             "curr_bed_type": "3",
@@ -820,12 +820,12 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "300 ASA Ambrosia Stardust",
-            "filament_colors": "#8080C0",
+            "filament": "ABS SunLu Grass Green !(gridfinitystoragebox_6xy_handle.3mf)",
+            "filament_colors": "#0E6901",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 300 0.4 nozzle ABS",
-            "process": "300 Fast 0.2mm  4 4 4 @Voron"
+            "process": "0.2mm  4 4 4 Quality @Voron"
         },
         {
             "curr_bed_type": "3",
@@ -847,12 +847,12 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "Siraya Tech PET-CF Shrinkage",
+            "filament": "Siraya Tech PET-CF Shrinkage 0.5",
             "filament_colors": "#EB4A05",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 300 0.5 nozzle PET CF",
-            "process": "300 Voron PIF PET CF"
+            "process": "300 Voron PIF PET CF 0.5"
         },
         {
             "curr_bed_type": "3",
@@ -892,8 +892,8 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "350 ASA Ambrosia Quadrant Teal",
-            "filament_colors": "#1FACB8",
+            "filament": "350 PLA  Kingroon White !",
+            "filament_colors": "#F0F0F0",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 350 0.4 nozzle - ABS",
@@ -920,7 +920,7 @@
     ],
     "presets": {
         "filaments": null,
-        "machine": "Voron 2.4 300 0.5 nozzle PET CF"
+        "machine": "Micron+ 0.4 nozzle"
     },
     "print": {
         "bed_leveling": "1",
@@ -928,29 +928,29 @@
         "timelapse": "1"
     },
     "recent": {
-        "last_opened_folder": "C:\\Users\\Tommy\\Documents\\GitHub\\Monolith_Gantry_V2-VT\\UserMods\\OlBamboozler",
+        "last_opened_folder": "D:\\Gridfinity\\gridfinity-bin-with-printable-label\\gridfinity-bin-with-printable-labelor-9u-12u-15u\\Bin 1xYx9",
         "printhost_path": "",
-        "settings_folder": "D:\\Portable Laptop Stand"
+        "settings_folder": "D:\\Gridfinity\\gridfinity-bin-with-printable-label\\Bin 4xYx6"
     },
     "recent_projects": {
-        "01": "D:\\Portable Laptop Stand\\1 - Easy Print 3mf - Laptop Stand.3mf",
-        "02": "D:\\Kobalt+Rail+for+DeWALT+Pole+Saw\\M3 KobaltRailDewaltPole2.3mf",
-        "03": "D:\\Bowden_Guide V2.3mf",
-        "04": "D:\\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf",
-        "05": "D:\\Both handles with Micron logo and fuzzy skin_x1.3mf",
-        "06": "C:\\Users\\Tommy\\Documents\\GitHub\\A4T\\3mf\\Backflow Inhibitors\\A4T Backflow Inhibitor [x2].3mf",
-        "07": "D:\\Drippy+Pail\\Handle.3mf",
-        "08": "D:\\Drippy+Pail\\Drippy.3mf",
-        "09": "D:\\Drippy+Pail\\Insert.3mf",
-        "10": "D:\\Drippy+Pail\\Pail.3mf",
-        "11": "D:\\zatyczki.3mf",
-        "12": "D:\\filament clip ROBUST.3mf",
-        "13": "D:\\small-arm-hinge.3mf",
-        "14": "D:\\Punisher+2099+Marvel+Rivals+Inspired+Mask\\punisher2099-mask.3mf",
-        "15": "D:\\Handle.3mf",
-        "16": "D:\\split_pg7_strain_relief.3mf",
-        "17": "D:\\ladybug_b6_preview.3mf",
-        "18": "D:\\windmill-wind-turbine-model_files\\Body\\Stopper D10 adapter.3mf"
+        "01": "D:\\Gridfinity\\gridfinity-bin-with-printable-label\\Bin 4xYx6\\gridfinitybin_4x1x6_d1_l12_s10.3mf",
+        "02": "D:\\Gridfinity\\gridfinity-storage-box\\Parametric V1 - Common Files and F3D\\gridfinitystoragebox_6xy_handle.3mf",
+        "03": "D:\\Gridfinity\\gridfinity-storage-box\\Parametric V1 - 6x5\\gridfinitystoragebox_6x5_lid.3mf",
+        "04": "D:\\filament clip ROBUST.3mf",
+        "05": "D:\\Portable Laptop Stand\\1 - Easy Print 3mf - Laptop Stand.3mf",
+        "06": "D:\\Kobalt+Rail+for+DeWALT+Pole+Saw\\M3 KobaltRailDewaltPole2.3mf",
+        "07": "D:\\Bowden_Guide V2.3mf",
+        "08": "D:\\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf",
+        "09": "D:\\Both handles with Micron logo and fuzzy skin_x1.3mf",
+        "10": "C:\\Users\\Tommy\\Documents\\GitHub\\A4T\\3mf\\Backflow Inhibitors\\A4T Backflow Inhibitor [x2].3mf",
+        "11": "D:\\Drippy+Pail\\Handle.3mf",
+        "12": "D:\\Drippy+Pail\\Drippy.3mf",
+        "13": "D:\\Drippy+Pail\\Insert.3mf",
+        "14": "D:\\Drippy+Pail\\Pail.3mf",
+        "15": "D:\\zatyczki.3mf",
+        "16": "D:\\small-arm-hinge.3mf",
+        "17": "D:\\Punisher+2099+Marvel+Rivals+Inspired+Mask\\punisher2099-mask.3mf",
+        "18": "D:\\Handle.3mf"
     }
 }
-# MD5 checksum E5E707A61C3BB6F241426B45EB889ED6
+# MD5 checksum C8D0DB69648B079A88747278B8A420CC
