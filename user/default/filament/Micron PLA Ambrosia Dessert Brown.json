@@ -3,22 +3,22 @@
         "Voron 2.4 300 0.4 nozzle"
     ],
     "default_filament_colour": [
-        "#F0F0F0"
+        "#948245"
     ],
     "enable_pressure_advance": [
         "1"
     ],
     "filament_flow_ratio": [
-        "0.958"
+        "0.973"
     ],
     "filament_max_volumetric_speed": [
         "27"
     ],
     "filament_settings_id": [
-        "Micron PLA Kingroon White"
+        "Micron PLA Ambrosia Dessert Brown"
     ],
     "filament_vendor": [
-        "Kingroon"
+        "Ambrosia"
     ],
     "from": "User",
     "hot_plate_temp": [
@@ -29,13 +29,7 @@
     ],
     "inherits": "SUNLU PLA+ @System",
     "is_custom_defined": "0",
-    "name": "Micron PLA Kingroon White",
-    "nozzle_temperature": [
-        "210"
-    ],
-    "nozzle_temperature_initial_layer": [
-        "210"
-    ],
+    "name": "Micron PLA Ambrosia Dessert Brown",
     "pressure_advance": [
         "0.024"
     ],

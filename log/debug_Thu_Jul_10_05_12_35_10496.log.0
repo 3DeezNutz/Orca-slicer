@@ -1,0 +1,19 @@
+[error]	2025-07-10 05:12:40.789179[Thread 0x00001134]:can not find parent for config C:\Users\Tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-07-10 05:12:45.997055[Thread 0x00001134]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-10 05:12:46.015007[Thread 0x00004064]:Unable to open the fileD:\zatyczki.3mf
+[error]	2025-07-10 05:12:46.031962[Thread 0x00002634]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-10 05:12:46.031962[Thread 0x00000390]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-07-10 05:12:46.031962[Thread 0x00000390]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-07-10 05:12:46.032960[Thread 0x000032b0]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-07-10 05:12:46.032960[Thread 0x000025ac]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-10 05:12:46.042932[Thread 0x00004200]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-10 05:12:46.045925[Thread 0x00002634]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-10 05:12:46.045925[Thread 0x000025ac]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-10 05:12:46.045925[Thread 0x00001134]:File Metadata/plate_1.png not found from archive
+[warning]	2025-07-10 05:12:49.172577[Thread 0x00001134]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-07-10 05:12:51.463469[Thread 0x00001134]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-10 05:12:56.184760[Thread 0x00001134]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-10 05:13:35.736771[Thread 0x00001134]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-10 05:14:09.056903[Thread 0x00001134]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-10 05:14:28.527042[Thread 0x00001134]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-10 15:02:33.037563[Thread 0x00001134]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

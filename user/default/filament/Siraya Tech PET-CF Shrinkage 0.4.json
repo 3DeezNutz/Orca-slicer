@@ -14,9 +14,6 @@
     "filament_end_gcode": [
         "; filament end gcode\nSET_GCODE_OFFSET z=0\nSET_TMC_CURRENT STEPPER=extruder  CURRENT=0.6\n"
     ],
-    "filament_flow_ratio": [
-        "1.04"
-    ],
     "filament_notes": [
         "Shirnkage \n\nXY= 99.6%\nZ = 98.7%"
     ],
@@ -33,7 +30,7 @@
         "98.7%"
     ],
     "filament_start_gcode": [
-        "; Filament gcode\nSET_GCODE_OFFSET z=0\nSET_GCODE_OFFSET Z_ADJUST=0.02\nSET_TMC_CURRENT STEPPER=extruder  CURRENT=0.8"
+        "; Filament gcode\nSET_GCODE_OFFSET z=0\nSET_GCODE_OFFSET Z_ADJUST=0.025\nSET_TMC_CURRENT STEPPER=extruder  CURRENT=0.8"
     ],
     "filament_vendor": [
         "Siraya Tech"

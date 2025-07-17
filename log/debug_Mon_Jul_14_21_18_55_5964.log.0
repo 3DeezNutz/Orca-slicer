@@ -1,0 +1,77 @@
+[error]	2025-07-14 21:19:00.600780[Thread 0x0000392c]:can not find parent for config C:\Users\Tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-07-14 21:19:06.442813[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-14 21:19:06.453783[Thread 0x00003570]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-07-14 21:19:06.471736[Thread 0x00004b34]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-14 21:19:06.471736[Thread 0x00002d38]:Unable to open the fileD:\zatyczki.3mf
+[error]	2025-07-14 21:19:06.472733[Thread 0x00005294]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-14 21:19:06.472733[Thread 0x000023c8]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-14 21:19:06.472733[Thread 0x0000392c]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-14 21:19:06.474728[Thread 0x00000460]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-14 21:19:06.474728[Thread 0x00000460]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-07-14 21:19:06.474728[Thread 0x00000460]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-07-14 21:19:06.484702[Thread 0x00004b34]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-14 21:19:06.485699[Thread 0x00003570]:File Metadata/plate_1.png not found from archive
+[error]	2025-07-14 21:19:09.845762[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-14 21:19:10.278042[Thread 0x0000392c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-07-15 21:01:44.756793[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-15 21:01:46.003118[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-15 21:01:46.018079[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-15 21:01:46.037027[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-15 21:01:46.053982[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-15 21:01:46.203482[Thread 0x0000392c]:Slic3r::PresetCollection::validate_preset: preset_name Bambu Lab P1S 0.4 nozzle, no inherit, set to not found
+[warning]	2025-07-15 21:01:46.203482[Thread 0x0000392c]:Slic3r::PresetBundle::validate_presets:file_name Pokeball.3mf, found the printer preset not inherit from system
+[warning]	2025-07-15 21:01:46.203482[Thread 0x0000392c]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA, no inherit, set to not found
+[warning]	2025-07-15 21:01:46.203482[Thread 0x0000392c]:Slic3r::PresetBundle::validate_presets:file_name Pokeball.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-07-15 21:01:46.203482[Thread 0x0000392c]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA, no inherit, set to not found
+[warning]	2025-07-15 21:01:46.203482[Thread 0x0000392c]:Slic3r::PresetBundle::validate_presets:file_name Pokeball.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-07-15 21:01:46.203482[Thread 0x0000392c]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA, no inherit, set to not found
+[warning]	2025-07-15 21:01:46.203482[Thread 0x0000392c]:Slic3r::PresetBundle::validate_presets:file_name Pokeball.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-07-15 21:01:46.203482[Thread 0x0000392c]:Slic3r::PresetBundle::validate_presets:file_name Pokeball.3mf, found self defined presets, count 2
+[error]	2025-07-15 21:04:33.144825[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-15 21:04:33.145822[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-15 21:04:33.145822[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-15 21:04:50.881029[Thread 0x00001a30]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-07-15 21:05:03.562560[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:03.577520[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:04.007135[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:04.021563[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:04.097273[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:04.112233[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:04.175585[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:04.193537[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:04.319201[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:04.334160[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:04.445448[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:04.462402[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:04.679459[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:04.695417[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:05.049414[Thread 0x00000460]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:05.078337[Thread 0x00000460]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:05.212976[Thread 0x00000460]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:05.244891[Thread 0x00000460]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:05.563963[Thread 0x00000460]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-15 21:05:05.578922[Thread 0x00000460]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-07-15 21:05:37.926969[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-15 21:05:42.980762[Thread 0x00001a30]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-07-15 21:05:56.923844[Thread 0x00001a30]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-07-16 04:33:19.714611[Thread 0x00001a30]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2025-07-16 04:35:23.245866[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-16 04:35:23.249855[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-16 04:35:23.251849[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-16 04:35:23.253847[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-16 16:59:53.883387[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-16 16:59:53.885383[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-16 17:00:01.689809[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-16 17:00:14.478330[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-16 17:00:14.495285[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-16 17:00:14.739631[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-16 17:00:14.756585[Thread 0x000051fc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-16 17:00:14.855321[Thread 0x00000460]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-16 17:00:14.871279[Thread 0x00000460]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-16 17:00:14.989961[Thread 0x00000460]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-16 17:00:15.007913[Thread 0x00000460]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-16 17:00:15.011903[Thread 0x00003570]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-16 17:00:15.031849[Thread 0x00003570]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-16 17:00:15.129589[Thread 0x00000460]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-07-16 17:00:15.145546[Thread 0x00000460]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-07-17 05:00:07.352136[Thread 0x0000392c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
