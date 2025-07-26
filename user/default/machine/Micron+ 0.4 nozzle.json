@@ -1,6 +1,6 @@
 {
-    "bed_custom_model": "C:\\\\Users\\\\Tommy\\\\Documents\\\\GitHub\\\\Micron\\\\Firmware\\\\Slicer\\\\BedModel\\\\micron-bed-model-simple-180.stl",
-    "bed_custom_texture": "C:\\\\Users\\\\Tommy\\\\Documents\\\\GitHub\\\\Micron\\\\Slicer\\\\micron-180-grid-green.png",
+    "bed_custom_model": "D:\\\\GitHub\\\\Micron\\\\Slicer\\\\micron-bed-model-simple-180.stl",
+    "bed_custom_texture": "D:\\\\GitHub\\\\Micron\\\\Slicer\\\\micron-180-grid-green.png",
     "before_layer_change_gcode": "SET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}\n;BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0\n",
     "change_filament_gcode": "M600",
     "enable_filament_ramming": "0",

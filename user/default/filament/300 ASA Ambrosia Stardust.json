@@ -235,10 +235,10 @@
         "260"
     ],
     "nozzle_temperature_range_high": [
-        "260"
+        "280"
     ],
     "nozzle_temperature_range_low": [
-        "230"
+        "250"
     ],
     "overhang_fan_speed": [
         "100"

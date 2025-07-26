@@ -28,7 +28,6 @@
     "print_settings_id": "0.2mm  4 4 4 Quality @Voron",
     "seam_gap": "15%",
     "skirt_height": "2",
-    "skirt_loops": "2",
     "skirt_speed": "125",
     "small_area_infill_flow_compensation": "1",
     "small_perimeter_speed": "30%",
