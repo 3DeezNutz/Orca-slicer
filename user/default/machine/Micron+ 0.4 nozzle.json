@@ -27,7 +27,7 @@
     "machine_start_gcode": ";M104 S0 ; Stops OrcaSlicer from sending temp waits separately\n;M140 S0\nCLEAR_PAUSE\nSET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nPRINT_START EXTRUDER=[first_layer_temperature] BED=[first_layer_bed_temperature] CHAMBER=[chamber_temperature]",
     "manual_filament_change": "1",
     "name": "Micron+ 0.4 nozzle",
-    "print_host": "192.168.2.89",
+    "print_host": "192.168.2.86",
     "printable_area": [
         "0x0",
         "180x0",

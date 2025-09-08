@@ -29,7 +29,7 @@
     "seam_gap": "15%",
     "skirt_height": "5",
     "skirt_loops": "2",
-    "skirt_speed": "125",
+    "skirt_speed": "60",
     "small_area_infill_flow_compensation": "1",
     "small_perimeter_speed": "30%",
     "sparse_infill_acceleration": "4000",

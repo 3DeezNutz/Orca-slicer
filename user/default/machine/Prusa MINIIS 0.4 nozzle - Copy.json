@@ -1,0 +1,10 @@
+{
+    "from": "User",
+    "inherits": "Prusa MINIIS 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Prusa MINIIS 0.4 nozzle - Copy",
+    "print_host": "http://192.168.2.132/",
+    "printer_settings_id": "Prusa MINIIS 0.4 nozzle - Copy",
+    "printhost_apikey": "5Zauo3xEN5sxL1rBrWaxtybb384DqrnL7aP3LtxjhLg",
+    "version": "2.2.0.4"
+}

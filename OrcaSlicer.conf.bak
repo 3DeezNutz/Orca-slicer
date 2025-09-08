@@ -29,8 +29,8 @@
         "iot_environment": "3",
         "keyboard_supported": "none/alt/control/shift",
         "language": "en_GB",
-        "last_backup_path": "C:\\Users\\Tommy\\AppData\\Local\\Temp/orcaslicer_model/Fri_Jul_25/19_58_57#4572#49",
-        "last_export_path": "C:\\Users\\Tommy\\Documents\\GitHub\\Armchair-Usermods\\files\\Xol-Toolhead\\Monolith_Xol-Carriage\\STLs",
+        "last_backup_path": "C:\\Users\\Tommy\\AppData\\Local\\Temp\\orcaslicer_model\\Fri_Sep_05\\18_09_15#21040#49",
+        "last_export_path": "D:\\",
         "log_severity_level": "warning",
         "max_recent_count": "18",
         "max_send": "3",
@@ -51,7 +51,7 @@
         "print_host_queue_dialog_x": "760",
         "print_host_queue_dialog_y": "415",
         "privacy_version": "00.00.00.00",
-        "project_load_behaviour": "ask_when_relevant",
+        "project_load_behaviour": "load_geometry_only",
         "region": "North America",
         "remember_printer_config": true,
         "reverse_mouse_wheel_zoom": false,
@@ -86,7 +86,7 @@
         "user_mode": "advanced",
         "version": "01.10.01.50",
         "window_layout": "layout2|name=sidebar;caption=;state=1996;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=420;besth=900;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=main;caption=;state=256;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=20|dock_size(4,0,0)=422|",
-        "window_mainframe": "-1913; 144; 1913; 933; 0",
+        "window_mainframe": "-1915; 125; 1913; 953; 0",
         "zoom_to_mouse": true,
         "zoom_view": "none/mouse left"
     },
@@ -710,7 +710,7 @@
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Micron+ 0.4 nozzle",
-            "process": "0.2mm  4 4 4 Quality @Voron"
+            "process": "180 Quality 0.20mm Standard 4 4 4 @Voron"
         },
         {
             "curr_bed_type": "3",
@@ -831,12 +831,12 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "300 PLA  Kingroon White !",
-            "filament_colors": "#F0F0F0",
+            "filament": "300 ASA Ambrosia Terrestrial Blue",
+            "filament_colors": "#4D99EE",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 300 0.4 nozzle ABS",
-            "process": "300 Fast 0.2mm  4 4 4 @Voron"
+            "process": "300 Voron PIF 2 settings"
         },
         {
             "curr_bed_type": "3",
@@ -903,12 +903,12 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "350 PLA+ Elegoo Red !",
-            "filament_colors": "#FF0000",
+            "filament": "350 PLA  Kingroon White !",
+            "filament_colors": "#F0F0F0",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 350 0.4 nozzle - ABS",
-            "process": "0.2mm  4 4 4 Quality @Voron"
+            "process": "350 Fast 0.20mm Standard 4 4 4 @Voron"
         },
         {
             "curr_bed_type": "3",
@@ -931,7 +931,7 @@
     ],
     "presets": {
         "filaments": null,
-        "machine": "Micron+ 0.4 nozzle"
+        "machine": "Voron 2.4 350 0.4 nozzle - ABS"
     },
     "print": {
         "bed_leveling": "1",
@@ -941,27 +941,27 @@
     "recent": {
         "last_opened_folder": "D:\\",
         "printhost_path": "",
-        "settings_folder": "D:\\Pokeball Yarn Crochet Bowl"
+        "settings_folder": "D:\\"
     },
     "recent_projects": {
-        "01": "D:\\Pokeball Yarn Crochet Bowl\\Pokeball.3mf",
-        "02": "D:\\windmill-wind-turbine-model_files\\Blades\\blade.3mf",
-        "03": "D:\\windmill-wind-turbine-model_files\\Body\\Stopper D10 adapter.3mf",
-        "04": "D:\\DrippyBox_150x90x76_V2.3mf",
-        "05": "D:\\Gridfinity\\gridfinity-bin-with-printable-label\\Bin 4xYx6\\gridfinitybin_4x1x6_d1_l12_s10.3mf",
-        "06": "D:\\Gridfinity\\gridfinity-storage-box\\Parametric V1 - Common Files and F3D\\gridfinitystoragebox_6xy_handle.3mf",
-        "07": "D:\\Gridfinity\\gridfinity-storage-box\\Parametric V1 - 6x5\\gridfinitystoragebox_6x5_lid.3mf",
-        "08": "D:\\filament clip ROBUST.3mf",
-        "09": "D:\\Portable Laptop Stand\\1 - Easy Print 3mf - Laptop Stand.3mf",
-        "10": "D:\\Kobalt+Rail+for+DeWALT+Pole+Saw\\M3 KobaltRailDewaltPole2.3mf",
-        "11": "D:\\Bowden_Guide V2.3mf",
-        "12": "D:\\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf",
-        "13": "D:\\Both handles with Micron logo and fuzzy skin_x1.3mf",
-        "14": "C:\\Users\\Tommy\\Documents\\GitHub\\A4T\\3mf\\Backflow Inhibitors\\A4T Backflow Inhibitor [x2].3mf",
-        "15": "D:\\Drippy+Pail\\Handle.3mf",
-        "16": "D:\\Drippy+Pail\\Drippy.3mf",
-        "17": "D:\\Drippy+Pail\\Insert.3mf",
-        "18": "D:\\Drippy+Pail\\Pail.3mf"
+        "01": "D:\\2.1 Amplifier Case.3mf",
+        "02": "D:\\bondo-tool.3mf",
+        "03": "D:\\Pokeball Yarn Crochet Bowl\\Pokeball.3mf",
+        "04": "D:\\windmill-wind-turbine-model_files\\Blades\\blade.3mf",
+        "05": "D:\\windmill-wind-turbine-model_files\\Body\\Stopper D10 adapter.3mf",
+        "06": "D:\\DrippyBox_150x90x76_V2.3mf",
+        "07": "D:\\Gridfinity\\gridfinity-bin-with-printable-label\\Bin 4xYx6\\gridfinitybin_4x1x6_d1_l12_s10.3mf",
+        "08": "D:\\Gridfinity\\gridfinity-storage-box\\Parametric V1 - Common Files and F3D\\gridfinitystoragebox_6xy_handle.3mf",
+        "09": "D:\\Gridfinity\\gridfinity-storage-box\\Parametric V1 - 6x5\\gridfinitystoragebox_6x5_lid.3mf",
+        "10": "D:\\filament clip ROBUST.3mf",
+        "11": "D:\\Portable Laptop Stand\\1 - Easy Print 3mf - Laptop Stand.3mf",
+        "12": "D:\\Kobalt+Rail+for+DeWALT+Pole+Saw\\M3 KobaltRailDewaltPole2.3mf",
+        "13": "D:\\Bowden_Guide V2.3mf",
+        "14": "D:\\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf",
+        "15": "D:\\Both handles with Micron logo and fuzzy skin_x1.3mf",
+        "16": "C:\\Users\\Tommy\\Documents\\GitHub\\A4T\\3mf\\Backflow Inhibitors\\A4T Backflow Inhibitor [x2].3mf",
+        "17": "D:\\Drippy+Pail\\Handle.3mf",
+        "18": "D:\\Drippy+Pail\\Drippy.3mf"
     }
 }
-# MD5 checksum AD8E81D440384F66A790800D589AE103
+# MD5 checksum 45FB67C9480A6E400332A4C85CCECC94

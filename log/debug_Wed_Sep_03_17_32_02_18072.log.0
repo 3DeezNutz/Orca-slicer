@@ -1,0 +1,17 @@
+[error]	2025-09-03 17:32:07.020930[Thread 0x00003b18]:can not find parent for config C:\Users\Tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-09-03 17:32:11.506770[Thread 0x00003b18]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-03 17:32:11.516743[Thread 0x00003b18]:Unable to open the fileD:\2.1 Amplifier Case.3mf
+[error]	2025-09-03 17:32:11.516743[Thread 0x00003b18]:Unable to open the fileD:\bondo-tool.3mf
+[error]	2025-09-03 17:32:11.516743[Thread 0x00002858]:Unable to open the fileD:\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf
+[error]	2025-09-03 17:32:11.517741[Thread 0x00002e54]:Unable to open the fileC:\Users\Tommy\Documents\GitHub\A4T\3mf\Backflow Inhibitors\A4T Backflow Inhibitor [x2].3mf
+[error]	2025-09-03 17:32:11.532701[Thread 0x00003b18]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-09-03 17:32:11.532701[Thread 0x00003b18]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-09-03 17:32:11.533699[Thread 0x0000113c]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-03 17:32:11.533699[Thread 0x0000113c]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-09-03 17:32:11.534696[Thread 0x00002bd8]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-03 17:32:11.534696[Thread 0x000037e4]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-03 17:32:11.543672[Thread 0x00001334]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-03 17:32:14.317158[Thread 0x00003b18]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-03 17:32:14.600190[Thread 0x00003b18]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-09-03 17:32:24.180333[Thread 0x00003b18]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-05 17:00:55.491743[Thread 0x00003b18]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

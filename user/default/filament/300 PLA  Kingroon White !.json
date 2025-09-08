@@ -180,7 +180,7 @@
         "0"
     ],
     "filament_start_gcode": [
-        "; Filament gcode\nSET_GCODE_OFFSET z=0\n\nSET_GCODE_OFFSET Z_ADJUST=0.070"
+        "; Filament gcode\nSET_GCODE_OFFSET z=0\n\nSET_GCODE_OFFSET Z_ADJUST=0.050"
     ],
     "filament_toolchange_delay": [
         "0"

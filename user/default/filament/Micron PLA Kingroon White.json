@@ -9,10 +9,13 @@
         "1"
     ],
     "filament_flow_ratio": [
-        "0.958"
+        "0.95"
     ],
     "filament_max_volumetric_speed": [
         "27"
+    ],
+    "filament_retraction_length": [
+        "0.8"
     ],
     "filament_settings_id": [
         "Micron PLA Kingroon White"
@@ -37,7 +40,7 @@
         "200"
     ],
     "pressure_advance": [
-        "0.024"
+        "0.022"
     ],
     "version": "2.3.0.3"
 }

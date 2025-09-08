@@ -30,7 +30,7 @@
         "98.7%"
     ],
     "filament_start_gcode": [
-        "; Filament gcode\nSET_GCODE_OFFSET z=0\nSET_GCODE_OFFSET Z_ADJUST=0.025\nSET_TMC_CURRENT STEPPER=extruder  CURRENT=0.8"
+        "; Filament gcode\nSET_GCODE_OFFSET z=0\nSET_GCODE_OFFSET Z_ADJUST=0.1\nSET_TMC_CURRENT STEPPER=extruder  CURRENT=0.8"
     ],
     "filament_vendor": [
         "Siraya Tech"
@@ -49,10 +49,10 @@
     "is_custom_defined": "0",
     "name": "Siraya Tech PET-CF Shrinkage 0.4",
     "nozzle_temperature": [
-        "300"
+        "320"
     ],
     "nozzle_temperature_initial_layer": [
-        "300"
+        "320"
     ],
     "nozzle_temperature_range_high": [
         "320"
