@@ -14,6 +14,7 @@
     "initial_layer_travel_speed": "500",
     "inner_wall_acceleration": "4000",
     "internal_bridge_flow": "0.8",
+    "internal_bridge_speed": "120",
     "internal_solid_infill_acceleration": "8000",
     "internal_solid_infill_line_width": "0.55",
     "is_custom_defined": "0",

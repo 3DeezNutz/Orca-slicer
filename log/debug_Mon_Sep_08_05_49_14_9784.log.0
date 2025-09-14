@@ -1,0 +1,19 @@
+[error]	2025-09-08 05:49:19.544484[Thread 0x00003894]:can not find parent for config C:\Users\Tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-09-08 05:49:24.214243[Thread 0x00003894]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-08 05:49:24.224216[Thread 0x00003894]:Unable to open the fileD:\2.1 Amplifier Case.3mf
+[error]	2025-09-08 05:49:24.224216[Thread 0x00003894]:Unable to open the fileD:\bondo-tool.3mf
+[error]	2025-09-08 05:49:24.224216[Thread 0x00003da4]:Unable to open the fileD:\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf
+[error]	2025-09-08 05:49:24.225214[Thread 0x000045bc]:Unable to open the fileC:\Users\Tommy\Documents\GitHub\A4T\3mf\Backflow Inhibitors\A4T Backflow Inhibitor [x2].3mf
+[error]	2025-09-08 05:49:24.225214[Thread 0x00003fb8]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-09-08 05:49:24.225214[Thread 0x00003fb8]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-09-08 05:49:24.225214[Thread 0x00003e78]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-09-08 05:49:24.242169[Thread 0x00003fb8]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-08 05:49:24.242169[Thread 0x000041b4]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-08 05:49:24.243166[Thread 0x000045bc]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-08 05:49:24.251765[Thread 0x00000ef4]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-08 05:49:27.251253[Thread 0x00003894]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-08 05:49:27.547441[Thread 0x00003894]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-09-08 08:23:48.068480[Thread 0x000041b4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-09-08 08:23:48.224064[Thread 0x000045bc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-09-08 08:23:48.271936[Thread 0x00003fb8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-09-09 16:54:03.471681[Thread 0x00003894]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

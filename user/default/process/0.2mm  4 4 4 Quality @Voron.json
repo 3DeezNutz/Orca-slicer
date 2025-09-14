@@ -18,6 +18,7 @@
     "initial_layer_travel_speed": "400",
     "inner_wall_acceleration": "3000",
     "inner_wall_speed": "150",
+    "internal_bridge_speed": "120",
     "internal_solid_infill_acceleration": "5000",
     "is_custom_defined": "0",
     "name": "0.2mm  4 4 4 Quality @Voron",

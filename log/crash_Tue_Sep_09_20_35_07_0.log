@@ -1,0 +1,236 @@
+Exceptions:
+Exception Code :c0000005 ACCESS_VIOLATION
+Exception Flag :0x0 NumberParameters :2 
+Param 0 :0x0 
+Param 1 :0xdfca7568 
+Context :000000ADC52C7F00 
+ContextFlag : 0x10005f, EFlags: 0x10206 
+Fault address:  0x16287667 0x1:0xC66667 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+
+Registers:
+RAX:0000022EDFC9EA00
+RBX:000000ADC52C8720
+RCX:0000022EDF965FF0
+RDX:000000000000000F
+RSI:0000022EDFE69050
+RDI:0000000000000000
+R8:0000022ED2548B80
+R9:0000000000000001
+R10:0000000000008000
+R11:000000ADC52C84B0
+R12:0000000000000000
+R13:0000000000000000
+R14:0000000000000001
+R15:0000000000000000
+CS:RIP:0033:00007FF916287667
+SS:RSP:002B:000000ADC52C8688  RBP:000000ADC52C8790
+DS:002B  ES:002B  FS:0053  GS:002B
+Flags:00010206
+
+Show CallStack:
+7ff916287667:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ff916301efc:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ff9162e8da2:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ff9165ffda2:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ff91752de9b:hid_write [Unknown file][-1]
+7ff917534a79:hid_write [Unknown file][-1]
+7ff9162526a2:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ff91752de9b:hid_write [Unknown file][-1]
+7ff917534a79:hid_write [Unknown file][-1]
+7ff9162514ab:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ff91752de9b:hid_write [Unknown file][-1]
+7ff917534a79:hid_write [Unknown file][-1]
+7ff9165e3504:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ff91752de9b:hid_write [Unknown file][-1]
+7ff917534a79:hid_write [Unknown file][-1]
+7ff9165e34b4:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ff91758ad2b:hid_write [Unknown file][-1]
+7ff91758c839:hid_write [Unknown file][-1]
+7ff917741f58:hid_write [Unknown file][-1]
+7ff9177408af:hid_write [Unknown file][-1]
+7ff917741053:hid_write [Unknown file][-1]
+7ff9177407db:hid_write [Unknown file][-1]
+7ff917740c0a:hid_write [Unknown file][-1]
+7ff91753bf24:hid_write [Unknown file][-1]
+7ff91753f5b8:hid_write [Unknown file][-1]
+7ff91755e5c9:hid_write [Unknown file][-1]
+7ff917561a3d:hid_write [Unknown file][-1]
+7ff917573a26:hid_write [Unknown file][-1]
+7ff9165e5d00:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ff9175423ff:hid_write [Unknown file][-1]
+7ff99fe2ef5c:CallWindowProcW [Unknown file][-1]
+7ff99fe2e8cc:DispatchMessageW [Unknown file][-1]
+7ff99fe410c3:SendMessageTimeoutW [Unknown file][-1]
+7ff9a19b1374:KiUserCallbackDispatcher [Unknown file][-1]
+7ff99f251124:NtUserMessageCall [Unknown file][-1]
+7ff99fe2cbd5:GetWindowTextW [Unknown file][-1]
+7ff99fe2c90d:GetWindowTextW [Unknown file][-1]
+7ff9859b6715:Ordinal395 [Unknown file][-1]
+7ff9859b64e1:Ordinal395 [Unknown file][-1]
+7ff99fe2ef5c:CallWindowProcW [Unknown file][-1]
+7ff99fe2e8cc:DispatchMessageW [Unknown file][-1]
+7ff99fe410c3:SendMessageTimeoutW [Unknown file][-1]
+7ff9a19b1374:KiUserCallbackDispatcher [Unknown file][-1]
+7ff99f251064:NtUserPeekMessage [Unknown file][-1]
+7ff99fe2a333:PeekMessageW [Unknown file][-1]
+7ff99fe2a293:PeekMessageW [Unknown file][-1]
+7ff91778031b:hid_write [Unknown file][-1]
+7ff91778028f:hid_write [Unknown file][-1]
+7ff9175d9237:hid_write [Unknown file][-1]
+7ff91777fcd3:hid_write [Unknown file][-1]
+7ff91777ff2a:hid_write [Unknown file][-1]
+7ff917566872:hid_write [Unknown file][-1]
+7ff91625a418:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ff9162726fa:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ff9165dfda5:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ff917741f66:hid_write [Unknown file][-1]
+7ff9177408af:hid_write [Unknown file][-1]
+7ff917740c9b:hid_write [Unknown file][-1]
+7ff917740f4f:hid_write [Unknown file][-1]
+7ff9177407db:hid_write [Unknown file][-1]
+7ff9163673a9:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ff917741f66:hid_write [Unknown file][-1]
+7ff9177408af:hid_write [Unknown file][-1]
+7ff917740c9b:hid_write [Unknown file][-1]
+7ff917740f4f:hid_write [Unknown file][-1]
+7ff9177407db:hid_write [Unknown file][-1]
+7ff917740c0a:hid_write [Unknown file][-1]
+7ff91753be90:hid_write [Unknown file][-1]
+7ff91753f5b8:hid_write [Unknown file][-1]
+7ff91755e5c9:hid_write [Unknown file][-1]
+7ff9175423ff:hid_write [Unknown file][-1]
+7ff99fe2ef5c:CallWindowProcW [Unknown file][-1]
+7ff99fe2e8cc:DispatchMessageW [Unknown file][-1]
+7ff99fe410c3:SendMessageTimeoutW [Unknown file][-1]
+7ff9a19b1374:KiUserCallbackDispatcher [Unknown file][-1]
+7ff99f251124:NtUserMessageCall [Unknown file][-1]
+7ff99fe2cbd5:GetWindowTextW [Unknown file][-1]
+7ff99fe2c90d:GetWindowTextW [Unknown file][-1]
+7ff9859b6715:Ordinal395 [Unknown file][-1]
+7ff9859b64e1:Ordinal395 [Unknown file][-1]
+7ff99fe2ef5c:CallWindowProcW [Unknown file][-1]
+7ff99fe2e8cc:DispatchMessageW [Unknown file][-1]
+7ff99fe410c3:SendMessageTimeoutW [Unknown file][-1]
+7ff9a19b1374:KiUserCallbackDispatcher [Unknown file][-1]
+7ff99f251064:NtUserPeekMessage [Unknown file][-1]
+7ff99fe2a333:PeekMessageW [Unknown file][-1]
+7ff99fe2a293:PeekMessageW [Unknown file][-1]
+7ff91778031b:hid_write [Unknown file][-1]
+7ff91778028f:hid_write [Unknown file][-1]
+7ff9175d9237:hid_write [Unknown file][-1]
+7ff91777fcd3:hid_write [Unknown file][-1]
+7ff91777ff2a:hid_write [Unknown file][-1]
+7ff917742cf1:hid_write [Unknown file][-1]
+7ff917745623:hid_write [Unknown file][-1]
+7ff9177a73b8:hid_write [Unknown file][-1]
+7ff91635dd16:BRepExtrema_SelfIntersection::`default constructor closure' [Unknown file][-1]
+7ff91597bf2d:Unknown [Unknown file][-1]
+7ff9159e7e1a:orcaslicer_main [Unknown file][-1]
+7ff7327458b2:Unknown [Unknown file][-1]
+7ff732745d66:Unknown [Unknown file][-1]
+7ff9a0107374:BaseThreadInitThunk [Unknown file][-1]
+7ff9a195cc91:RtlUserThreadStart [Unknown file][-1]
+
+Logical Address:
+0x16287667 0x1:0xC66667 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x16301EFC 0x1:0xCE0EFC C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x162E8DA2 0x1:0xCC7DA2 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x165FFDA2 0x1:0xFDEDA2 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1752DE9B 0x1:0x1F0CE9B C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17534A79 0x1:0x1F13A79 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x162526A2 0x1:0xC316A2 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1752DE9B 0x1:0x1F0CE9B C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17534A79 0x1:0x1F13A79 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x162514AB 0x1:0xC304AB C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1752DE9B 0x1:0x1F0CE9B C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17534A79 0x1:0x1F13A79 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x165E3504 0x1:0xFC2504 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1752DE9B 0x1:0x1F0CE9B C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17534A79 0x1:0x1F13A79 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x165E34B4 0x1:0xFC24B4 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1758AD2B 0x1:0x1F69D2B C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1758C839 0x1:0x1F6B839 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17741F58 0x1:0x2120F58 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x177408AF 0x1:0x211F8AF C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17741053 0x1:0x2120053 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x177407DB 0x1:0x211F7DB C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17740C0A 0x1:0x211FC0A C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1753BF24 0x1:0x1F1AF24 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1753F5B8 0x1:0x1F1E5B8 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1755E5C9 0x1:0x1F3D5C9 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17561A3D 0x1:0x1F40A3D C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17573A26 0x1:0x1F52A26 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x165E5D00 0x1:0xFC4D00 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x175423FF 0x1:0x1F213FF C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x9FE2EF5C 0x1:0xDF5C C:\WINDOWS\System32\USER32.dll
+0x9FE2E8CC 0x1:0xD8CC C:\WINDOWS\System32\USER32.dll
+0x9FE410C3 0x1:0x200C3 C:\WINDOWS\System32\USER32.dll
+0xA19B1374 0x1:0xA0374 C:\WINDOWS\SYSTEM32\ntdll.dll
+0x9F251124 0x1:0x124 C:\WINDOWS\System32\win32u.dll
+0x9FE2CBD5 0x1:0xBBD5 C:\WINDOWS\System32\USER32.dll
+0x9FE2C90D 0x1:0xB90D C:\WINDOWS\System32\USER32.dll
+0x859B6715 0x1:0x65715 C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.5915_none_60b4b9d171f9c7c7\COMCTL32.dll
+0x859B64E1 0x1:0x654E1 C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.5915_none_60b4b9d171f9c7c7\COMCTL32.dll
+0x9FE2EF5C 0x1:0xDF5C C:\WINDOWS\System32\USER32.dll
+0x9FE2E8CC 0x1:0xD8CC C:\WINDOWS\System32\USER32.dll
+0x9FE410C3 0x1:0x200C3 C:\WINDOWS\System32\USER32.dll
+0xA19B1374 0x1:0xA0374 C:\WINDOWS\SYSTEM32\ntdll.dll
+0x9F251064 0x1:0x64 C:\WINDOWS\System32\win32u.dll
+0x9FE2A333 0x1:0x9333 C:\WINDOWS\System32\USER32.dll
+0x9FE2A293 0x1:0x9293 C:\WINDOWS\System32\USER32.dll
+0x1778031B 0x1:0x215F31B C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1778028F 0x1:0x215F28F C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x175D9237 0x1:0x1FB8237 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1777FCD3 0x1:0x215ECD3 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1777FF2A 0x1:0x215EF2A C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17566872 0x1:0x1F45872 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1625A418 0x1:0xC39418 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x162726FA 0x1:0xC516FA C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x165DFDA5 0x1:0xFBEDA5 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17741F66 0x1:0x2120F66 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x177408AF 0x1:0x211F8AF C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17740C9B 0x1:0x211FC9B C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17740F4F 0x1:0x211FF4F C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x177407DB 0x1:0x211F7DB C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x163673A9 0x1:0xD463A9 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17741F66 0x1:0x2120F66 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x177408AF 0x1:0x211F8AF C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17740C9B 0x1:0x211FC9B C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17740F4F 0x1:0x211FF4F C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x177407DB 0x1:0x211F7DB C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17740C0A 0x1:0x211FC0A C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1753BE90 0x1:0x1F1AE90 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1753F5B8 0x1:0x1F1E5B8 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1755E5C9 0x1:0x1F3D5C9 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x175423FF 0x1:0x1F213FF C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x9FE2EF5C 0x1:0xDF5C C:\WINDOWS\System32\USER32.dll
+0x9FE2E8CC 0x1:0xD8CC C:\WINDOWS\System32\USER32.dll
+0x9FE410C3 0x1:0x200C3 C:\WINDOWS\System32\USER32.dll
+0xA19B1374 0x1:0xA0374 C:\WINDOWS\SYSTEM32\ntdll.dll
+0x9F251124 0x1:0x124 C:\WINDOWS\System32\win32u.dll
+0x9FE2CBD5 0x1:0xBBD5 C:\WINDOWS\System32\USER32.dll
+0x9FE2C90D 0x1:0xB90D C:\WINDOWS\System32\USER32.dll
+0x859B6715 0x1:0x65715 C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.5915_none_60b4b9d171f9c7c7\COMCTL32.dll
+0x859B64E1 0x1:0x654E1 C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.5915_none_60b4b9d171f9c7c7\COMCTL32.dll
+0x9FE2EF5C 0x1:0xDF5C C:\WINDOWS\System32\USER32.dll
+0x9FE2E8CC 0x1:0xD8CC C:\WINDOWS\System32\USER32.dll
+0x9FE410C3 0x1:0x200C3 C:\WINDOWS\System32\USER32.dll
+0xA19B1374 0x1:0xA0374 C:\WINDOWS\SYSTEM32\ntdll.dll
+0x9F251064 0x1:0x64 C:\WINDOWS\System32\win32u.dll
+0x9FE2A333 0x1:0x9333 C:\WINDOWS\System32\USER32.dll
+0x9FE2A293 0x1:0x9293 C:\WINDOWS\System32\USER32.dll
+0x1778031B 0x1:0x215F31B C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1778028F 0x1:0x215F28F C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x175D9237 0x1:0x1FB8237 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1777FCD3 0x1:0x215ECD3 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1777FF2A 0x1:0x215EF2A C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17742CF1 0x1:0x2121CF1 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x17745623 0x1:0x2124623 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x177A73B8 0x1:0x21863B8 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1635DD16 0x1:0xD3CD16 C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x1597BF2D 0x1:0x35AF2D C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x159E7E1A 0x1:0x3C6E1A C:\Users\Tommy\Desktop\OrcaSlicer\OrcaSlicer.dll
+0x327458B2 0x1:0x48B2 C:\Users\Tommy\Desktop\OrcaSlicer\orca-slicer.exe
+0x32745D66 0x1:0x4D66 C:\Users\Tommy\Desktop\OrcaSlicer\orca-slicer.exe
+0xA0107374 0x1:0x16374 C:\WINDOWS\System32\KERNEL32.DLL
+0xA195CC91 0x1:0x4BC91 C:\WINDOWS\SYSTEM32\ntdll.dll
