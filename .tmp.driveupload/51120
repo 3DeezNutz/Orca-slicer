@@ -1,0 +1,27 @@
+[error]	2025-09-13 21:35:13.980505[Thread 0x00005274]:can not find parent for config C:\Users\Tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-09-13 21:35:19.123801[Thread 0x00005274]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-13 21:35:19.135768[Thread 0x00005274]:Unable to open the fileD:\2.1 Amplifier Case.3mf
+[error]	2025-09-13 21:35:19.135768[Thread 0x00001ba8]:Unable to open the fileD:\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf
+[error]	2025-09-13 21:35:19.136766[Thread 0x00005274]:Unable to open the fileD:\bondo-tool.3mf
+[error]	2025-09-13 21:35:19.136766[Thread 0x00001198]:Unable to open the fileC:\Users\Tommy\Documents\GitHub\A4T\3mf\Backflow Inhibitors\A4T Backflow Inhibitor [x2].3mf
+[error]	2025-09-13 21:35:19.156713[Thread 0x00001198]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-13 21:35:19.156713[Thread 0x000034a4]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-09-13 21:35:19.156713[Thread 0x000034a4]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-09-13 21:35:19.156713[Thread 0x000034a4]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-09-13 21:35:19.168681[Thread 0x00001030]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-13 21:35:19.169678[Thread 0x00001198]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-13 21:35:19.170676[Thread 0x00005274]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-13 21:35:22.147308[Thread 0x00005274]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-13 21:35:22.419075[Thread 0x00005274]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-09-13 21:36:09.212663[Thread 0x00005274]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-13 21:36:52.219415[Thread 0x00003ef8]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-09-13 21:40:44.640008[Thread 0x0000494c]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Non-ASCII7 characters are only allowed inside text blocks and string literals, not inside code blocks.
+零件8_ABS+_5m26s
+^
+[error]	2025-09-14 07:29:28.974190[Thread 0x00005274]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-14 13:28:35.070884[Thread 0x00005274]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-14 13:28:59.753985[Thread 0x00003ef8]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-09-14 13:28:59.770939[Thread 0x00005274]:Slic3r::GUI::PartPlateList::postprocess_bed_index_for_current_plate: can not be arranged inside plate!
+[error]	2025-09-14 13:29:01.817933[Thread 0x00005274]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-14 13:29:02.763363[Thread 0x00005274]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5453: ui jobs running, return false
+[error]	2025-09-14 13:29:29.021970[Thread 0x00005274]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

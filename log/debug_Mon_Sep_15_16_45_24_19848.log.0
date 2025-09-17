@@ -1,0 +1,29 @@
+[error]	2025-09-15 16:45:27.489680[Thread 0x0000294c]:can not find parent for config C:\Users\Tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-09-15 16:45:31.946776[Thread 0x0000294c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-15 16:45:31.950764[Thread 0x0000294c]:Unable to open the fileD:\2.1 Amplifier Case.3mf
+[error]	2025-09-15 16:45:31.950764[Thread 0x0000294c]:Unable to open the fileD:\bondo-tool.3mf
+[error]	2025-09-15 16:45:31.950764[Thread 0x00000518]:Unable to open the fileD:\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf
+[error]	2025-09-15 16:45:31.951763[Thread 0x00004700]:Unable to open the fileC:\Users\Tommy\Documents\GitHub\A4T\3mf\Backflow Inhibitors\A4T Backflow Inhibitor [x2].3mf
+[error]	2025-09-15 16:45:31.951763[Thread 0x00005050]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-09-15 16:45:31.951763[Thread 0x00005050]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-09-15 16:45:31.968718[Thread 0x00002a88]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-09-15 16:45:31.969715[Thread 0x00003fcc]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-15 16:45:31.969715[Thread 0x00004700]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-15 16:45:31.969715[Thread 0x000057d8]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-15 16:45:31.978690[Thread 0x00002a88]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-15 16:45:34.719556[Thread 0x0000294c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-15 16:45:35.136583[Thread 0x0000294c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-09-15 16:46:13.464728[Thread 0x0000294c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-15 16:46:14.062656[Thread 0x0000294c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-15 16:46:57.977357[Thread 0x0000294c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-15 16:46:59.262570[Thread 0x0000294c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-15 16:47:10.209809[Thread 0x0000294c]:select_plate error for plate_idx=-1
+[error]	2025-09-15 16:47:10.231748[Thread 0x0000294c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-15 16:47:11.425589[Thread 0x0000294c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-15 16:47:33.110748[Thread 0x0000294c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-09-15 16:47:53.014569[Thread 0x00004958]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2025-09-15 16:48:06.126050[Thread 0x00003a7c]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[error]	2025-09-15 16:48:08.919928[Thread 0x0000294c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-15 16:48:20.290299[Thread 0x0000294c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-15 16:58:14.419452[Thread 0x0000294c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-17 16:19:54.559566[Thread 0x0000294c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

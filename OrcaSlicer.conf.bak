@@ -29,7 +29,7 @@
         "iot_environment": "3",
         "keyboard_supported": "none/alt/control/shift",
         "language": "en_GB",
-        "last_backup_path": "C:\\Users\\Tommy\\AppData\\Local\\Temp/orcaslicer_model/Sun_Sep_14/13_29_45#19568#49",
+        "last_backup_path": "C:\\Users\\Tommy\\AppData\\Local\\Temp/orcaslicer_model/Mon_Sep_15/16_45_34#19848#49",
         "last_export_path": "D:\\",
         "log_severity_level": "warning",
         "max_recent_count": "18",
@@ -831,12 +831,12 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "300 ASA Ambrosia Terrestrial Blue",
-            "filament_colors": "#4D99EE",
+            "filament": "Siraya Tech PET-CF Shrinkage 0.4",
+            "filament_colors": "#EB4A05",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 300 0.4 nozzle ABS",
-            "process": "300 Voron PIF 2 settings"
+            "process": "300 Voron PIF PET CF 0.4"
         },
         {
             "curr_bed_type": "3",
@@ -931,7 +931,7 @@
     ],
     "presets": {
         "filaments": null,
-        "machine": "Micron+ 0.4 nozzle"
+        "machine": "Voron 2.4 350 0.4 nozzle - ABS"
     },
     "print": {
         "bed_leveling": "1",
@@ -964,4 +964,4 @@
         "18": "D:\\Drippy+Pail\\Drippy.3mf"
     }
 }
-# MD5 checksum F763DA9AD0A7101CCF80A72009060D26
+# MD5 checksum 7466646074338DC86073716EE4645039
