@@ -1,0 +1,29 @@
+[error]	2025-09-18 19:32:58.619491[Thread 0x00003438]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-09-18 19:33:02.444035[Thread 0x00003438]:Unable to load bed model: D:\GitHub\Micron\Slicer\micron-bed-model-simple-180.stl
+[error]	2025-09-18 19:33:02.445032[Thread 0x00003438]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-18 19:33:02.447027[Thread 0x00003438]:Unable to load bed texture: D:\GitHub\Micron\Slicer\micron-180-grid-green.png
+[error]	2025-09-18 19:33:02.453011[Thread 0x00003438]:Unable to open the fileD:\2.1 Amplifier Case.3mf
+[error]	2025-09-18 19:33:02.453011[Thread 0x00003438]:Unable to open the fileD:\bondo-tool.3mf
+[error]	2025-09-18 19:33:02.453011[Thread 0x00003980]:Unable to open the fileD:\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf
+[error]	2025-09-18 19:33:02.453011[Thread 0x000033e4]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-09-18 19:33:02.453011[Thread 0x000033e4]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-09-18 19:33:02.457998[Thread 0x000033e4]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-18 19:33:02.457998[Thread 0x000033e4]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-18 19:33:02.457998[Thread 0x000033e4]:Unable to open the fileC:\Users\Tommy\Documents\GitHub\A4T\3mf\Backflow Inhibitors\A4T Backflow Inhibitor [x2].3mf
+[error]	2025-09-18 19:33:02.458995[Thread 0x00003438]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-09-18 19:33:02.459992[Thread 0x000033e4]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-18 19:33:02.459992[Thread 0x00003438]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-18 19:33:02.717472[Thread 0x00003438]:Unable to load bed model: D:\GitHub\Micron\Slicer\micron-bed-model-simple-180.stl
+[error]	2025-09-18 19:33:02.717472[Thread 0x00003438]:Unable to load bed texture: D:\GitHub\Micron\Slicer\micron-180-grid-green.png
+[error]	2025-09-18 19:33:04.953853[Thread 0x00003438]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-18 19:33:05.109002[Thread 0x00003438]:Unable to load bed model: D:\GitHub\Micron\Slicer\micron-bed-model-simple-180.stl
+[error]	2025-09-18 19:33:05.109002[Thread 0x00003438]:Unable to load bed texture: D:\GitHub\Micron\Slicer\micron-180-grid-green.png
+[warning]	2025-09-18 19:33:05.259956[Thread 0x00003438]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-09-18 19:33:25.400627[Thread 0x00003438]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-18 19:33:28.239217[Thread 0x00003438]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-18 19:33:48.287414[Thread 0x00003438]:Unable to load bed model: D:\GitHub\Micron\Slicer\micron-bed-model-simple-180.stl
+[error]	2025-09-18 19:33:48.287414[Thread 0x00003438]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-18 19:33:48.288411[Thread 0x00003438]:Unable to load bed texture: D:\GitHub\Micron\Slicer\micron-180-grid-green.png
+[error]	2025-09-18 19:40:21.102980[Thread 0x00003438]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-18 19:40:21.272278[Thread 0x00003438]:Unable to load bed model: D:\GitHub\Micron\Slicer\micron-bed-model-simple-180.stl
+[error]	2025-09-18 19:40:21.272278[Thread 0x00003438]:Unable to load bed texture: D:\GitHub\Micron\Slicer\micron-180-grid-green.png
