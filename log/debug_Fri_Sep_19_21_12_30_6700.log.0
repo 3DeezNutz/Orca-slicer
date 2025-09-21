@@ -1,0 +1,16 @@
+[error]	2025-09-19 21:12:36.385650[Thread 0x00000998]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-09-19 21:12:41.793772[Thread 0x00000998]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-19 21:12:41.804258[Thread 0x00002d14]:Unable to open the fileD:\bondo-tool.3mf
+[error]	2025-09-19 21:12:41.807252[Thread 0x00000998]:Unable to open the fileD:\2.1 Amplifier Case.3mf
+[error]	2025-09-19 21:12:41.807252[Thread 0x00002450]:Unable to open the fileD:\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf
+[error]	2025-09-19 21:12:41.808250[Thread 0x00002d14]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-09-19 21:12:41.808250[Thread 0x00002d14]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-09-19 21:12:41.808250[Thread 0x00002d14]:Unable to open the fileC:\Users\Tommy\Documents\GitHub\A4T\3mf\Backflow Inhibitors\A4T Backflow Inhibitor [x2].3mf
+[error]	2025-09-19 21:12:41.821742[Thread 0x000029c8]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-09-19 21:12:41.821742[Thread 0x00002d14]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-19 21:12:41.822739[Thread 0x00000998]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-19 21:12:41.834740[Thread 0x000029c8]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-19 21:12:41.834740[Thread 0x00002d14]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-19 21:12:45.755856[Thread 0x00000998]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-19 21:12:46.067676[Thread 0x00000998]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-09-19 21:13:10.473973[Thread 0x00000998]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
