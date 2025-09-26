@@ -32,3 +32,5 @@
 [warning]	2025-09-21 06:43:14.671699[Thread 0x000012e8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
 [warning]	2025-09-21 06:43:14.930414[Thread 0x000012e8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
 [warning]	2025-09-21 06:43:14.976570[Thread 0x00001b50]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-09-21 09:13:12.914160[Thread 0x00000f80]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-09-21 09:44:43.400318[Thread 0x00001d88]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

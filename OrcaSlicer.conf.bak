@@ -29,7 +29,7 @@
         "iot_environment": "3",
         "keyboard_supported": "none/alt/control/shift",
         "language": "en_GB",
-        "last_backup_path": "C:\\Users\\tommy\\AppData\\Local\\Temp/orcaslicer_model/Sat_Sep_20/00_14_47#11404#49",
+        "last_backup_path": "C:\\Users\\tommy\\AppData\\Local\\Temp/orcaslicer_model/Wed_Sep_24/05_53_53#16796#49",
         "last_export_path": "D:\\",
         "log_severity_level": "warning",
         "max_recent_count": "18",
@@ -705,8 +705,8 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "Micron PLA+ SunLu Green",
-            "filament_colors": "#2FFF63",
+            "filament": "Micron PLA Landu Black",
+            "filament_colors": "#000000",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Micron+ 0.4 nozzle",
@@ -939,7 +939,7 @@
         "timelapse": "1"
     },
     "recent": {
-        "last_opened_folder": "D:\\clicker fidget",
+        "last_opened_folder": "D:\\pirates-treasure-chest-model_files",
         "printhost_path": "",
         "settings_folder": "D:\\"
     },
@@ -964,4 +964,4 @@
         "18": "D:\\Drippy+Pail\\Drippy.3mf"
     }
 }
-# MD5 checksum 60F2838A777FACE78AA36CEAE48B32F6
+# MD5 checksum 94B23F9351E80EFB288F41A27A7A652E
