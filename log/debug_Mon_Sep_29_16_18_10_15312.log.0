@@ -1,0 +1,19 @@
+[error]	2025-09-29 16:18:17.035774[Thread 0x00000d24]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-09-29 16:18:23.711573[Thread 0x00000d24]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-29 16:18:23.723346[Thread 0x00000b68]:Unable to open the fileC:\Users\Tommy\Documents\GitHub\A4T\3mf\Backflow Inhibitors\A4T Backflow Inhibitor [x2].3mf
+[error]	2025-09-29 16:18:23.726218[Thread 0x00003a44]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-09-29 16:18:23.726218[Thread 0x00000d24]:Unable to open the fileD:\2.1 Amplifier Case.3mf
+[error]	2025-09-29 16:18:23.726218[Thread 0x00001ab4]:Unable to open the fileD:\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf
+[error]	2025-09-29 16:18:23.726218[Thread 0x00000d24]:Unable to open the fileD:\bondo-tool.3mf
+[error]	2025-09-29 16:18:23.726218[Thread 0x000043d4]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-09-29 16:18:23.726218[Thread 0x00004a48]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-09-29 16:18:23.740813[Thread 0x00000d24]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-29 16:18:23.740813[Thread 0x00000b68]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-29 16:18:23.742831[Thread 0x000043d4]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-29 16:18:23.752446[Thread 0x00000b68]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-29 16:18:27.471786[Thread 0x00000d24]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-29 16:18:27.804228[Thread 0x00000d24]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-09-29 16:18:28.808909[Thread 0x00002c7c]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Operation timed out after 1003 milliseconds with 0 out of 0 bytes received
+[Error 28]
+[error]	2025-09-30 05:27:55.974769[Thread 0x00000d24]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

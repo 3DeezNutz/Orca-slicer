@@ -78,3 +78,13 @@
 [error]	2025-09-25 18:25:32.791110[Thread 0x00002270]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-09-25 18:25:32.792377[Thread 0x00002270]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-09-25 18:25:32.792377[Thread 0x00002270]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-25 19:20:20.707230[Thread 0x00002270]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-25 19:55:49.420792[Thread 0x00002270]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-25 20:56:37.867048[Thread 0x000027b4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-09-25 20:57:20.724405[Thread 0x00002270]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-25 20:57:21.663624[Thread 0x00002270]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-25 20:57:21.995900[Thread 0x00002270]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-25 20:57:22.543555[Thread 0x00002270]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-09-25 20:57:27.445525[Thread 0x000027b4]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-09-26 05:27:37.546910[Thread 0x00002270]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-26 05:27:41.842739[Thread 0x00002270]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

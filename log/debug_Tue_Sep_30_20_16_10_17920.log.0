@@ -1,0 +1,19 @@
+[error]	2025-09-30 20:16:15.963885[Thread 0x00000628]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-09-30 20:16:21.908095[Thread 0x00000628]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-30 20:16:21.918036[Thread 0x00000628]:Unable to open the fileD:\2.1 Amplifier Case.3mf
+[error]	2025-09-30 20:16:21.918036[Thread 0x00000628]:Unable to open the fileD:\bondo-tool.3mf
+[error]	2025-09-30 20:16:21.919174[Thread 0x00003ff4]:Unable to open the fileD:\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf
+[error]	2025-09-30 20:16:21.919174[Thread 0x00001a00]:Unable to open the fileC:\Users\Tommy\Documents\GitHub\A4T\3mf\Backflow Inhibitors\A4T Backflow Inhibitor [x2].3mf
+[error]	2025-09-30 20:16:21.919174[Thread 0x00000e24]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-09-30 20:16:21.919174[Thread 0x00000e24]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-09-30 20:16:21.934429[Thread 0x00001a00]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-30 20:16:21.934429[Thread 0x00000c34]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-30 20:16:21.934429[Thread 0x00000c34]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-09-30 20:16:21.935932[Thread 0x00000e24]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-30 20:16:21.944896[Thread 0x00003ff4]:File Metadata/plate_1.png not found from archive
+[error]	2025-09-30 20:16:25.820533[Thread 0x00000628]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-30 20:16:26.268259[Thread 0x00000628]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-09-30 20:18:54.144898[Thread 0x00000b4c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-09-30 20:19:45.721822[Thread 0x00000b4c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-01 04:39:11.499427[Thread 0x00000b4c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-10-02 18:53:34.797543[Thread 0x00000628]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
