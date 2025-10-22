@@ -1,0 +1,40 @@
+{
+    "compatible_printers": [
+        "Voron 2.4 300 0.4 nozzle"
+    ],
+    "default_filament_colour": [
+        "#FF0000"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.977"
+    ],
+    "filament_max_volumetric_speed": [
+        "27"
+    ],
+    "filament_settings_id": [
+        "Micron PLA+ Elegoo Red"
+    ],
+    "filament_type": [
+        "PLA+"
+    ],
+    "filament_vendor": [
+        "Elegoo"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "SUNLU PLA+ @System",
+    "is_custom_defined": "0",
+    "name": "Micron PLA+ Elegoo Red",
+    "pressure_advance": [
+        "0.024"
+    ],
+    "version": "2.3.0.3"
+}

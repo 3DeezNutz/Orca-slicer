@@ -1,0 +1,14 @@
+[error]	2025-10-22 16:07:44.220347[Thread 0x00008084]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-10-22 16:07:50.867817[Thread 0x00008084]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-22 16:07:50.880463[Thread 0x00008084]:Unable to open the fileD:\2.1 Amplifier Case.3mf
+[error]	2025-10-22 16:07:50.880463[Thread 0x00008084]:Unable to open the fileD:\bondo-tool.3mf
+[error]	2025-10-22 16:07:50.880463[Thread 0x00000ef4]:Unable to open the fileD:\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf
+[error]	2025-10-22 16:07:50.880463[Thread 0x00005d80]:Unable to open the fileC:\Users\Tommy\Documents\GitHub\A4T\3mf\Backflow Inhibitors\A4T Backflow Inhibitor [x2].3mf
+[error]	2025-10-22 16:07:50.881465[Thread 0x00007418]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-10-22 16:07:50.881465[Thread 0x00006fdc]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-10-22 16:07:50.881465[Thread 0x00007418]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-10-22 16:07:50.881465[Thread 0x00005d80]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-22 16:07:50.881465[Thread 0x00006fdc]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-22 16:07:50.881465[Thread 0x00007418]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-22 16:07:50.881465[Thread 0x00002884]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-22 16:07:56.393890[Thread 0x00008084]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

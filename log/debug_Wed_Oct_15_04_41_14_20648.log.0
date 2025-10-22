@@ -1,0 +1,131 @@
+[error]	2025-10-15 04:41:15.247825[Thread 0x000030dc]:Slic3r::ConfigBase::load_from_json: parse C:\Users\tommy\AppData\Roaming\OrcaSlicer\system/OrcaFilamentLibrary/filament/base/fdm_filament_pla_silk.json got a nlohmann::detail::parse_error, reason = [json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - unexpected end of input; expected '[', '{', or a literal
+[error]	2025-10-15 04:41:15.247825[Thread 0x000030dc]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_b0a97289399420609d82f280b812c98d>::operator (): load config file C:\Users\tommy\AppData\Roaming\OrcaSlicer\system/OrcaFilamentLibrary/filament/base/fdm_filament_pla_silk.json Failed!
+[error]	2025-10-15 04:41:15.247825[Thread 0x000030dc]:Slic3r::PresetBundle::load_vendor_configs_from_json, got error when parse filament setting from C:\Users\tommy\AppData\Roaming\OrcaSlicer\system/OrcaFilamentLibrary/filament/base/fdm_filament_pla_silk.json
+[error]	2025-10-15 04:41:15.272160[Thread 0x000030dc]:Slic3r::PresetBundle::load_vendor_configs_from_json::<lambda_b0a97289399420609d82f280b812c98d>::operator (): can not find inherits Generic PLA @System for Generic PLA @MyToolChanger
+[error]	2025-10-15 04:41:15.272160[Thread 0x000030dc]:Slic3r::PresetBundle::load_vendor_configs_from_json, got error when parse filament setting from C:\Users\tommy\AppData\Roaming\OrcaSlicer\system/Custom/filament/Generic PLA @MyToolChanger.json
+[error]	2025-10-15 04:41:18.184373[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Models 3 3 3.json!
+[error]	2025-10-15 04:41:18.191545[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm PETG 4 4 4.json!
+[error]	2025-10-15 04:41:18.232940[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard 3 3 3.json!
+[error]	2025-10-15 04:41:18.248218[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard 4 4 4.json!
+[error]	2025-10-15 04:41:18.258667[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-10-15 04:41:18.288258[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm TPU 3 3 3.json!
+[error]	2025-10-15 04:41:18.536270[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS GeeeTech Black.json!
+[error]	2025-10-15 04:41:18.548823[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS HatckBox Pink.json!
+[error]	2025-10-15 04:41:18.557863[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS HatckBox Purple !.json!
+[error]	2025-10-15 04:41:18.567481[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS NAGA Gray.json!
+[error]	2025-10-15 04:41:18.575843[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS NAGA Green.json!
+[error]	2025-10-15 04:41:18.582732[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS NAGA Oranage.json!
+[error]	2025-10-15 04:41:18.590638[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS NAGA Purple #.json!
+[error]	2025-10-15 04:41:18.599209[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS NAGA SkyBlue.json!
+[error]	2025-10-15 04:41:18.611958[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS NAGA White.json!
+[error]	2025-10-15 04:41:18.618998[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS NAGA yellow.json!
+[error]	2025-10-15 04:41:18.631870[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS NovaMaker Green.json!
+[error]	2025-10-15 04:41:18.639526[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS Peakace Pruple.json!
+[error]	2025-10-15 04:41:18.652555[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS PolyMaker Army Green.json!
+[error]	2025-10-15 04:41:18.659575[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS PolyMaker Black.json!
+[error]	2025-10-15 04:41:18.667916[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS PolyMaker Lime.json!
+[error]	2025-10-15 04:41:18.679758[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS SunLu Black !.json!
+[error]	2025-10-15 04:41:18.688879[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS SunLu Blue.json!
+[error]	2025-10-15 04:41:18.695922[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS SunLu Grass Green.json!
+[error]	2025-10-15 04:41:18.709451[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS SunLu Green !.json!
+[error]	2025-10-15 04:41:18.717522[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS SunLu Red.json!
+[error]	2025-10-15 04:41:18.725515[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS SunLu white.json!
+[error]	2025-10-15 04:41:18.738517[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS+ GaintArm Apple Green.json!
+[error]	2025-10-15 04:41:18.747532[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS+ GaintArm Black.json!
+[error]	2025-10-15 04:41:18.756401[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS+ GaintArm Blue.json!
+[error]	2025-10-15 04:41:18.769859[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS+ GaintArm Orange !.json!
+[error]	2025-10-15 04:41:18.778858[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS+ GaintArm Red.json!
+[error]	2025-10-15 04:41:18.786698[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ABS+ GaintArm Yellow !.json!
+[error]	2025-10-15 04:41:18.795372[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ASA Ambrosia Stardust.json!
+[error]	2025-10-15 04:41:18.802789[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ASA Ambrosia Terrestrial Blue.json!
+[error]	2025-10-15 04:41:18.817735[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ASA PolyMaker Green.json!
+[error]	2025-10-15 04:41:18.825327[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 ASA Sunlu Purple.json!
+[error]	2025-10-15 04:41:18.837696[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA  AnyCubic Black !.json!
+[error]	2025-10-15 04:41:18.845347[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA  AnyCubic Grey !.json!
+[error]	2025-10-15 04:41:18.853190[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA  eSun Purple !.json!
+[error]	2025-10-15 04:41:18.860505[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA  Kingroon White !.json!
+[error]	2025-10-15 04:41:18.869041[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA  Overture Rock white !.json!
+[error]	2025-10-15 04:41:18.877376[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA Meta SunLu Grey.json!
+[error]	2025-10-15 04:41:18.885230[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA+  Elegoo white !.json!
+[error]	2025-10-15 04:41:18.897187[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA+ InLand Purple.json!
+[error]	2025-10-15 04:41:18.911326[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA+ Printed Solid Gun Metal Grey !.json!
+[error]	2025-10-15 04:41:18.922890[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA+ SunLu Black !.json!
+[error]	2025-10-15 04:41:18.931701[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA+ SunLu Blue Grey.json!
+[error]	2025-10-15 04:41:18.938537[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA+ SunLu Blue.json!
+[error]	2025-10-15 04:41:18.946772[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA+ SunLu Grass Green.json!
+[error]	2025-10-15 04:41:18.954922[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA+ SunLu Green.json!
+[error]	2025-10-15 04:41:18.962367[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA+ SunLu Orange.json!
+[error]	2025-10-15 04:41:18.971462[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA+ SunLu Red.json!
+[error]	2025-10-15 04:41:18.982871[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA+ SunLu Sky Blue.json!
+[error]	2025-10-15 04:41:18.991519[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA+ SunLu White.json!
+[error]	2025-10-15 04:41:18.998511[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 PLA+ SunLu Yellow.json!
+[error]	2025-10-15 04:41:19.007588[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 Silk PLA Eryone.json!
+[error]	2025-10-15 04:41:19.018144[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 Siraya Tech PET-CF @System - Copy.json!
+[error]	2025-10-15 04:41:19.028792[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\300 Siraya Tech PET-CF.json!
+[error]	2025-10-15 04:41:19.036763[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 ABS NovaMaker Green @.json!
+[error]	2025-10-15 04:41:19.044522[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 ABS SunLu Black #.json!
+[error]	2025-10-15 04:41:19.057179[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 ABS SunLu Grey .json!
+[error]	2025-10-15 04:41:19.065306[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 ABS+ GaintArm Apple Green #.json!
+[error]	2025-10-15 04:41:19.073636[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 ASA Ambrosia Galactic Grey.json!
+[error]	2025-10-15 04:41:19.082018[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 ASA Ambrosia Quadrant Teal.json!
+[error]	2025-10-15 04:41:19.090199[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 ASA Sunlu Purple #.json!
+[error]	2025-10-15 04:41:19.098135[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA  AnyCubic Black !.json!
+[error]	2025-10-15 04:41:19.105510[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA  AnyCubic Grey !.json!
+[error]	2025-10-15 04:41:19.113552[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA  Kingroon White !.json!
+[error]	2025-10-15 04:41:19.120341[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA  Landu Black.json!
+[error]	2025-10-15 04:41:19.128523[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA Ambrosia Faded Desert Brown.json!
+[error]	2025-10-15 04:41:19.136326[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA eSun PLA Pink !.json!
+[error]	2025-10-15 04:41:19.144520[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA eSun PLA Purple !.json!
+[error]	2025-10-15 04:41:19.152374[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA SunLu Black !.json!
+[error]	2025-10-15 04:41:19.160776[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ Elegoo Red !.json!
+[error]	2025-10-15 04:41:19.168554[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ Elegoo White !.json!
+[error]	2025-10-15 04:41:19.176563[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ Inland Pruple  @.json!
+[error]	2025-10-15 04:41:19.184233[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ Printed Solid Goldend Winner !.json!
+[error]	2025-10-15 04:41:19.193056[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ Printed Solid Royal Ruby !.json!
+[error]	2025-10-15 04:41:19.201326[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ SunLu Black !.json!
+[error]	2025-10-15 04:41:19.209365[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ SunLu Blue  @.json!
+[error]	2025-10-15 04:41:19.217292[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ SunLu Blue Grey @.json!
+[error]	2025-10-15 04:41:19.225677[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ SunLu Cheery Red !.json!
+[error]	2025-10-15 04:41:19.233610[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ SunLu Gray @.json!
+[error]	2025-10-15 04:41:19.240868[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ SunLu Green @.json!
+[error]	2025-10-15 04:41:19.249941[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ SunLu Mint @.json!
+[error]	2025-10-15 04:41:19.258066[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ SunLu Orange !.json!
+[error]	2025-10-15 04:41:19.266087[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ SunLu Purple !.json!
+[error]	2025-10-15 04:41:19.274535[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ SunLu Red @.json!
+[error]	2025-10-15 04:41:19.282653[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ SunLu Sky Blue @.json!
+[error]	2025-10-15 04:41:19.289598[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 PLA+ SunLu Yellow !.json!
+[error]	2025-10-15 04:41:19.297536[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 Silk PLA  Aceaddity pink blue !.json!
+[error]	2025-10-15 04:41:19.306217[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\350 Silk PLA Eryone @.json!
+[error]	2025-10-15 04:41:19.318925[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Micron ABS Sunlu Black.json!
+[error]	2025-10-15 04:41:19.327488[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Micron ABS+ GEEETECH Apple green.json!
+[error]	2025-10-15 04:41:19.334439[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Micron ASA Ambrosia Quadrant Teal.json!
+[error]	2025-10-15 04:41:19.341812[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Micron PLA Ambrosia Dessert Brown.json!
+[error]	2025-10-15 04:41:19.349201[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Micron PLA AnyCubic Black.json!
+[error]	2025-10-15 04:41:19.355510[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Micron PLA eSun Pink.json!
+[error]	2025-10-15 04:41:19.362048[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Micron PLA Kingroon White.json!
+[error]	2025-10-15 04:41:19.374059[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Micron PLA Landu Black.json!
+[error]	2025-10-15 04:41:19.380412[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Micron PLA Overture Rock PLA.json!
+[error]	2025-10-15 04:41:19.387518[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Micron PLA Overture Rock.json!
+[error]	2025-10-15 04:41:19.394093[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Micron PLA+ Elegoo Red.json!
+[error]	2025-10-15 04:41:19.400572[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Micron PLA+ SunLu Green.json!
+[error]	2025-10-15 04:41:19.407274[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Micron Silk PLA Aceaddity purple pink.json!
+[error]	2025-10-15 04:41:19.414664[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Siraya Tech PET-CF 0.4.json!
+[error]	2025-10-15 04:41:19.421453[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Siraya Tech PET-CF 0.5.json!
+[error]	2025-10-15 04:41:19.428735[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Siraya Tech PET-CF Shrinkage 0.4.json!
+[error]	2025-10-15 04:41:19.436599[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\filament\Siraya Tech PET-CF Shrinkage 0.5.json!
+[error]	2025-10-15 04:41:19.449430[Thread 0x000030dc]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Ender 3 pro.json!
+[error]	2025-10-15 04:41:35.408861[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 04:41:35.421906[Thread 0x000056dc]:Unable to open the fileC:\Users\Tommy\Documents\GitHub\A4T\3mf\Backflow Inhibitors\A4T Backflow Inhibitor [x2].3mf
+[error]	2025-10-15 04:41:35.428278[Thread 0x000030dc]:Unable to open the fileD:\2.1 Amplifier Case.3mf
+[error]	2025-10-15 04:41:35.428278[Thread 0x000056c0]:Unable to open the fileD:\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf
+[error]	2025-10-15 04:41:35.428278[Thread 0x000056fc]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-10-15 04:41:35.428278[Thread 0x000056fc]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-10-15 04:41:35.428278[Thread 0x000030dc]:Unable to open the fileD:\bondo-tool.3mf
+[error]	2025-10-15 04:41:35.428278[Thread 0x000030dc]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-10-15 04:41:35.448238[Thread 0x000030dc]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-15 04:41:35.446610[Thread 0x000056c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-15 04:41:35.449841[Thread 0x000056dc]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-15 04:41:35.451848[Thread 0x000030dc]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-15 04:41:44.938703[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-15 04:41:45.543187[Thread 0x000030dc]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-15 04:50:46.506973[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

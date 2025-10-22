@@ -1,0 +1,24 @@
+[error]	2025-10-12 14:48:03.214130[Thread 0x00005558]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-10-12 14:48:08.341495[Thread 0x00005558]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-12 14:48:08.347367[Thread 0x00005558]:Unable to open the fileD:\2.1 Amplifier Case.3mf
+[error]	2025-10-12 14:48:08.347367[Thread 0x00005558]:Unable to open the fileD:\bondo-tool.3mf
+[error]	2025-10-12 14:48:08.347367[Thread 0x000064d4]:Unable to open the fileD:\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf
+[error]	2025-10-12 14:48:08.347367[Thread 0x00000c68]:Unable to open the fileC:\Users\Tommy\Documents\GitHub\A4T\3mf\Backflow Inhibitors\A4T Backflow Inhibitor [x2].3mf
+[error]	2025-10-12 14:48:08.347367[Thread 0x000029c0]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-10-12 14:48:08.347367[Thread 0x000029c0]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-10-12 14:48:08.367108[Thread 0x00000c68]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-12 14:48:08.368110[Thread 0x000064d4]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-10-12 14:48:08.370103[Thread 0x00006b2c]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-12 14:48:08.376114[Thread 0x000029c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-12 14:48:08.379712[Thread 0x00006128]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-12 14:48:11.552551[Thread 0x00005558]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-12 14:48:11.966329[Thread 0x00005558]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-12 18:20:26.077212[Thread 0x00005558]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-12 18:20:27.644407[Thread 0x00005558]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-12 18:26:49.459182[Thread 0x00004488]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-12 18:29:08.264051[Thread 0x00005558]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 2, can not switch
+[warning]	2025-10-12 18:32:00.226259[Thread 0x00004488]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-10-13 09:12:32.363690[Thread 0x00005558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-13 20:01:46.593948[Thread 0x00005558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-13 20:01:51.325537[Thread 0x00005558]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-13 20:02:02.201332[Thread 0x00005558]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

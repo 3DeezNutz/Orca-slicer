@@ -1,0 +1,64 @@
+{
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
+    "compatible_printers": [
+        "Voron 2.4 300 0.4 nozzle"
+    ],
+    "default_filament_colour": [
+        "#0698A4"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "30"
+    ],
+    "filament_cost": [
+        "22.99"
+    ],
+    "filament_flow_ratio": [
+        "0.959"
+    ],
+    "filament_max_volumetric_speed": [
+        "27"
+    ],
+    "filament_settings_id": [
+        "Micron ASA Ambrosia Quadrant Teal"
+    ],
+    "filament_type": [
+        "ASA"
+    ],
+    "filament_vendor": [
+        "Ambrosia"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "105"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "105"
+    ],
+    "inherits": "SUNLU PLA+ @System",
+    "is_custom_defined": "0",
+    "name": "Micron ASA Ambrosia Quadrant Teal",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "nozzle_temperature_range_high": [
+        "300"
+    ],
+    "nozzle_temperature_range_low": [
+        "250"
+    ],
+    "pressure_advance": [
+        "0.017"
+    ],
+    "slow_down_layer_time": [
+        "3"
+    ],
+    "version": "2.3.0.3"
+}

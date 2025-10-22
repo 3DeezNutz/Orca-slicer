@@ -1,0 +1,20 @@
+[error]	2025-10-15 16:46:12.891131[Thread 0x00002858]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-10-15 16:46:18.904298[Thread 0x00002858]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 16:46:18.915587[Thread 0x00002858]:Unable to open the fileD:\2.1 Amplifier Case.3mf
+[error]	2025-10-15 16:46:18.915587[Thread 0x00002858]:Unable to open the fileD:\bondo-tool.3mf
+[error]	2025-10-15 16:46:18.932341[Thread 0x00002858]:Unable to open the fileD:\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf
+[error]	2025-10-15 16:46:18.933338[Thread 0x00002180]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-10-15 16:46:18.933338[Thread 0x000027e8]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-10-15 16:46:18.933338[Thread 0x00002180]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-10-15 16:46:18.933338[Thread 0x000027e8]:Unable to open the fileC:\Users\Tommy\Documents\GitHub\A4T\3mf\Backflow Inhibitors\A4T Backflow Inhibitor [x2].3mf
+[error]	2025-10-15 16:46:18.936332[Thread 0x000055e8]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-15 16:46:18.936332[Thread 0x000023cc]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-15 16:46:18.945305[Thread 0x00002180]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-15 16:46:18.946516[Thread 0x000027e8]:File Metadata/plate_1.png not found from archive
+[warning]	2025-10-15 16:46:22.435534[Thread 0x00002858]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-15 16:46:25.093171[Thread 0x00002858]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 16:46:25.530991[Thread 0x00002858]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 16:46:25.533116[Thread 0x00002858]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-15 16:46:25.664214[Thread 0x00002858]:Slic3r::PresetCollection::validate_preset: preset_name 350 ASA Ambrosia Galactic Grey, inherit_name Voron Generic ABS, can not found preset and inherit in list
+[warning]	2025-10-15 16:46:25.664214[Thread 0x00002858]:Slic3r::PresetBundle::validate_presets:file_name .3mf, found the filament 1 preset not inherit from system
+[warning]	2025-10-15 16:46:25.664214[Thread 0x00002858]:Slic3r::PresetBundle::validate_presets:file_name .3mf, found self defined presets, count 1

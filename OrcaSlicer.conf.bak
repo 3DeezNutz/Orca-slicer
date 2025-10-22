@@ -1,6 +1,7 @@
 {
     "app": {
         "allow_ip_resolve": true,
+        "angle_defletion": "0.5",
         "associate_3mf": false,
         "associate_step": false,
         "associate_stl": false,
@@ -11,6 +12,7 @@
         "backup_interval": "10",
         "backup_switch": true,
         "camera_navigation_style": "0",
+        "camera_orbit_mult": "1.0",
         "check_stable_update_only": true,
         "curr_bed_type": "3",
         "dark_color_mode": "1",
@@ -23,14 +25,18 @@
         "enable_multi_machine": false,
         "enable_ssl_for_ftp": true,
         "enable_ssl_for_mqtt": true,
+        "enable_step_mesh_setting": true,
         "flush_multiplier": "1.000000",
         "import_project_action": "2",
         "internal_developer_mode": false,
         "iot_environment": "3",
+        "is_split_compound": false,
         "keyboard_supported": "none/alt/control/shift",
         "language": "en_GB",
-        "last_backup_path": "C:\\Users\\tommy\\AppData\\Local\\Temp/orcaslicer_model/Sun_Oct_12/05_10_31#22796#49",
-        "last_export_path": "D:\\",
+        "last_backup_path": "C:\\Users\\tommy\\AppData\\Local\\Temp/orcaslicer_model/Wed_Oct_22/16_08_12#27768#56",
+        "last_export_path": "C:\\Users\\tommy\\Desktop",
+        "legacy_networking": true,
+        "linear_defletion": "0.003",
         "log_severity_level": "warning",
         "max_recent_count": "18",
         "max_send": "3",
@@ -52,6 +58,7 @@
         "print_host_queue_dialog_y": "415",
         "privacy_version": "00.00.00.00",
         "project_load_behaviour": "load_geometry_only",
+        "recent_models": "0",
         "region": "North America",
         "remember_printer_config": true,
         "reverse_mouse_wheel_zoom": false,
@@ -61,7 +68,7 @@
         "show_build_edgets": false,
         "show_daily_tips": true,
         "show_drop_project_dialog": true,
-        "show_gcode_window": true,
+        "show_gcode_window": false,
         "show_hints": true,
         "show_home_page": true,
         "show_model_mesh": false,
@@ -74,6 +81,7 @@
         "skip_version": "",
         "slicer_uuid": "40656b55-6593-42ad-92ce-4e0983fd1982",
         "stealth_mode": true,
+        "swap_mouse_buttons": false,
         "sync_system_preset": true,
         "sync_user_preset": true,
         "sys_menu_enabled": "1",
@@ -86,7 +94,7 @@
         "user_mode": "advanced",
         "version": "01.10.01.50",
         "window_layout": "layout2|name=sidebar;caption=;state=1996;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=420;besth=900;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=main;caption=;state=256;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=20|dock_size(4,0,0)=422|",
-        "window_mainframe": "-6; 159; 2080; 1282; 0",
+        "window_mainframe": "0; 192; 2358; 1248; 0",
         "zoom_to_mouse": true,
         "zoom_view": "none/mouse left"
     },
@@ -94,7 +102,7 @@
         "align_to_y_axis": true,
         "allow_multi_materials_on_same_plate": false,
         "enable_rotation_fff": false,
-        "min_object_distance_fff": "10"
+        "min_object_distance_fff": "0"
     },
     "custom_color_list": {
         "10": "0,0,0,255",
@@ -428,7 +436,7 @@
         "line_height": "10.000000",
         "name": "MODERN"
     },
-    "header": "OrcaSlicer 2.3.0",
+    "header": "OrcaSlicer 2.3.1",
     "models": [
         {
             "model": "Generic Klipper Printer",
@@ -705,12 +713,12 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "Micron ASA Ambrosia Quadrant Teal",
-            "filament_colors": "#0698A4",
+            "filament": "Siraya Tech PET-CF 0.4",
+            "filament_colors": "#D9C226",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Micron+ 0.4 nozzle",
-            "process": "180 Quality 0.20mm Standard 4 4 4 @Voron"
+            "process": "300 Voron PIF PET CF 0.4"
         },
         {
             "curr_bed_type": "3",
@@ -831,8 +839,8 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "Siraya Tech PET-CF Shrinkage 0.4",
-            "filament_colors": "#EB4A05",
+            "filament": "Siraya Tech PET-CF 0.4",
+            "filament_colors": "#D9C226",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 300 0.4 nozzle ABS",
@@ -903,8 +911,8 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "350 ABS SunLu Grey ",
-            "filament_colors": "#909090",
+            "filament": "350 PLA+ Printed Solid Goldend Winner !",
+            "filament_colors": "#808000",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 350 0.4 nozzle - ABS",
@@ -931,7 +939,7 @@
     ],
     "presets": {
         "filaments": null,
-        "machine": "Voron 2.4 350 0.4 nozzle - ABS"
+        "machine": "Micron+ 0.4 nozzle"
     },
     "print": {
         "bed_leveling": "1",
@@ -939,7 +947,7 @@
         "timelapse": "1"
     },
     "recent": {
-        "last_opened_folder": "D:\\",
+        "last_opened_folder": "C:\\Users\\tommy\\Desktop\\OrcaSlicer\\resources\\calib\\filament_flow",
         "printhost_path": "",
         "settings_folder": "D:\\"
     },
@@ -964,4 +972,4 @@
         "18": "D:\\Drippy+Pail\\Drippy.3mf"
     }
 }
-# MD5 checksum C0AF305CCA76F9B4AC1E601FF0E3ACA3
+# MD5 checksum 9EFBE39C3BDA36BDA97E0783F96B33F8

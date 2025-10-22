@@ -12,3 +12,5 @@
 [error]	2025-10-12 05:10:27.379902[Thread 0x00005284]:File Metadata/plate_1.png not found from archive
 [error]	2025-10-12 05:10:27.379902[Thread 0x00003c20]:File Metadata/plate_1.png not found from archive
 [error]	2025-10-12 05:10:31.673252[Thread 0x00003c20]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-12 05:10:32.182595[Thread 0x00003c20]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-12 08:28:57.958407[Thread 0x00003c20]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,3 @@
+[fatal]	2025-10-22 16:07:34.248200[Thread 0x00006eb8]:OnInit Got Fatal error: boost::filesystem::remove_all: Access is denied [system:5]: "C:\Users\tommy\AppData\Roaming\OrcaSlicer\system\Custom\filament\Generic PLA-CF @MyToolChanger.json"
+[warning]	2025-10-22 16:07:34.248704[Thread 0x00006eb8]:16:07:34: Error: OrcaSlicer got an unhandled exception: boost::filesystem::remove_all: Access is denied [system:5]: "C:\Users\tommy\AppData\Roaming\OrcaSlicer\system\Custom\filament\Generic PLA-CF @MyToolChanger.json"
+[error]	2025-10-22 16:07:34.248704[Thread 0x00006eb8]:Uncaught exception: boost::filesystem::remove_all: Access is denied [system:5]: "C:\Users\tommy\AppData\Roaming\OrcaSlicer\system\Custom\filament\Generic PLA-CF @MyToolChanger.json"

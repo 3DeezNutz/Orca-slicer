@@ -1,0 +1,145 @@
+[error]	2025-10-13 20:06:55.971328[Thread 0x00005260]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-10-13 20:07:02.165938[Thread 0x00005260]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-13 20:07:02.176648[Thread 0x00005260]:Unable to open the fileD:\2.1 Amplifier Case.3mf
+[error]	2025-10-13 20:07:02.176648[Thread 0x00005260]:Unable to open the fileD:\bondo-tool.3mf
+[error]	2025-10-13 20:07:02.176648[Thread 0x00006688]:Unable to open the fileD:\SirayaTech PET-CF 0.4mm for Orcaslicer only.3mf
+[error]	2025-10-13 20:07:02.176648[Thread 0x000022b4]:Unable to open the fileC:\Users\Tommy\Documents\GitHub\A4T\3mf\Backflow Inhibitors\A4T Backflow Inhibitor [x2].3mf
+[error]	2025-10-13 20:07:02.176648[Thread 0x000022b4]:Unable to open the fileD:\Kobalt+Rail+for+DeWALT+Pole+Saw\M3 KobaltRailDewaltPole2.3mf
+[error]	2025-10-13 20:07:02.176648[Thread 0x000022b4]:Unable to open the fileD:\Bowden_Guide V2.3mf
+[error]	2025-10-13 20:07:02.176648[Thread 0x000059bc]:Unable to open the fileD:\Portable Laptop Stand\1 - Easy Print 3mf - Laptop Stand.3mf
+[error]	2025-10-13 20:07:02.196481[Thread 0x00002ad8]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-13 20:07:02.196481[Thread 0x000022b4]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-13 20:07:02.206427[Thread 0x00006688]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-13 20:07:02.206427[Thread 0x00006c58]:File Metadata/plate_1.png not found from archive
+[warning]	2025-10-13 20:07:06.200771[Thread 0x00005260]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-13 20:07:14.197862[Thread 0x00005260]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-13 20:07:14.581400[Thread 0x00005260]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-14 05:01:49.206829[Thread 0x00005260]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-14 05:03:30.741516[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-14 05:20:28.248874[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-14 05:20:41.385899[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-14 05:25:59.409080[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-14 05:27:06.091904[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-14 05:38:08.660257[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-14 05:38:12.498813[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.503330[Thread 0x000059bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.534791[Thread 0x000022b4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.534791[Thread 0x00006688]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.547285[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.570258[Thread 0x000059bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.612240[Thread 0x00006688]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.619731[Thread 0x000022b4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.666204[Thread 0x000059bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.690181[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.714177[Thread 0x00006688]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.720664[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.725655[Thread 0x000059bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.738146[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.768612[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.779111[Thread 0x00006688]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.801107[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.810084[Thread 0x0000767c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.816576[Thread 0x000059bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.816576[Thread 0x000022b4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.833570[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.850053[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.874529[Thread 0x0000767c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.880531[Thread 0x000059bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.883526[Thread 0x000022b4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.884523[Thread 0x00002ad8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.911009[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.952972[Thread 0x000059bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.953969[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.960457[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.960457[Thread 0x00002ad8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:12.960457[Thread 0x0000767c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.002946[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.024510[Thread 0x000059bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.025509[Thread 0x0000767c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.070989[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.073983[Thread 0x000022b4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.077973[Thread 0x00002ad8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.107954[Thread 0x0000767c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.123999[Thread 0x000022b4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.136473[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.141987[Thread 0x000059bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.173450[Thread 0x0000767c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.184441[Thread 0x000022b4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.185439[Thread 0x00002ad8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.234894[Thread 0x000022b4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.235891[Thread 0x000059bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.321366[Thread 0x00002ad8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:13.409043[Thread 0x00002ad8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:38:41.588344[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-14 05:39:02.169933[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-14 05:39:50.047920[Thread 0x00006c58]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:39:50.173822[Thread 0x00006c58]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:39:50.384967[Thread 0x00002ad8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-14 05:39:50.501796[Thread 0x00002ad8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-14 19:24:46.370850[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-14 19:25:06.394767[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-14 19:25:18.881399[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 19:25:18.928276[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 19:25:19.650990[Thread 0x00002ad8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-14 19:25:19.708466[Thread 0x00002ad8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:07:22.404151[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-15 04:07:51.620202[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-15 04:08:08.174302[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-15 04:08:36.188489[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-15 04:08:50.572249[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-15 04:09:36.832551[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.016567[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.119848[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.122839[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.190058[Thread 0x0000767c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.236091[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.263618[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.278106[Thread 0x00006688]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.297156[Thread 0x0000767c]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.373260[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.382764[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.391270[Thread 0x00006688]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.497969[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.630202[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.686604[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.736007[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.797509[Thread 0x00006c58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.810018[Thread 0x0000075c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.868560[Thread 0x00001bac]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.875545[Thread 0x000022b4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.885025[Thread 0x000022b4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.923949[Thread 0x0000075c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:37.975907[Thread 0x00001bac]:Detected finite Voronoi vertex with non finite vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:38.217921[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:38.407589[Thread 0x00002ad8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:38.495582[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:38.518634[Thread 0x00002ad8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:38.601104[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:38.738136[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:38.844481[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:38.886961[Thread 0x000059bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:38.990646[Thread 0x00002ad8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:38.999135[Thread 0x000059bc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:39.082095[Thread 0x0000075c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:39.098165[Thread 0x00002ad8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:09:39.190624[Thread 0x0000075c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:12:36.144040[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-15 04:12:43.951678[Thread 0x00004f6c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-15 04:13:20.680625[Thread 0x00005260]:Fontlist cache - 'C:\Users\tommy\AppData\Roaming\OrcaSlicer\cache\fonts.cereal' does not exists.
+[error]	2025-10-15 04:13:20.838979[Thread 0x00005260]:Failed to write fontlist cache - C:\Users\tommy\AppData\Roaming\OrcaSlicer\cache\fonts.cerealFailed to write 4 bytes to output stream! Wrote 0
+[error]	2025-10-15 04:13:25.328876[Thread 0x00005260]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 04:13:26.640108[Thread 0x00005260]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-15 04:18:03.029184[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:18:03.293953[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:18:03.341341[Thread 0x00006688]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:18:03.401420[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:18:03.455118[Thread 0x00006688]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:18:03.536548[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:18:03.646960[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:18:03.780307[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:18:03.902497[Thread 0x00001bac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:18:03.992770[Thread 0x00006688]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:18:04.137416[Thread 0x00006688]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:18:04.211738[Thread 0x000022b4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-15 04:18:04.292541[Thread 0x000022b4]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-10-15 04:33:22.514104[Thread 0x00005260]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
