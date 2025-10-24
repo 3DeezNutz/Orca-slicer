@@ -14,3 +14,126 @@
 [error]	2025-10-22 16:07:58.797277[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
 [warning]	2025-10-22 16:07:59.100594[Thread 0x00000b28]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
 [error]	2025-10-22 16:08:12.076171[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-22 16:44:19.946273[Thread 0x00000b28]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-22 16:44:23.877130[Thread 0x00000b28]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-22 16:46:39.994912[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-22 16:46:59.030866[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-22 17:32:51.101959[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-22 17:36:05.469206[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-22 19:00:09.052705[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-22 19:02:33.339806[Thread 0x00000b28]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-22 19:02:41.478371[Thread 0x00000b28]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-22 19:03:15.830929[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-22 19:03:33.670948[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-10-22 19:04:00.042514[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-22 19:04:06.862581[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-22 19:04:10.319684[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-22 19:05:50.818450[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-22 19:06:00.238114[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-10-22 19:06:05.029745[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-22 19:06:45.929950[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-22 19:21:41.039247[Thread 0x00000b28]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-22 19:22:15.664015[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-22 19:22:20.455920[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-22 19:22:22.595895[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-10-22 19:22:42.860709[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-22 19:22:42.866214[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-22 19:22:42.870436[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-22 19:23:14.381938[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-10-22 19:26:52.859713[Thread 0x00000b28]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-22 19:58:44.059070[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-22 19:58:52.451031[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-22 19:58:54.470282[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-22 19:58:59.920575[Thread 0x000060e0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-22 19:59:00.095716[Thread 0x00005964]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-22 19:59:00.112683[Thread 0x000074f8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-22 19:59:00.114678[Thread 0x000060e0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-22 19:59:00.138627[Thread 0x00005964]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-22 19:59:00.211975[Thread 0x000060e0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-22 19:59:00.243411[Thread 0x0000766c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-22 19:59:00.257386[Thread 0x000074f8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-22 19:59:00.279340[Thread 0x000060e0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-22 19:59:00.617597[Thread 0x00005964]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:36:49.909789[Thread 0x000060e0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:36:50.179605[Thread 0x000060e0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:36:50.277343[Thread 0x000060e0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:36:50.328241[Thread 0x000060e0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:36:50.480331[Thread 0x000060e0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:36:50.655976[Thread 0x000060e0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:36:50.725338[Thread 0x000074f8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:36:53.003421[Thread 0x000060e0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:38:16.874687[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-23 04:38:19.706104[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-23 04:38:22.681681[Thread 0x00000a58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:38:22.875163[Thread 0x00000a58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:38:22.951958[Thread 0x0000766c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:38:22.971904[Thread 0x00000a58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:38:23.019776[Thread 0x00000a58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:38:23.119256[Thread 0x0000766c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:38:23.160147[Thread 0x0000766c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:38:23.188072[Thread 0x00000a58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:38:23.335678[Thread 0x00000a58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:38:23.715177[Thread 0x00004dac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:54:59.178964[Thread 0x00004dac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:54:59.289883[Thread 0x00002dc0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:54:59.331839[Thread 0x00002dc0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:54:59.385787[Thread 0x00004dac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:54:59.449220[Thread 0x0000766c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:54:59.482199[Thread 0x00004dac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:54:59.529726[Thread 0x00004dac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:54:59.713573[Thread 0x00004dac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:54:59.862335[Thread 0x00004dac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 04:55:00.409425[Thread 0x00000a58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-10-23 05:00:06.907163[Thread 0x00002950]:Failed to apply the print statistics to the export file name: Parsing error at line 1. Expecting tag literal-char
+A4T Cowling - Chube-Compact - G2-Orbiter spacing [xol-carriage]_PET-CF_3h28m
+                                                     ^
+[error]	2025-10-23 05:38:32.490553[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-23 16:57:18.467903[Thread 0x00004dac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 16:57:18.677978[Thread 0x00004dac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 16:57:18.772284[Thread 0x00004dac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 16:57:18.819184[Thread 0x00004dac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 16:57:18.961892[Thread 0x00004dac]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 16:57:18.995321[Thread 0x00000a58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 16:57:19.247575[Thread 0x00000a58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 16:57:20.881172[Thread 0x000060e0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-10-23 17:21:29.119884[Thread 0x00002950]:Failed to apply the print statistics to the export file name: Parsing error at line 1. Expecting tag literal-char
+A4T Cowling - Chube-Compact [xol-carriage]_PET-CF_3h44m
+                                ^
+[warning]	2025-10-23 17:25:15.715938[Thread 0x0000766c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 17:25:15.961282[Thread 0x0000766c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 17:25:16.070988[Thread 0x0000766c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 17:25:16.136812[Thread 0x0000766c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 17:25:16.304655[Thread 0x0000766c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 17:25:16.474201[Thread 0x0000766c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 17:25:16.954431[Thread 0x00000a58]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 17:25:18.836410[Thread 0x00002950]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-10-23 17:27:03.411591[Thread 0x00002950]:Failed to apply the print statistics to the export file name: Parsing error at line 1. Expecting tag literal-char
+A4T Cowling - Chube-Compact [xol-carriage]_PET-CF_3h44m
+                                ^
+[error]	2025-10-23 19:56:53.211680[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-23 19:57:02.113964[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-23 19:58:54.664609[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-23 19:58:58.801206[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-23 20:00:35.319189[Thread 0x00002950]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 20:00:35.320828[Thread 0x00002950]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 20:00:35.334212[Thread 0x00002950]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 20:00:35.335209[Thread 0x00002950]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-10-23 20:37:54.977367[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-23 20:37:58.050719[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-23 20:37:58.053306[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-23 20:38:01.722984[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-23 20:52:45.882828[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-23 20:52:51.350391[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-23 20:52:51.351899[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-23 20:52:51.755052[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-23 20:52:51.757157[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-23 20:53:08.975088[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-23 20:53:15.925869[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-23 20:53:19.017736[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-10-23 20:54:15.733786[Thread 0x00005648]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-10-23 20:55:15.352937[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-23 20:55:18.400271[Thread 0x00002950]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 20:55:18.401774[Thread 0x00002950]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 20:55:18.418525[Thread 0x00002950]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 20:55:18.420028[Thread 0x00002950]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-10-24 05:38:48.061623[Thread 0x00000b28]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

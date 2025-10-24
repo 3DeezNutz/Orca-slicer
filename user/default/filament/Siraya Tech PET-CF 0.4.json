@@ -1,6 +1,5 @@
 {
     "compatible_printers": [
-        "Micron+ 0.4 nozzle",
         "Voron 2.4 300 0.4 nozzle ABS"
     ],
     "default_filament_colour": [
@@ -25,7 +24,7 @@
         "Siraya Tech PET-CF 0.4"
     ],
     "filament_start_gcode": [
-        "; Filament gcode\nSET_GCODE_OFFSET z=0\nSET_GCODE_OFFSET Z_ADJUST=0.025\nSET_TMC_CURRENT STEPPER=extruder  CURRENT=0.8"
+        "; Filament gcode\nSET_GCODE_OFFSET z=0\nSET_GCODE_OFFSET Z_ADJUST=0\nSET_TMC_CURRENT STEPPER=extruder  CURRENT=0.8"
     ],
     "filament_vendor": [
         "Siraya Tech"
