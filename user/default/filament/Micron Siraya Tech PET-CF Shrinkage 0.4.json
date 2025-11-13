@@ -30,7 +30,7 @@
         "99.6%"
     ],
     "filament_shrinkage_compensation_z": [
-        "98.7%"
+        "98.3%"
     ],
     "filament_start_gcode": [
         "; Filament gcode\nSET_GCODE_OFFSET z=0\nSET_GCODE_OFFSET Z_ADJUST=0.05\nSET_TMC_CURRENT STEPPER=extruder  CURRENT=0.8"

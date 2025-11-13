@@ -11,3 +11,57 @@
 [error]	2025-10-24 05:39:14.848331[Thread 0x00005c70]:File Metadata/plate_1.png not found from archive
 [error]	2025-10-24 05:39:14.849261[Thread 0x00002750]:File Metadata/plate_1.png not found from archive
 [error]	2025-10-24 05:39:14.866509[Thread 0x00005c54]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-24 05:39:21.245726[Thread 0x00002978]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-24 05:39:21.734170[Thread 0x00002978]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-24 05:39:29.682034[Thread 0x00002978]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-24 15:32:43.917392[Thread 0x00002978]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-24 15:35:14.354218[Thread 0x00002978]:its_write_stl_binary: Couldn't open <cancel> for writing
+[warning]	2025-10-24 15:40:14.202754[Thread 0x00007e98]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-10-24 15:40:38.328696[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-24 15:44:31.593805[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-24 19:37:37.048018[Thread 0x00002978]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-24 19:39:00.046447[Thread 0x00002978]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-24 20:10:52.989662[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-24 20:11:13.230867[Thread 0x00007e98]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-10-25 04:25:14.520691[Thread 0x00007e98]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2025-10-25 04:25:31.174650[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:25:53.791895[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:25:56.620061[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:27:36.647473[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:29:32.703398[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:31:05.721986[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-25 04:31:05.782663[Thread 0x00002978]:Fontlist cache - 'C:\Users\tommy\AppData\Roaming\OrcaSlicer\cache\fonts.cereal' does not exists.
+[error]	2025-10-25 04:31:05.887965[Thread 0x00002978]:Failed to write fontlist cache - C:\Users\tommy\AppData\Roaming\OrcaSlicer\cache\fonts.cerealFailed to write 4 bytes to output stream! Wrote 0
+[error]	2025-10-25 04:31:22.405392[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:31:23.798084[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:31:59.003151[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:32:05.040267[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:32:30.088396[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:32:32.153436[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:32:46.127128[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:33:26.819562[Thread 0x00002978]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-25 04:33:27.820918[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:33:28.537810[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:33:48.845619[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:33:51.783164[Thread 0x00002978]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-25 04:33:54.640174[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:33:55.458805[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:33:57.476518[Thread 0x00002978]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-25 04:33:58.342583[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:33:58.940584[Thread 0x00002978]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-25 04:33:59.011584[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:34:00.444020[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:34:11.445600[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-25 04:34:22.992508[Thread 0x00002978]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5502: ui jobs running, return false
+[error]	2025-10-25 04:34:28.167192[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:34:42.605069[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:34:51.234124[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:34:56.082235[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:35:14.772919[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:35:20.591602[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:35:21.462412[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:35:27.424376[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:35:35.561563[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:36:19.986400[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 04:36:21.791698[Thread 0x00002978]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-25 11:18:01.058145[Thread 0x00002978]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
