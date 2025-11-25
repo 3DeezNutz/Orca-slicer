@@ -8,10 +8,6 @@
     "from": "User",
     "inherits": "Voron 2.4 300 0.4 nozzle",
     "is_custom_defined": "0",
-    "machine_max_acceleration_extruding": [
-        "15000",
-        "20000"
-    ],
     "machine_max_speed_z": [
         "15",
         "12"

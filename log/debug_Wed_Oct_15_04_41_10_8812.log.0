@@ -1,3 +1,0 @@
-[fatal]	2025-10-15 04:41:10.772580[Thread 0x000004b0]:OnInit Got Fatal error: boost::filesystem::remove_all: Access is denied [system:5]: "C:\Users\tommy\AppData\Roaming\OrcaSlicer\system\OrcaFilamentLibrary\filament\AliZ"
-[warning]	2025-10-15 04:41:10.773577[Thread 0x000004b0]:04:41:10: Error: OrcaSlicer got an unhandled exception: boost::filesystem::remove_all: Access is denied [system:5]: "C:\Users\tommy\AppData\Roaming\OrcaSlicer\system\OrcaFilamentLibrary\filament\AliZ"
-[error]	2025-10-15 04:41:10.773577[Thread 0x000004b0]:Uncaught exception: boost::filesystem::remove_all: Access is denied [system:5]: "C:\Users\tommy\AppData\Roaming\OrcaSlicer\system\OrcaFilamentLibrary\filament\AliZ"

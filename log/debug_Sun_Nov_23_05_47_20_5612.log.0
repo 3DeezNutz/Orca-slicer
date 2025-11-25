@@ -1,0 +1,19 @@
+[error]	2025-11-23 05:47:29.171877[Thread 0x000053a0]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-11-23 05:47:35.689852[Thread 0x000053a0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-23 05:47:40.724667[Thread 0x000053a0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-23 05:47:41.048368[Thread 0x000053a0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-23 05:47:41.445311[Thread 0x00002778]:Error getting: `check_new_version_sf`: HTTP 503, 
+[error]	2025-11-23 05:47:53.079449[Thread 0x000053a0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-23 05:50:08.460499[Thread 0x00000d80]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-11-23 05:51:12.691072[Thread 0x00000d80]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-11-23 05:54:59.298507[Thread 0x000053a0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-23 05:57:19.751789[Thread 0x000053a0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-23 05:57:25.601712[Thread 0x000053a0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-23 05:57:35.375001[Thread 0x000053a0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-23 05:57:37.055925[Thread 0x000053a0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-23 05:57:55.067209[Thread 0x000053a0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-23 05:58:08.048628[Thread 0x000053a0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-23 05:59:40.594508[Thread 0x000053a0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-23 19:58:13.067028[Thread 0x000053a0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-23 19:58:18.300785[Thread 0x000053a0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-23 19:58:18.425568[Thread 0x000053a0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

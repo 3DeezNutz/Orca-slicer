@@ -7,6 +7,10 @@
     "from": "User",
     "inherits": "Voron 2.4 350 0.4 nozzle",
     "is_custom_defined": "0",
+    "machine_max_acceleration_e": [
+        "20000",
+        "5000"
+    ],
     "machine_start_gcode": ";M104 S0 ; Stops OrcaSlicer from sending temp waits separately\n;M140 S0\nCLEAR_PAUSE\nSET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nPRINT_START EXTRUDER=[first_layer_temperature] BED=[first_layer_bed_temperature] CHAMBER=[chamber_temperature]",
     "name": "Voron 2.4 350 0.4 nozzle - ABS",
     "print_host": "http://192.168.2.171",

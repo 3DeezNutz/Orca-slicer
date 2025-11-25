@@ -1,0 +1,6 @@
+[error]	2025-11-18 04:41:25.883180[Thread 0x00001b2c]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-11-18 04:41:33.793569[Thread 0x00001b2c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-18 04:41:39.535633[Thread 0x00001b2c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-18 04:41:39.882744[Thread 0x00001b2c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-18 04:41:40.709349[Thread 0x00004644]:Error getting: `check_new_version_sf`: HTTP 503, 
+[error]	2025-11-19 05:05:33.931118[Thread 0x00001b2c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
