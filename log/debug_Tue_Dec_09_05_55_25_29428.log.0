@@ -1,0 +1,487 @@
+[error]	2025-12-09 05:55:33.926894[Thread 0x000021d8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-12-09 05:55:40.436750[Thread 0x000021d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-09 05:55:45.150507[Thread 0x000021d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-09 05:55:45.479450[Thread 0x000021d8]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-09 05:55:46.100757[Thread 0x00002114]:Error getting: `check_new_version_sf`: HTTP 503, 
+[error]	2025-12-09 05:55:50.100465[Thread 0x000021d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-09 05:56:07.523771[Thread 0x000021d8]:Fontlist cache - 'C:\Users\tommy\AppData\Roaming\OrcaSlicer\cache\fonts.cereal' does not exists.
+[error]	2025-12-09 05:56:07.680012[Thread 0x000021d8]:Failed to write fontlist cache - C:\Users\tommy\AppData\Roaming\OrcaSlicer\cache\fonts.cerealFailed to write 4 bytes to output stream! Wrote 0
+[error]	2025-12-09 05:56:26.961781[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 05:56:49.421830[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 05:56:50.112857[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 05:56:52.343688[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 05:57:01.558727[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 05:57:02.201328[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 05:57:02.397044[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 05:57:14.899964[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 05:57:15.824686[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 05:57:16.019055[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 05:57:21.765218[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-09 05:57:23.180396[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 05:57:23.194392[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 05:57:23.196387[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 05:57:23.198382[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 05:57:23.211875[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 05:57:23.217369[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 05:57:23.232361[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 05:57:23.246851[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 05:57:23.247848[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 05:57:23.292827[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 05:57:23.308296[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 05:57:23.371757[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 05:57:23.403759[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 05:57:23.449718[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 05:57:23.470352[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-12-09 06:01:42.819811[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:01:42.869026[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:01:42.978935[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:01:44.135472[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-09 06:01:45.084406[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-12-09 06:01:47.711398[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:01:48.919559[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:02:10.556794[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:02:11.442557[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:02:14.524231[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:02:19.438805[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:02:21.446988[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:02:23.061324[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:02:32.283958[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:02:34.963521[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:02:35.259019[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:02:55.042585[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:02:57.665886[Thread 0x000021d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-09 06:02:58.348609[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:02:59.422491[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:03:01.219202[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:03:06.366077[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:03:08.506676[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:03:08.875075[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:03:18.578809[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-09 06:03:21.428744[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-12-09 06:03:23.959188[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:03:26.163485[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:03:26.902866[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:03:32.899392[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:03:33.451275[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:03:35.596602[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 06:03:36.491728[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-09 06:03:40.634190[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 06:03:40.651672[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 06:03:40.676152[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 06:03:40.695134[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 06:03:40.717647[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 06:03:40.734635[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-09 06:03:40.748109[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-12-09 06:03:44.734570[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-09 16:38:34.662412[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-12-09 16:38:35.034511[Thread 0x000021d8]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5502: ui jobs running, return false
+[warning]	2025-12-09 16:46:22.642162[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-12-09 16:46:23.031424[Thread 0x000021d8]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5502: ui jobs running, return false
+[error]	2025-12-09 16:52:39.709761[Thread 0x000021d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-09 16:52:41.118883[Thread 0x000021d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-09 16:52:43.711775[Thread 0x000021d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-09 16:55:21.063384[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-12-09 16:58:39.334978[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-12-09 16:58:39.733838[Thread 0x000021d8]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5502: ui jobs running, return false
+[warning]	2025-12-09 16:59:01.484630[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-12-09 16:59:17.431346[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-12-09 17:00:09.039722[Thread 0x000021d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-09 17:00:10.019166[Thread 0x000021d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-09 17:00:15.452833[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 17:00:22.883507[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-09 17:00:45.555373[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-12-09 17:01:50.247209[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-12-09 17:01:50.784127[Thread 0x000021d8]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5502: ui jobs running, return false
+[warning]	2025-12-09 20:27:21.585070[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-12-10 06:08:46.230332[Thread 0x000021d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-10 06:08:46.818701[Thread 0x000021d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-10 06:08:49.985530[Thread 0x000021d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-10 06:12:44.465374[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-12-10 06:12:48.256827[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-12-10 06:12:54.307949[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-12-10 06:13:04.253821[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-12-10 15:53:43.354820[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-12-10 15:56:56.880716[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 15:57:11.349834[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 15:57:12.404547[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 15:57:14.547487[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 15:57:15.387910[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 15:57:21.284108[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 15:57:23.985888[Thread 0x000021d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-10 15:57:25.466997[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 15:57:29.114081[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-10 15:57:31.150464[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.152459[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.171409[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.172406[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.192352[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.193350[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.195345[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.210304[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.210304[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.225264[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.228256[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.243217[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.257179[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.264161[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.273137[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.279121[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.319014[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.325995[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.334971[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.336966[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.345941[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.339958[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.355915[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.362896[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.369878[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.377856[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.396806[Thread 0x000052a8]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.412763[Thread 0x000052a8]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.416752[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.427723[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.443681[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.457643[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.461632[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.475595[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.475595[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.485569[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.490555[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.495542[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.538427[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.545409[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.548400[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.555382[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.559371[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.559371[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.568347[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 15:57:31.568347[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-12-10 15:59:56.855680[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 15:59:59.399417[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 15:59:59.924387[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 16:00:06.790956[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-10 16:00:08.087307[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-12-10 16:00:10.348503[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 16:00:25.628059[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 16:00:26.655360[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 16:00:39.606667[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 16:00:40.680716[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 16:00:44.811772[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 16:00:46.471247[Thread 0x000073b8]:gcode path conflicts found between Monolith Annex clip +19 test.stl and Monolith Annex Clip test +22.stl
+[error]	2025-12-10 16:00:48.544614[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-10 16:01:16.118015[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.122005[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.127989[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.131978[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.138960[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.147830[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.222631[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.235596[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.240582[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.245569[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.252550[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.255542[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.272497[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.279478[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.284465[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.285462[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.300422[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.302417[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.316380[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.317377[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.326353[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.337323[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.383201[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.404145[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.408134[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.424092[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.443041[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.458001[Thread 0x000073b8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.458001[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.459995[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.480939[Thread 0x000073b8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.486924[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.499889[Thread 0x000073b8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.505873[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.516844[Thread 0x000073b8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.521830[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.536676[Thread 0x000073b8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:16.551636[Thread 0x000073b8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.833797[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.842773[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.849755[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.869702[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.887653[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.919568[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.933531[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.943504[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.945499[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.949488[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.955472[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.958464[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.958464[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.965445[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.977413[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.987386[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.993370[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:40.997360[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.007333[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.012320[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.039998[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.049526[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.062996[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.071973[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.090922[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.096906[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.107876[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.113860[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.127824[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.132810[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.142783[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.148767[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.161733[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.163727[Thread 0x000073b8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.166719[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.177690[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.178687[Thread 0x000073b8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 16:01:41.183674[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-12-10 17:58:41.096582[Thread 0x000021d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-10 17:58:50.220030[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.230004[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.236985[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.254937[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.278872[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.287848[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.298819[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.299817[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.320761[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.331731[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.349683[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.351678[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.360654[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.362649[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.388579[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.404537[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.425480[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.439443[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.451411[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.471359[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.516238[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.517235[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.531198[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.536185[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.538179[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.555134[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.580067[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.597022[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.609987[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.612979[Thread 0x000073b8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.628936[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.629934[Thread 0x000073b8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.632926[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.633923[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.644894[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.646888[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.649881[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.662846[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.761732[Thread 0x00005c10]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.772703[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.775695[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.784670[Thread 0x00005c10]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.785668[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.788660[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.814590[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.832543[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.849497[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.859470[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.859470[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.872436[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.874431[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.883406[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.884404[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.899364[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.911332[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.920308[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.926292[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.937262[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.946238[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.961198[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.965188[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.966185[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.980148[Thread 0x000052a8]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.981145[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.986132[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:50.995107[Thread 0x000052a8]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.004084[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.016052[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.018046[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.020041[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.032009[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.035998[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.043977[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.050958[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.066915[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.066915[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.084868[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.087859[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.092847[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.100825[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.103817[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.108803[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.119774[Thread 0x00006674]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.134734[Thread 0x00006674]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 17:58:51.492490[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-12-10 18:01:05.097690[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:01:10.152099[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:01:10.997426[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:01:24.475041[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:01:25.506062[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:01:31.725802[Thread 0x000021d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-10 18:01:44.246032[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:01:47.130831[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:01:49.191287[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:01:49.460170[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:02:24.623426[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:02:26.510741[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-10 18:02:32.782861[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.788844[Thread 0x0000744c]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.797821[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.800813[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.803804[Thread 0x0000744c]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.811783[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.821757[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.836717[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.859656[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.869629[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.876610[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.890573[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.892567[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.907527[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.913511[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.928471[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.947420[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.962382[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.976343[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.981330[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.995293[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:32.996290[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.016237[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.017234[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.017234[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.027207[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.033191[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.036183[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.053138[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.055133[Thread 0x0000543c]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.069095[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.074082[Thread 0x0000543c]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.089043[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.095026[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.101010[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.110983[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.114973[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.121954[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.122952[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.131927[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.139906[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.153869[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.157858[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.160850[Thread 0x0000543c]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.173815[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:02:33.176807[Thread 0x0000543c]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[error]	2025-12-10 18:02:42.530510[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:02:44.500055[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:02:48.535200[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:02:50.324546[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-10 18:02:53.484029[Thread 0x00007534]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-12-10 18:03:12.557303[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:03:13.667296[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:03:14.237436[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:03:16.477329[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 18:03:58.129727[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-10 18:03:59.945465[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:03:59.960426[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:03:59.961423[Thread 0x00005ca8]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:03:59.976383[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:03:59.979375[Thread 0x00005ca8]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:03:59.991343[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.003311[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.029241[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.043205[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.053177[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.057167[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.074121[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.130969[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.146927[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.166873[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.182831[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.187817[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.201780[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.202778[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.203775[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.211753[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.218734[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.238681[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.239679[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.254639[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.255636[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.256633[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.256633[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.272591[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.273588[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.274586[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.276580[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.290542[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.290542[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.308494[Thread 0x000052a8]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.310489[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.315476[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.323455[Thread 0x000052a8]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.325449[Thread 0x0000744c]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.326447[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.331433[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.337417[Thread 0x000073b8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.344398[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.344398[Thread 0x0000744c]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.352377[Thread 0x000073b8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.359359[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:00.784535[Thread 0x00005ca8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-12-10 18:04:20.288831[Thread 0x000021d8]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-10 18:04:36.046620[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.052604[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.064572[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.074546[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.079532[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.083521[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.094492[Thread 0x000052a8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.095489[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.099479[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.100476[Thread 0x00006674]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.106460[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.114439[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.116433[Thread 0x00001c5c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.118428[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.124412[Thread 0x00006674]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.133390[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.142364[Thread 0x0000543c]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.149345[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.151340[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.158321[Thread 0x0000543c]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.165303[Thread 0x00006674]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.166300[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.178268[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.179266[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.184252[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.194226[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.195223[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.200209[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.214172[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.219159[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.234119[Thread 0x0000543c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.234119[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.247084[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.252071[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.257058[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.267031[Thread 0x0000744c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.273015[Thread 0x00005c10]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-10 18:04:36.277004[Thread 0x00001c5c]:Detected Voronoi edge intersecting input segment, input polygons wil

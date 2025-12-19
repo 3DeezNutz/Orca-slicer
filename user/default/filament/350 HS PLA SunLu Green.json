@@ -111,7 +111,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "28"
+        "30"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -232,7 +232,7 @@
     "is_custom_defined": "0",
     "name": "350 HS PLA SunLu Green",
     "nozzle_temperature": [
-        "225"
+        "230"
     ],
     "nozzle_temperature_initial_layer": [
         "225"

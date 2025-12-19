@@ -1,0 +1,51 @@
+[error]	2025-12-06 22:13:29.739596[Thread 0x000019c0]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2025-12-06 22:13:37.331797[Thread 0x000019c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-06 22:13:42.207135[Thread 0x000019c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-06 22:13:42.571492[Thread 0x000019c0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-06 22:13:43.122473[Thread 0x000022d8]:Error getting: `check_new_version_sf`: HTTP 503, 
+[error]	2025-12-06 22:13:53.193999[Thread 0x000019c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-06 22:42:16.062393[Thread 0x000038fc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-12-08 18:07:17.451589[Thread 0x00000604]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:07:17.449558[Thread 0x00004aa8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:07:17.471102[Thread 0x00000604]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:07:17.471102[Thread 0x00000c44]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:07:17.478085[Thread 0x00004aa8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:07:17.491083[Thread 0x00000c44]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:07:17.495074[Thread 0x00000604]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:07:17.515064[Thread 0x00000604]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:08:13.162942[Thread 0x000019c0]:Fontlist cache - 'C:\Users\tommy\AppData\Roaming\OrcaSlicer\cache\fonts.cereal' does not exists.
+[error]	2025-12-08 18:08:13.188746[Thread 0x000019c0]:Failed to write fontlist cache - C:\Users\tommy\AppData\Roaming\OrcaSlicer\cache\fonts.cerealFailed to write 4 bytes to output stream! Wrote 0
+[error]	2025-12-08 18:08:16.475298[Thread 0x000019c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-08 18:08:53.658662[Thread 0x000019c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-08 18:09:17.046719[Thread 0x000019c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-08 18:09:19.009503[Thread 0x000019c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-08 18:09:20.082038[Thread 0x000019c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-08 18:09:33.251412[Thread 0x000019c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-08 18:09:34.311979[Thread 0x000019c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-08 18:09:35.776401[Thread 0x000019c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-08 18:09:36.269585[Thread 0x000019c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-08 18:09:37.980913[Thread 0x000019c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-08 18:09:46.510301[Thread 0x000019c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-08 18:09:48.469835[Thread 0x000019c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-08 18:09:50.474120[Thread 0x000019c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-08 18:09:51.091601[Thread 0x000019c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-08 18:10:09.337079[Thread 0x000019c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-08 18:10:12.304890[Thread 0x00004aa8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:10:12.325869[Thread 0x00004aa8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:10:12.351853[Thread 0x00004aa8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:10:12.354846[Thread 0x00006e2c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:10:12.370837[Thread 0x00004aa8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:10:12.371836[Thread 0x00006e2c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:10:12.432167[Thread 0x00000c44]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:10:12.445662[Thread 0x00000c44]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-12-08 18:10:23.962860[Thread 0x000019c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-08 18:10:54.171757[Thread 0x000019c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-08 18:10:56.015691[Thread 0x00001b9c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:10:56.030681[Thread 0x00001b9c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:10:56.087630[Thread 0x00002e88]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:10:56.111108[Thread 0x00002e88]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:10:56.118091[Thread 0x00001b9c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:10:56.138077[Thread 0x00002e88]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-08 18:10:56.163569[Thread 0x00002e88]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-12-08 18:11:13.395480[Thread 0x000019c0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 04:53:24.287816[Thread 0x000019c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
