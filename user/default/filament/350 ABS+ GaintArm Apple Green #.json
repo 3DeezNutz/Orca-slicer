@@ -226,13 +226,16 @@
     "internal_bridge_fan_speed": [
         "-1"
     ],
+    "ironing_fan_speed": [
+        "-1"
+    ],
     "is_custom_defined": "0",
     "name": "350 ABS+ GaintArm Apple Green #",
     "nozzle_temperature": [
-        "260"
+        "270"
     ],
     "nozzle_temperature_initial_layer": [
-        "255"
+        "260"
     ],
     "nozzle_temperature_range_high": [
         "260"

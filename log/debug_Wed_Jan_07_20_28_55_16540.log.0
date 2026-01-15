@@ -1,0 +1,206 @@
+[error]	2026-01-07 20:29:04.547522[Thread 0x000049b4]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2026-01-07 20:29:11.163786[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-07 20:29:15.306286[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-07 20:29:15.585236[Thread 0x000049b4]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-01-07 20:29:31.822806[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:31.826795[Thread 0x00004e98]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:31.832780[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:31.836769[Thread 0x00004e98]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:31.836769[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:31.846742[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:31.962848[Thread 0x00004e98]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:31.968831[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:31.972821[Thread 0x00004e98]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:31.976810[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:31.978805[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:31.986783[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.097487[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.102474[Thread 0x00004e98]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.107460[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.122421[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.131397[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.247087[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.251077[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.257061[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.261050[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.306927[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.317898[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.379732[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.389706[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.436581[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.447552[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.468495[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.480463[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.517365[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.527338[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.555263[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.560250[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.567231[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.570223[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.611114[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.622085[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.706858[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.716831[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.716831[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.728799[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.778227[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.789197[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.862003[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.868984[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.873971[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.878957[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.919848[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.929821[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.992654[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:32.996643[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:33.003625[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:33.007613[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:33.067453[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:33.077427[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:33.144249[Thread 0x00002b28]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:33.152085[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:33.155590[Thread 0x00002b28]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:33.163568[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:33.177530[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:29:33.187504[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2026-01-07 20:29:41.379048[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-07 20:29:44.011509[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-07 20:29:44.064321[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-07 20:29:46.927746[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-07 20:29:47.488333[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-07 20:29:53.908341[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-07 20:29:54.391042[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-07 20:29:59.520806[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-07 20:30:00.818051[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-07 20:30:04.589251[Thread 0x00002b28]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:04.600222[Thread 0x00002b28]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:04.619171[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:04.629145[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:04.734862[Thread 0x00002b28]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:04.745833[Thread 0x00002b28]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:04.760793[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:04.770767[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:04.874489[Thread 0x00002b28]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:04.901417[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:04.911390[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.053012[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.063982[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.093903[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.094899[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.103876[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.105870[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.201614[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.211588[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.234526[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.245497[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.245497[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.255470[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.344233[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.354206[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.363183[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.368169[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.373155[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.380137[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.423022[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.432996[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.470400[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.480375[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.569138[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.579111[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.592077[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.603047[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.604044[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.613020[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.702780[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.712754[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.713751[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.723724[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.743671[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.756636[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.810492[Thread 0x00002b28]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.821464[Thread 0x00002b28]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.842407[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.852380[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.874322[Thread 0x00005d34]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.884295[Thread 0x00005d34]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.888284[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.893271[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.898257[Thread 0x00005b38]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.904242[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.926183[Thread 0x00002b28]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.936157[Thread 0x00002b28]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.973531[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:05.983516[Thread 0x00005094]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:06.017703[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-07 20:30:06.024035[Thread 0x000062d4]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2026-01-08 20:12:06.020790[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 20:12:10.492800[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 20:12:10.617708[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 20:12:10.730813[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 20:12:16.229771[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 20:12:16.339907[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 20:12:44.256292[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 20:14:06.746036[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 20:14:20.641603[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 20:14:20.755093[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 20:14:21.735350[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-08 20:14:22.590562[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2026-01-08 20:14:33.458879[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 20:16:26.726813[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-08 20:22:43.872353[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-01-09 04:53:46.051229[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-01-09 04:53:49.429323[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-01-09 05:11:16.654018[Thread 0x000049b4]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 2, can not switch
+[error]	2026-01-09 05:11:16.702810[Thread 0x00005b38]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[warning]	2026-01-09 05:28:27.646689[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2026-01-09 21:34:11.621914[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 16:34:41.592565[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-10 16:38:32.678382[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2026-01-10 16:51:35.930787[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2026-01-10 17:45:39.310285[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2026-01-10 22:33:23.749426[Thread 0x00005b38]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-10 22:33:23.765728[Thread 0x00005b38]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-10 22:33:23.774402[Thread 0x00005b38]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-10 22:33:23.784565[Thread 0x00005b38]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-10 22:33:23.792052[Thread 0x00005b38]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-10 22:33:23.801547[Thread 0x00005b38]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-10 22:33:23.809528[Thread 0x00005b38]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-10 22:33:23.819588[Thread 0x00005b38]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-10 22:33:23.827833[Thread 0x00005b38]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-10 22:33:24.207360[Thread 0x00005b38]:gcode path conflicts found between Long 4.5mm.stl and Short Handle.stl
+[error]	2026-01-10 22:33:57.320498[Thread 0x00005b38]:gcode path conflicts found between Long 4.5mm.stl and Short Handle.stl
+[warning]	2026-01-10 22:49:36.729588[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2026-01-10 22:49:59.217569[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2026-01-10 22:50:09.347470[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2026-01-10 22:50:09.692656[Thread 0x000049b4]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5502: ui jobs running, return false
+[warning]	2026-01-10 23:06:51.141295[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":3000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2026-01-10 23:07:01.501541[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":10410000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2026-01-10 23:07:11.099369[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2026-01-10 23:07:16.012984[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-10 23:07:22.665226[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2026-01-10 23:07:28.507053[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2026-01-10 23:07:58.744346[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 23:07:58.747391[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 23:08:05.448026[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-10 23:08:05.450020[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-10 23:08:25.745028[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2026-01-11 05:37:40.105758[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-11 05:40:42.113257[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2026-01-11 05:47:46.274115[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-11 05:48:09.593559[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2026-01-11 05:48:13.874864[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-11 05:48:37.367273[Thread 0x00005fdc]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2026-01-11 05:48:40.522594[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-11 05:48:44.434359[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-11 06:15:34.983118[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-11 06:15:36.705568[Thread 0x00002bc8]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-11 06:15:37.172780[Thread 0x00005f18]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2026-01-11 06:29:01.117469[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-11 06:29:11.725180[Thread 0x00002bc8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-11 06:29:13.227151[Thread 0x00005f18]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-11 06:29:14.340943[Thread 0x00005d34]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2026-01-11 06:30:18.682973[Thread 0x000049b4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-11 08:18:00.471000[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-11 08:18:02.859717[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-11 08:18:12.174835[Thread 0x00002bc8]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2026-01-11 09:02:46.339435[Thread 0x000049b4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

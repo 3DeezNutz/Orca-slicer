@@ -173,3 +173,77 @@
 [error]	2025-12-24 19:20:21.423404[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-12-24 19:21:16.349825[Thread 0x00001de4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
 [error]	2025-12-24 19:21:17.954314[Thread 0x00001de4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-24 19:21:51.017993[Thread 0x00001de4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-25 09:48:08.709575[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-25 09:49:18.933150[Thread 0x00004ca0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2025-12-25 09:49:35.643624[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 09:49:35.645624[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-25 09:50:12.239325[Thread 0x00004ca0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-12-25 09:51:51.838677[Thread 0x00001de4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-25 09:52:33.733573[Thread 0x00001de4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-25 09:52:53.352837[Thread 0x00001de4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-25 09:53:45.748060[Thread 0x00001de4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-25 09:53:47.240241[Thread 0x00001de4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-25 09:53:48.132875[Thread 0x00001de4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-25 09:53:48.887436[Thread 0x00001de4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-25 09:54:19.254433[Thread 0x00001de4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-25 09:58:27.057652[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 10:15:50.213472[Thread 0x00000578]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_waveshare_display_accent_b_x1_ABS+_35m23s
+ ^
+[warning]	2025-12-25 10:55:23.343038[Thread 0x00001bf0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-25 10:55:23.389912[Thread 0x00004e7c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-12-25 10:55:23.508596[Thread 0x00004e7c]:Reversing even wall line causes it to be printed CCW instead of CW!
+[warning]	2025-12-25 10:55:23.536520[Thread 0x00004e7c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-25 10:55:23.586387[Thread 0x00004e7c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-25 10:55:23.603342[Thread 0x00004e6c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-25 10:55:23.645229[Thread 0x00004e6c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-25 10:55:23.649219[Thread 0x00004e7c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-25 10:55:23.708062[Thread 0x00004e7c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-25 10:57:36.347443[Thread 0x00004ca0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-12-25 12:43:59.502565[Thread 0x00004ca0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-12-25 12:45:09.259668[Thread 0x00004ca0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-12-25 12:45:25.908973[Thread 0x00004ca0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2025-12-25 12:47:19.358142[Thread 0x00004ca0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-12-25 12:47:35.722207[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:35.726746[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:35.729741[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:36.082833[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:36.086329[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:36.089327[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:36.427219[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:36.430275[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:36.433333[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:36.820697[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:36.822908[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:36.825610[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:37.184514[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:37.189111[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:37.193178[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:37.595421[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:37.600460[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:37.604450[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:38.032696[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:38.037709[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:38.041859[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:38.456986[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:38.459390[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:38.461428[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:38.909366[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:38.912432[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:38.915439[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:39.509395[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:39.514102[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:47:39.518703[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 12:50:34.952417[Thread 0x00000578]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_right_duct_x1_ABS+_57m59s
+ ^
+[error]	2025-12-25 16:41:30.756807[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-25 16:45:06.956236[Thread 0x00004ca0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2025-12-25 18:56:06.572991[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 18:56:06.576223[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 18:56:27.959334[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 18:56:27.969322[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-25 19:01:31.138091[Thread 0x00004ca0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2025-12-25 20:11:13.696348[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-25 20:11:24.410684[Thread 0x00001de4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

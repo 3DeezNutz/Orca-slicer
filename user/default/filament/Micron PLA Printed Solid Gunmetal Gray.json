@@ -1,0 +1,37 @@
+{
+    "compatible_printers": [
+        "Voron 2.4 300 0.4 nozzle"
+    ],
+    "default_filament_colour": [
+        "#909090"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.943"
+    ],
+    "filament_max_volumetric_speed": [
+        "27"
+    ],
+    "filament_settings_id": [
+        "Micron PLA Printed Solid Gunmetal Gray"
+    ],
+    "filament_vendor": [
+        "Printed Solid"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "SUNLU PLA+ @System",
+    "is_custom_defined": "0",
+    "name": "Micron PLA Printed Solid Gunmetal Gray",
+    "pressure_advance": [
+        "0.027"
+    ],
+    "version": "2.3.0.3"
+}
