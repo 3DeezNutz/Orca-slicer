@@ -1,0 +1,5 @@
+[info]	2026-03-24 17:15:21.404305[Thread 0x00003548]:gui mode, Current OrcaSlicer Version 2.3.2 build c724a3f5
+[info]	2026-03-24 17:15:21.404305[Thread 0x00003548]:Migrating legacy_networking=true to network_plugin_version=01.10.01.01
+[fatal]	2026-03-24 17:15:21.647734[Thread 0x00003548]:OnInit Got Fatal error: boost::filesystem::remove_all: Access is denied [system:5]: "C:\Users\tommy\AppData\Roaming\OrcaSlicer\system\Custom\filament\fdm_filament_pc.json"
+[error]	2026-03-24 17:15:21.647734[Thread 0x00003548]:Uncaught exception: boost::filesystem::remove_all: Access is denied [system:5]: "C:\Users\tommy\AppData\Roaming\OrcaSlicer\system\Custom\filament\fdm_filament_pc.json"
+[warning]	2026-03-24 17:15:21.647734[Thread 0x00003548]:17:15:21: Error: OrcaSlicer got an unhandled exception: boost::filesystem::remove_all: Access is denied [system:5]: "C:\Users\tommy\AppData\Roaming\OrcaSlicer\system\Custom\filament\fdm_filament_pc.json"

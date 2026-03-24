@@ -1,0 +1,39 @@
+[error]	2026-03-14 07:25:42.018986[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Speed @MINIIS - Copy.json!
+[error]	2026-03-14 07:25:42.057550[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2026-03-14 07:25:42.059871[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @MINIIS - Copy.json!
+[error]	2026-03-14 07:25:42.066380[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard TPU @MINIIS - Copy.json!
+[error]	2026-03-14 07:25:43.018234[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa Mini+ 0.4 nozzle.json!
+[error]	2026-03-14 07:25:43.028621[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa MINIIS 0.4 nozzle - Copy.json!
+[error]	2026-03-14 07:25:48.037461[Thread 0x000042f8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-14 07:25:52.152862[Thread 0x000042f8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-14 07:25:52.500265[Thread 0x000042f8]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-03-14 07:51:35.902723[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Speed @MINIIS - Copy.json!
+[error]	2026-03-14 07:51:35.905221[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2026-03-14 07:51:35.905221[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @MINIIS - Copy.json!
+[error]	2026-03-14 07:51:35.905221[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard TPU @MINIIS - Copy.json!
+[error]	2026-03-14 07:51:36.023620[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa Mini+ 0.4 nozzle.json!
+[error]	2026-03-14 07:51:36.023620[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa MINIIS 0.4 nozzle - Copy.json!
+[error]	2026-03-14 07:52:11.261048[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Speed @MINIIS - Copy.json!
+[error]	2026-03-14 07:52:11.263446[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2026-03-14 07:52:11.263446[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @MINIIS - Copy.json!
+[error]	2026-03-14 07:52:11.263446[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard TPU @MINIIS - Copy.json!
+[error]	2026-03-14 07:52:11.389581[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa Mini+ 0.4 nozzle.json!
+[error]	2026-03-14 07:52:11.389581[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa MINIIS 0.4 nozzle - Copy.json!
+[error]	2026-03-14 07:52:31.116843[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Speed @MINIIS - Copy.json!
+[error]	2026-03-14 07:52:31.119254[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2026-03-14 07:52:31.119254[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @MINIIS - Copy.json!
+[error]	2026-03-14 07:52:31.120279[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard TPU @MINIIS - Copy.json!
+[error]	2026-03-14 07:52:31.247006[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa Mini+ 0.4 nozzle.json!
+[error]	2026-03-14 07:52:31.248034[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa MINIIS 0.4 nozzle - Copy.json!
+[error]	2026-03-14 07:53:47.865725[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Speed @MINIIS - Copy.json!
+[error]	2026-03-14 07:53:47.868009[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2026-03-14 07:53:47.868009[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @MINIIS - Copy.json!
+[error]	2026-03-14 07:53:47.868009[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard TPU @MINIIS - Copy.json!
+[error]	2026-03-14 07:53:47.992382[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa Mini+ 0.4 nozzle.json!
+[error]	2026-03-14 07:53:47.992382[Thread 0x000042f8]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa MINIIS 0.4 nozzle - Copy.json!
+[error]	2026-03-14 07:53:57.458678[Thread 0x000042f8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-14 07:54:04.269217[Thread 0x000042f8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-14 07:55:32.352089[Thread 0x000042f8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-14 07:55:41.074262[Thread 0x000042f8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-14 07:55:44.698812[Thread 0x000042f8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-14 07:55:48.818296[Thread 0x000042f8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

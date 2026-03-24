@@ -1,0 +1,37 @@
+{
+    "before_layer_change_gcode": "SET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}\n;BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0\n",
+    "deretraction_speed": [
+        "40"
+    ],
+    "from": "User",
+    "inherits": "MyKlipper 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_max_acceleration_extruding": [
+        "4000",
+        "20000"
+    ],
+    "machine_max_acceleration_x": [
+        "4000",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "4000",
+        "20000"
+    ],
+    "machine_start_gcode": ":M190 S[bed_temperature_initial_layer_single]\nCLEAR_PAUSE\nSTART_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single] \n:M109 S[nozzle_temperature_initial_layer]",
+    "name": "Ender 3 pro",
+    "print_host": "klipper1.local:7125",
+    "print_host_webui": "http://klipper1.local/7125",
+    "printable_area": [
+        "0x0",
+        "235x0",
+        "235x235",
+        "0x235"
+    ],
+    "printer_settings_id": "Ender 3 pro",
+    "retraction_speed": [
+        "40"
+    ],
+    "version": "1.8.0.0"
+}

@@ -1,0 +1,37 @@
+{
+    "compatible_printers": [
+        "Voron 0.1 0.4 nozzle"
+    ],
+    "default_filament_colour": [
+        "#FF00FF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "1.014"
+    ],
+    "filament_max_volumetric_speed": [
+        "24"
+    ],
+    "filament_settings_id": [
+        "V0 PLA Ambrosia Hot Pink"
+    ],
+    "filament_vendor": [
+        "Ambrosia "
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "SUNLU PLA+ @System",
+    "is_custom_defined": "0",
+    "name": "V0 PLA Ambrosia Hot Pink",
+    "pressure_advance": [
+        "0.015"
+    ],
+    "version": "2.3.1.10"
+}

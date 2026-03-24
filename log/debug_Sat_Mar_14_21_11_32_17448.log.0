@@ -1,0 +1,61 @@
+[error]	2026-03-14 21:11:36.835006[Thread 0x00004480]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Speed @MINIIS - Copy.json!
+[error]	2026-03-14 21:11:36.901577[Thread 0x00004480]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2026-03-14 21:11:36.917535[Thread 0x00004480]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @MINIIS - Copy.json!
+[error]	2026-03-14 21:11:36.933491[Thread 0x00004480]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard TPU @MINIIS - Copy.json!
+[error]	2026-03-14 21:11:38.550181[Thread 0x00004480]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa Mini+ 0.4 nozzle.json!
+[error]	2026-03-14 21:11:38.563650[Thread 0x00004480]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa MINIIS 0.4 nozzle - Copy.json!
+[error]	2026-03-14 21:11:54.415460[Thread 0x00004480]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-14 21:12:01.733560[Thread 0x00004480]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-03-14 21:13:04.709911[Thread 0x00004480]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-14 21:13:05.436177[Thread 0x00004480]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-14 21:13:05.439169[Thread 0x00004480]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-14 21:13:05.571903[Thread 0x00004480]:Slic3r::PresetCollection::validate_preset: preset_name 350 PLA+ SunLu White, inherit_name Voron Generic PLA, can not found preset and inherit in list
+[warning]	2026-03-14 21:13:05.571903[Thread 0x00004480]:Slic3r::PresetBundle::validate_presets:file_name .3mf, found the filament 1 preset not inherit from system
+[warning]	2026-03-14 21:13:05.571903[Thread 0x00004480]:Slic3r::PresetBundle::validate_presets:file_name .3mf, found self defined presets, count 1
+[error]	2026-03-14 21:13:15.597790[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:13:18.318139[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:13:48.319152[Thread 0x00004480]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-14 21:13:59.103972[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:13:59.227678[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:14:05.518188[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:14:09.807562[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:14:11.304356[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:14:15.903996[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:14:16.562451[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:14:23.720538[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:14:36.679188[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:14:36.788922[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:14:39.373910[Thread 0x00004480]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-14 21:14:39.376004[Thread 0x00004480]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-14 21:14:39.378323[Thread 0x00004480]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-14 21:14:40.076985[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:14:42.378994[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:14:42.431653[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:14:42.534793[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:14:46.380425[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:14:48.152965[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:14:51.708091[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:15:03.024328[Thread 0x00004480]:its_write_stl_binary: Couldn't open <cancel> for writing
+[error]	2026-03-14 21:15:21.692801[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:15:24.178161[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:15:26.280840[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:15:46.788018[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:15:47.587770[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:15:47.777985[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:15:48.104515[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:15:48.426114[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:15:48.689264[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:15:49.002981[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:15:49.309552[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:15:49.725407[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:15:49.908821[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:15:51.456749[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:15:53.454845[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:15:54.917464[Thread 0x00004480]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-14 21:15:54.919690[Thread 0x00004480]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-14 21:16:21.099525[Thread 0x00004480]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-14 21:16:26.223850[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:16:26.272555[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:16:26.373449[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:16:37.571761[Thread 0x00004480]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-14 21:16:45.305859[Thread 0x00004480]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

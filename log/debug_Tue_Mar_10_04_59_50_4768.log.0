@@ -1,0 +1,84 @@
+[error]	2026-03-10 04:59:55.629382[Thread 0x00001148]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Speed @MINIIS - Copy.json!
+[error]	2026-03-10 04:59:55.676625[Thread 0x00001148]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2026-03-10 04:59:55.692366[Thread 0x00001148]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @MINIIS - Copy.json!
+[error]	2026-03-10 04:59:55.692366[Thread 0x00001148]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard TPU @MINIIS - Copy.json!
+[error]	2026-03-10 04:59:56.962272[Thread 0x00001148]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa Mini+ 0.4 nozzle.json!
+[error]	2026-03-10 04:59:56.974194[Thread 0x00001148]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa MINIIS 0.4 nozzle - Copy.json!
+[error]	2026-03-10 05:00:02.987366[Thread 0x00001148]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-10 05:00:07.062772[Thread 0x00001148]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-03-10 05:00:36.423377[Thread 0x00001148]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-10 05:00:36.938267[Thread 0x00001148]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-10 05:22:12.352848[Thread 0x00001148]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-10 05:22:13.851071[Thread 0x00001148]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-10 05:22:26.297331[Thread 0x0000119c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-10 05:22:26.498792[Thread 0x000048cc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-10 05:22:26.559629[Thread 0x000048cc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-10 05:22:26.595533[Thread 0x000048cc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2026-03-10 16:30:36.018920[Thread 0x00001148]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-10 16:31:35.920610[Thread 0x00001148]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-10 16:31:39.599550[Thread 0x00004be8]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[warning]	2026-03-10 18:06:22.960162[Thread 0x00000fc0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-03-10 19:48:59.431249[Thread 0x00001148]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-10 19:50:11.194892[Thread 0x00001148]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-10 19:50:22.317323[Thread 0x00001148]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-10 20:14:06.278079[Thread 0x00001148]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-10 20:18:17.285710[Thread 0x00001148]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-10 20:18:56.254853[Thread 0x00001148]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-10 20:32:32.002329[Thread 0x00001148]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-10 20:50:22.917922[Thread 0x00001148]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-10 20:55:44.748033[Thread 0x00001148]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-10 20:56:39.780134[Thread 0x00001148]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-10 20:57:17.545862[Thread 0x00001148]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-10 20:57:21.719303[Thread 0x00001148]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-10 20:57:27.907055[Thread 0x00001148]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-10 20:57:39.884441[Thread 0x00001148]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-10 21:10:15.126441[Thread 0x00001148]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-10 21:11:29.777387[Thread 0x00001148]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-10 21:14:29.676232[Thread 0x00001148]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-10 21:18:04.087314[Thread 0x00000914]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:18:04.139176[Thread 0x00000914]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:18:04.392260[Thread 0x00002f48]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:18:04.402124[Thread 0x00000914]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:18:04.419244[Thread 0x00002f48]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:18:04.430556[Thread 0x00000914]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:18:04.481189[Thread 0x00001500]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:18:04.507283[Thread 0x00001500]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:18:04.607239[Thread 0x00001500]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:18:04.618231[Thread 0x00002f48]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:18:04.640223[Thread 0x00001500]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:18:04.656343[Thread 0x00002f48]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:18:04.677385[Thread 0x00001500]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:18:04.708243[Thread 0x000033fc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:18:04.711235[Thread 0x00001500]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:18:04.762262[Thread 0x000033fc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2026-03-10 21:19:01.318824[Thread 0x00001148]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-10 21:20:14.080681[Thread 0x0000119c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:20:14.088712[Thread 0x00002f48]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:20:14.106515[Thread 0x0000119c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:20:14.114281[Thread 0x00002f48]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:20:14.294847[Thread 0x0000119c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:20:14.319533[Thread 0x0000119c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:20:14.327456[Thread 0x00002f48]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:20:14.361359[Thread 0x00002f48]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:20:14.361359[Thread 0x000048cc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:20:14.391412[Thread 0x000048cc]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:20:14.402964[Thread 0x00002f48]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:20:14.425754[Thread 0x0000431c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:20:14.436884[Thread 0x00002f48]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:20:14.465859[Thread 0x0000431c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:20:14.478684[Thread 0x00002f48]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:20:14.513809[Thread 0x00002f48]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:46:02.959412[Thread 0x00001500]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:46:02.989332[Thread 0x00001500]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:46:03.112004[Thread 0x00002f48]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:46:03.140927[Thread 0x00002f48]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:46:03.240661[Thread 0x00001500]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:46:03.267589[Thread 0x00001500]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:46:03.315461[Thread 0x000033fc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:46:03.340394[Thread 0x00001500]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:46:03.349370[Thread 0x000033fc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:46:03.366325[Thread 0x00001500]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:46:03.393252[Thread 0x000033fc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:46:03.431930[Thread 0x000033fc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:46:03.474815[Thread 0x000033fc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-10 21:46:03.513711[Thread 0x000033fc]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.

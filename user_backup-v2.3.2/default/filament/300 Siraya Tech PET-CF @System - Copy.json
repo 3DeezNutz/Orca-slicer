@@ -1,0 +1,43 @@
+{
+    "compatible_printers": [
+        "Voron 2.4 300 0.6 nozzle"
+    ],
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "fan_min_speed": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "300 Siraya Tech PET-CF @System - Copy"
+    ],
+    "filament_vendor": [
+        "Siraya Tech"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "90"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "90"
+    ],
+    "inherits": "Bambu PET-CF @System",
+    "is_custom_defined": "0",
+    "name": "300 Siraya Tech PET-CF @System - Copy",
+    "nozzle_temperature": [
+        "280"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "280"
+    ],
+    "nozzle_temperature_range_high": [
+        "310"
+    ],
+    "pressure_advance": [
+        "0.024"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "1"
+    ],
+    "version": "2.3.0.3"
+}

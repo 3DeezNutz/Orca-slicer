@@ -1,3 +1,0 @@
-[error]	2026-01-14 04:48:07.204607[Thread 0x00000e20]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
-[error]	2026-01-14 04:48:17.030478[Thread 0x00000e20]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2026-01-14 04:48:22.463405[Thread 0x00000e20]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

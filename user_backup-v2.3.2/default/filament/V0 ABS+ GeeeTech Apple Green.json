@@ -1,0 +1,52 @@
+{
+    "compatible_printers": [
+        "Voron 0.1 0.4 nozzle"
+    ],
+    "default_filament_colour": [
+        "#C0FC52"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "60"
+    ],
+    "fan_min_speed": [
+        "60"
+    ],
+    "filament_end_gcode": [
+        "; filament end gcode\nSET_GCODE_OFFSET z=0"
+    ],
+    "filament_flow_ratio": [
+        "0.958"
+    ],
+    "filament_max_volumetric_speed": [
+        "26"
+    ],
+    "filament_settings_id": [
+        "V0 ABS+ GeeeTech Apple Green"
+    ],
+    "filament_start_gcode": [
+        "; Filament gcode\nSET_GCODE_OFFSET z=0\n\nSET_GCODE_OFFSET Z_ADJUST=0.120"
+    ],
+    "filament_type": [
+        "ABS+"
+    ],
+    "filament_vendor": [
+        "GeeeTech"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "105"
+    ],
+    "inherits": "Generic ABS @System",
+    "is_custom_defined": "0",
+    "name": "V0 ABS+ GeeeTech Apple Green",
+    "nozzle_temperature_range_high": [
+        "300"
+    ],
+    "nozzle_temperature_range_low": [
+        "250"
+    ],
+    "version": "2.3.1.10"
+}

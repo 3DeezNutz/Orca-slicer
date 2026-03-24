@@ -1,0 +1,15 @@
+{
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Speed @MINIIS",
+    "is_custom_defined": "0",
+    "name": "0.20mm Speed @MINIIS - Copy",
+    "only_one_wall_first_layer": "1",
+    "only_one_wall_top": "1",
+    "print_settings_id": "0.20mm Speed @MINIIS - Copy",
+    "sparse_infill_pattern": "cubic",
+    "top_shell_layers": "4",
+    "top_surface_pattern": "monotonic",
+    "version": "2.2.0.4",
+    "wall_loops": "4"
+}

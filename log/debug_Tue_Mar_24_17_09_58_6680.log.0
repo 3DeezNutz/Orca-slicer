@@ -1,0 +1,14 @@
+[info]	2026-03-24 17:09:58.623555[Thread 0x00005930]:gui mode, Current OrcaSlicer Version 2.3.2 build c724a3f5
+[info]	2026-03-24 17:09:58.626807[Thread 0x00005930]:Migrating legacy_networking=true to network_plugin_version=01.10.01.01
+[error]	2026-03-24 17:09:59.639976[Thread 0x00005930]:can not find parent 0.20mm Speed @MINIIS for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Speed @MINIIS - Copy.json!
+[error]	2026-03-24 17:09:59.642405[Thread 0x00005930]:can not find parent 0.20mm Standard @Creality Ender3S1 for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2026-03-24 17:09:59.646718[Thread 0x00005930]:can not find parent 0.20mm Standard @MINIIS for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @MINIIS - Copy.json!
+[error]	2026-03-24 17:09:59.646718[Thread 0x00005930]:can not find parent 0.20mm Standard @MINIIS for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard TPU @MINIIS - Copy.json!
+[error]	2026-03-24 17:09:59.779289[Thread 0x00005930]:can not find parent Prusa MINIIS 0.4 nozzle for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa Mini+ 0.4 nozzle.json!
+[error]	2026-03-24 17:09:59.779289[Thread 0x00005930]:can not find parent Prusa MINIIS 0.4 nozzle for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa MINIIS 0.4 nozzle - Copy.json!
+[warning]	2026-03-24 17:10:00.158238[Thread 0x00005930]:17:10:00: Error: can't open file 'C:\Users\tommy\Desktop\OrcaSlicer\resources\images\printer_sync_not.png' (error 2: The system cannot find the file specified.)
+[warning]	2026-03-24 17:10:00.158238[Thread 0x00005930]:17:10:00: Error: Failed to load image from file "C:\Users\tommy\Desktop\OrcaSlicer\resources\images\printer_sync_not.png".
+[error]	2026-03-24 17:10:00.158238[Thread 0x00005930]:create_scaled_bitmapCould not load bitmap: printer_sync_not
+[fatal]	2026-03-24 17:10:00.215777[Thread 0x00005930]:OnInit Got Fatal error: Could not load bitmap: printer_sync_not
+[error]	2026-03-24 17:10:00.215777[Thread 0x00005930]:Uncaught exception: Could not load bitmap: printer_sync_not
+[warning]	2026-03-24 17:10:00.215777[Thread 0x00005930]:17:10:00: Error: OrcaSlicer got an unhandled exception: Could not load bitmap: printer_sync_not

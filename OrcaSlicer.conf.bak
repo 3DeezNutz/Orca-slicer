@@ -1,14 +1,20 @@
 {
     "app": {
+        "allow_abnormal_storage": false,
         "allow_ip_resolve": true,
+        "ams_sync_match_full_use_color_dist": false,
         "angle_defletion": "0.5",
         "associate_3mf": false,
+        "associate_drc": false,
         "associate_step": false,
         "associate_stl": false,
         "auto_arrange": true,
         "auto_calculate": true,
+        "auto_calculate_flush": "all",
         "auto_calculate_when_filament_change": true,
         "auto_perspective": false,
+        "auto_slice_after_change": false,
+        "auto_slice_change_delay_seconds": "1",
         "backup_interval": "10",
         "backup_switch": true,
         "camera_navigation_style": "0",
@@ -20,22 +26,30 @@
         "developer_mode": false,
         "do_not_show_modifer_tips": true,
         "download_path": "D:\\",
+        "drc_bits": "0",
         "drop_project_action": true,
         "dump_video": false,
+        "enable_append_color_by_sync_ams": true,
+        "enable_high_low_temp_mixed_printing": false,
+        "enable_merge_color_by_sync_ams": false,
         "enable_multi_machine": false,
         "enable_ssl_for_ftp": true,
         "enable_ssl_for_mqtt": true,
         "enable_step_mesh_setting": true,
+        "export_sources_full_pathnames": false,
+        "filaments_area_preferred_count": "10",
         "flush_multiplier": "1.000000",
+        "group_filament_presets": "1",
+        "ignore_ext_filament_in_filament_map": false,
         "import_project_action": "2",
+        "installed_networking": false,
         "internal_developer_mode": false,
         "iot_environment": "3",
         "is_split_compound": false,
         "keyboard_supported": "none/alt/control/shift",
         "language": "en_GB",
-        "last_backup_path": "C:\\Users\\tommy\\AppData\\Local\\Temp/orcaslicer_model/Wed_Jan_14/17_31_52#17804#50",
-        "last_export_path": "D:\\Bed fan ramps Z chain\\3 hole chain",
-        "legacy_networking": true,
+        "last_backup_path": "C:\\Users\\tommy\\AppData\\Local\\Temp/orcaslicer_model/Tue_Mar_24/17_15_35#14184#50",
+        "last_export_path": "D:\\",
         "linear_defletion": "0.003",
         "log_severity_level": "warning",
         "max_recent_count": "18",
@@ -43,8 +57,11 @@
         "mouse_supported": "mouse left/mouse middle/mouse right",
         "mouse_wheel": "0",
         "move_view": "none/mouse left",
+        "network_plugin_version": "01.10.01.09",
         "open_device_tab_post_upload": false,
+        "pop_up_filament_map_dialog": false,
         "precise_control": "none/mouse left",
+        "prefered_filament_map_mode": "Auto For Flush",
         "preset_folder": "",
         "print_host_queue_dialog_column_0": "80",
         "print_host_queue_dialog_column_1": "80",
@@ -64,16 +81,22 @@
         "reverse_mouse_wheel_zoom": false,
         "rotate_view": "none/mouse left",
         "sending_interval": "5",
+        "seq_top_layer_only": "1",
         "show_3d_navigator": true,
+        "show_axes": true,
         "show_build_edgets": false,
+        "show_canvas_zoom_button": true,
         "show_daily_tips": true,
         "show_drop_project_dialog": true,
-        "show_gcode_window": true,
+        "show_gcode_window": false,
         "show_hints": true,
         "show_home_page": true,
+        "show_labels": false,
         "show_model_mesh": false,
         "show_model_shadow": true,
         "show_outline": false,
+        "show_overhang": false,
+        "show_plate_gridlines": true,
         "show_printable_box": true,
         "show_splash_screen": true,
         "single_instance": false,
@@ -82,11 +105,13 @@
         "slicer_uuid": "40656b55-6593-42ad-92ce-4e0983fd1982",
         "stealth_mode": true,
         "swap_mouse_buttons": false,
+        "sync_ams_filament_mode": "0",
         "sync_system_preset": true,
         "sync_user_preset": true,
         "sys_menu_enabled": "1",
         "toolkit_size": "100",
         "units": "0",
+        "use_encrypted_token_file": false,
         "use_free_camera": false,
         "use_inches": "0",
         "use_legacy_3DConnexion": true,
@@ -143,7 +168,6 @@
         "Generic ABS @System",
         "Generic ASA",
         "Generic ASA @0.2 nozzle",
-        "Generic ASA @AD4",
         "Generic ASA @BBL A1",
         "Generic ASA @BBL A1 0.2 nozzle",
         "Generic ASA @BBL P1P",
@@ -361,7 +385,6 @@
         "SUNLU PLA Matte @BBL X1C 0.2 nozzle",
         "SUNLU PLA Matte @FF AD3",
         "SUNLU PLA Matte @FF AD5M",
-        "SUNLU PLA Matte @FF AD5M 0.25 nozzle",
         "SUNLU PLA Matte @System",
         "SUNLU PLA+ 2.0 @BBL A1",
         "SUNLU PLA+ 2.0 @BBL A1 0.2 nozzle",
@@ -374,7 +397,6 @@
         "SUNLU PLA+ 2.0 @BBL X1C 0.2 nozzle",
         "SUNLU PLA+ 2.0 @FF AD3",
         "SUNLU PLA+ 2.0 @FF AD5M",
-        "SUNLU PLA+ 2.0 @FF AD5M 0.25 nozzle",
         "SUNLU PLA+ 2.0 @System",
         "SUNLU PLA+ @BBL A1",
         "SUNLU PLA+ @BBL A1 0.2 nozzle",
@@ -387,7 +409,6 @@
         "SUNLU PLA+ @BBL X1C 0.2 nozzle",
         "SUNLU PLA+ @FF AD3",
         "SUNLU PLA+ @FF AD5M",
-        "SUNLU PLA+ @FF AD5M 0.25 nozzle",
         "SUNLU PLA+ @System",
         "eSUN PLA+ @BBL A1",
         "eSUN PLA+ @BBL A1 0.2 nozzle",
@@ -436,7 +457,14 @@
         "line_height": "10.000000",
         "name": "MODERN"
     },
-    "header": "OrcaSlicer 2.3.1",
+    "header": "OrcaSlicer 2.3.2",
+    "local_machines": {
+        "192.168.2.252": {
+            "dev_ip": "192.168.2.252",
+            "dev_name": "192.168.2.252",
+            "printer_type": "Voron 0.1"
+        }
+    },
     "models": [
         {
             "model": "Generic Klipper Printer",
@@ -444,9 +472,9 @@
             "vendor": "Custom"
         },
         {
-            "model": "MINIIS",
+            "model": "Voron 0.1",
             "nozzle_diameter": "0.4",
-            "vendor": "Prusa"
+            "vendor": "Voron"
         },
         {
             "model": "Voron 2.4 300",
@@ -713,12 +741,12 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "Micron PLA+ SunLu White",
-            "filament_colors": "#FFFFFF",
+            "filament": "Micron PLA Ambrosia Orange",
+            "filament_colors": "#FF00FF",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Micron+ 0.4 nozzle",
-            "process": "180 Fast 0.20mm Standard 4 4 4 @Voron"
+            "process": "180 Super Fast 0.20mm Standard 4 4 4 @Voron"
         },
         {
             "curr_bed_type": "3",
@@ -822,6 +850,28 @@
         {
             "curr_bed_type": "3",
             "filament": "Generic PLA @System",
+            "filament_colors": "#FFFF80",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Voron 0.1 0.4 nozzle",
+            "process": "180 Fast 0.20mm Standard 4 4 4 @Voron"
+        },
+        {
+            "curr_bed_type": "3",
+            "extruder_ams_count": "1#0|4#0,1#0|4#0",
+            "filament": "V0 PLA Ambrosia Hot Pink",
+            "filament_color_types": "1",
+            "filament_colors": "#FF00FF",
+            "filament_multi_colors": "#FF00FF",
+            "flush_multiplier": "0.300000",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Voron 0.2 0.4 nozzle",
+            "process": "v0 Fast 0.20mm Standard 4 4 4 @Voron"
+        },
+        {
+            "curr_bed_type": "3",
+            "filament": "Generic PLA @System",
             "filament_colors": "#0000FF",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
@@ -911,12 +961,12 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "350 ASA Ambrosia Galactic Grey",
-            "filament_colors": "#808080",
+            "filament": "350 PLA Printed Solid Red Ice",
+            "filament_colors": "#FA1B20",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 350 0.4 nozzle - ABS",
-            "process": "350 Voron PIF Fast settings"
+            "process": "350 Fast 0.20mm Standard 4 4 4 @Voron"
         },
         {
             "curr_bed_type": "3",
@@ -939,7 +989,7 @@
     ],
     "presets": {
         "filaments": null,
-        "machine": "Voron 2.4 350 0.4 nozzle - ABS"
+        "machine": "Voron 0.2 0.4 nozzle"
     },
     "print": {
         "bed_leveling": "1",
@@ -947,18 +997,19 @@
         "timelapse": "1"
     },
     "recent": {
-        "last_opened_folder": "C:\\Users\\tommy\\Desktop\\Voron Printers\\V2 300\\the filter\\Standard Voron Spacing",
+        "last_opened_folder": "D:\\",
         "printhost_path": "",
         "settings_folder": "D:\\"
     },
     "recent_projects": {
-        "01": "D:\\filament clip ROBUST.3mf",
-        "02": "D:\\Pokeball Yarn Crochet Bowl\\Pokeball.3mf",
-        "03": "D:\\windmill-wind-turbine-model_files\\Body\\Stopper D10 adapter.3mf",
-        "04": "D:\\DrippyBox_150x90x76_V2.3mf",
-        "05": "D:\\Gridfinity\\gridfinity-bin-with-printable-label\\Bin 4xYx6\\gridfinitybin_4x1x6_d1_l12_s10.3mf",
-        "06": "D:\\Gridfinity\\gridfinity-storage-box\\Parametric V1 - Common Files and F3D\\gridfinitystoragebox_6xy_handle.3mf",
-        "07": "D:\\Both handles with Micron logo and fuzzy skin_x1.3mf"
+        "01": "D:\\Zadie Statue Draft.3mf",
+        "02": "D:\\filament clip ROBUST.3mf",
+        "03": "D:\\Pokeball Yarn Crochet Bowl\\Pokeball.3mf",
+        "04": "D:\\windmill-wind-turbine-model_files\\Body\\Stopper D10 adapter.3mf",
+        "05": "D:\\DrippyBox_150x90x76_V2.3mf",
+        "06": "D:\\Gridfinity\\gridfinity-bin-with-printable-label\\Bin 4xYx6\\gridfinitybin_4x1x6_d1_l12_s10.3mf",
+        "07": "D:\\Gridfinity\\gridfinity-storage-box\\Parametric V1 - Common Files and F3D\\gridfinitystoragebox_6xy_handle.3mf",
+        "08": "D:\\Both handles with Micron logo and fuzzy skin_x1.3mf"
     }
 }
-# MD5 checksum A0FBC62DC82500EDDD4AA8B23EDBC8D7
+# MD5 checksum 28A9F509DDBB15D80EC5B6CFBE10072E

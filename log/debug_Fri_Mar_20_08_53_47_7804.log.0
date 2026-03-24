@@ -1,0 +1,712 @@
+[error]	2026-03-20 08:53:52.051989[Thread 0x000052e0]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Speed @MINIIS - Copy.json!
+[error]	2026-03-20 08:53:52.091943[Thread 0x000052e0]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2026-03-20 08:53:52.102015[Thread 0x000052e0]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @MINIIS - Copy.json!
+[error]	2026-03-20 08:53:52.112019[Thread 0x000052e0]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard TPU @MINIIS - Copy.json!
+[error]	2026-03-20 08:53:53.538404[Thread 0x000052e0]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa Mini+ 0.4 nozzle.json!
+[error]	2026-03-20 08:53:53.548817[Thread 0x000052e0]:can not find parent for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa MINIIS 0.4 nozzle - Copy.json!
+[error]	2026-03-20 08:53:58.258872[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 08:54:02.389467[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-20 08:54:02.647661[Thread 0x000052e0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-03-20 08:57:22.695449[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 08:57:25.816485[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 08:57:29.408626[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 08:59:37.094134[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 08:59:46.566788[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 08:59:49.471164[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 08:59:52.122543[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 08:59:55.039981[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 09:00:22.503204[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-03-20 09:00:34.234485[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 09:00:39.445612[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 09:00:43.129989[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 09:00:44.951815[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 09:00:58.144201[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 09:01:03.188254[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 09:01:11.329312[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 09:01:24.165057[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-20 09:01:28.829850[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-03-20 09:02:22.481358[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 09:02:23.584191[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 09:02:34.876844[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 09:02:35.337879[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 09:02:36.608629[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-20 09:03:06.549045[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 13:12:43.201604[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-03-20 13:13:09.962854[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 13:13:18.475662[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-20 13:13:26.659351[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 13:13:42.523015[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 13:14:25.074203[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 13:14:36.356495[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 13:14:38.501456[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 15:04:29.983993[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 15:04:37.164923[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 15:04:47.426098[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 15:04:55.792563[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 15:09:18.846076[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-03-20 15:09:21.938308[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 15:09:27.714531[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-20 15:09:37.710968[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 15:09:51.301031[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-03-20 18:28:23.720039[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-20 18:29:08.494780[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-03-20 19:44:30.850708[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-20 19:50:50.972513[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-03-20 19:52:12.975367[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 19:52:14.761337[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 19:52:38.738604[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 19:53:01.453214[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-20 19:53:09.698812[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-03-20 19:54:18.875688[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:54:21.795876[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-20 19:54:22.844125[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-03-20 19:54:24.509243[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:54:32.348062[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:54:34.322063[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:54:48.466847[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:54:49.298456[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:04.713807[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:05.584241[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:06.286688[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:06.933268[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:13.875202[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:14.939913[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:17.891556[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:18.561159[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:19.585781[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:20.213794[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:23.382212[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-20 19:55:27.268071[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-03-20 19:55:27.879218[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:41.380096[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:44.852472[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:45.929026[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:46.532408[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:47.154807[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-20 19:55:47.231529[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-20 19:55:50.759989[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-03-20 19:55:52.685442[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 19:55:52.694648[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 19:56:51.794539[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 19:56:51.797079[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-20 19:58:41.669668[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-20 19:58:51.283967[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-03-20 19:59:16.515021[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 19:59:16.976207[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 19:59:17.599087[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 20:00:56.208599[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 20:12:16.052874[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 20:12:16.062910[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-20 20:46:04.399867[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-03-20 20:46:17.581929[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 20:46:17.589568[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 20:46:19.070875[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 20:46:19.072905[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 20:46:19.793548[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 20:46:19.796540[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 20:46:21.266068[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 20:46:21.269205[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-20 20:46:51.840947[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-03-20 20:46:57.689032[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 20:46:57.691072[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 20:46:58.250623[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 20:46:58.251831[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-20 21:24:24.940640[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-20 21:39:10.570396[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-21 08:29:43.080943[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-21 08:30:15.930124[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-21 08:39:28.767664[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-21 08:39:28.779881[Thread 0x000052e0]:Slic3r::GUI::PartPlateList::postprocess_bed_index_for_current_plate: can not be arranged inside plate!
+[error]	2026-03-21 08:39:30.800078[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 08:39:46.728119[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 08:39:47.113204[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 08:39:47.680082[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 08:39:48.225825[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 08:40:05.007441[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-21 08:40:25.841191[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-03-21 08:40:27.941610[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-03-21 15:26:36.101394[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 17:03:28.190011[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 18:51:35.782015[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 18:52:08.613405[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-21 18:52:33.956066[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-21 18:52:34.418344[Thread 0x000052e0]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5502: ui jobs running, return false
+[error]	2026-03-21 18:52:53.661629[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-21 18:53:16.435317[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-21 18:53:37.674558[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2026-03-21 18:53:41.396054[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 18:53:41.399091[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 18:53:41.400118[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-21 18:53:46.052306[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2026-03-21 18:53:55.062203[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 18:56:16.055073[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 18:56:16.061761[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 18:56:16.064864[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 18:56:16.068082[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 18:56:16.953377[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 18:56:16.966630[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 18:56:16.971037[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 18:56:16.974430[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-21 18:56:28.310636[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-21 18:56:28.779212[Thread 0x000052e0]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5502: ui jobs running, return false
+[warning]	2026-03-21 18:57:01.511409[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-21 18:57:03.474148[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-21 18:57:06.809364[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-21 18:57:10.270212[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-21 18:59:16.020630[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.138869[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.247456[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.293462[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.414060[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.487747[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.572212[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.658737[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.744874[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.808533[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.849768[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.865338[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.880168[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.883372[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.885433[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.885433[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.885433[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 18:59:16.886436[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:52.155799[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:52.271796[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:52.395777[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:52.441750[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:52.565163[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:52.623778[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:52.708513[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:52.807483[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:52.901077[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:52.966109[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:53.008927[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:53.024452[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:53.039934[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:53.043001[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:53.045061[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:53.045061[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:53.045061[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:00:53.045061[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:39.641541[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:39.749628[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:39.849594[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:39.891530[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:40.001487[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:40.050613[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:40.125890[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:40.208672[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:40.290277[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:40.350415[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:40.390396[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:40.404043[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:40.418840[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:40.421104[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:40.422138[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:40.423167[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:40.423167[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:01:40.423167[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.049420[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.159821[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.261529[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.305101[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.418983[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.467441[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.545791[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.629908[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.710867[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.775324[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.815143[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.828872[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.843686[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.845681[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.847751[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.847751[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.847751[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:16.848783[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:02:35.929278[Thread 0x000052e0]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 4, can not switch
+[error]	2026-03-21 19:02:35.980212[Thread 0x00002c4c]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[error]	2026-03-21 19:05:40.355532[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:05:41.519640[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:05:50.509151[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:05:55.470532[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:05:56.672580[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:06:38.153443[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:07:25.194927[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:07:28.529473[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-21 19:09:11.065554[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.181585[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.293969[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.340641[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.462941[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.521941[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.607699[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.697067[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.784071[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.849593[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.890942[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.906685[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.922322[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.925608[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.926685[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.926685[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.927686[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:09:11.927686[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:57.273636[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:57.403490[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:57.514933[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:57.562399[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:57.687192[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:57.746412[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:57.830637[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:57.919569[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:58.006470[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:58.072248[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:58.114387[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:58.129538[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:58.145543[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:58.148983[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:58.151487[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:58.151487[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:58.152518[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:11:58.152518[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-03-21 19:13:06.742099[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:13:14.286993[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-21 19:13:17.352245[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2026-03-21 19:13:20.369163[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:13:20.372381[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:13:20.374449[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:13:20.376644[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:13:25.578071[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:13:34.160492[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:13:34.745906[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-21 19:13:52.054664[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.168342[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.282363[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.327251[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.453604[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.511894[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.600638[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.692323[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.780688[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.845917[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.887897[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.903271[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.918987[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.921046[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.923079[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.923079[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.924096[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:13:52.924096[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-03-21 19:14:08.364953[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:14:09.097371[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:14:37.721822[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:14:42.144280[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:14:43.112078[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:14:53.287361[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:14:55.100173[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:14:55.777428[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:15:03.904231[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:15:04.147535[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:15:05.733299[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:15:09.848934[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:15:23.555061[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:15:24.818950[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:16:04.694212[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:16:07.160738[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:16:08.977656[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:17:05.058678[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:17:05.382586[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:17:05.602915[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:17:07.113393[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:17:09.056013[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:17:10.136158[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:18:39.286124[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-21 19:20:44.791592[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-21 19:21:10.721824[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-21 19:21:21.250482[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-21 19:21:29.900083[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-21 19:21:45.629785[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2026-03-21 19:21:54.604574[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:22:01.643688[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:22:02.467018[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-21 19:22:13.332918[Thread 0x000052e0]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 4, can not switch
+[error]	2026-03-21 19:22:13.348876[Thread 0x00002c4c]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[error]	2026-03-21 19:22:17.510199[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:22:18.994560[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:22:23.535559[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:22:24.459114[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:22:30.064210[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:22:31.834307[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:22:57.517051[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-21 19:23:09.792791[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.011628[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.122966[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.160016[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.264331[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.318284[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.391074[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.492540[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.569395[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.605583[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.641732[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.656036[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.669126[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.670152[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.671183[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.671183[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.672207[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:23:10.672207[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-03-21 19:23:15.760630[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:23:56.737164[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:24:05.612956[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-21 19:24:07.946646[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.027533[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.107472[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.140630[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.228923[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.267953[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.327130[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.414225[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.479202[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.514005[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.548515[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.561772[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.572743[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.574738[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.575735[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.575735[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.575735[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:08.576732[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-03-21 19:24:10.240374[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-21 19:24:12.299901[Thread 0x000052e0]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 4, can not switch
+[error]	2026-03-21 19:24:12.400632[Thread 0x00002c4c]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[warning]	2026-03-21 19:24:14.748533[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:14.831750[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:14.912453[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:14.945277[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:15.034720[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:15.073341[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:15.133503[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:15.219440[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:15.283949[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:15.316653[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:15.349358[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:15.360452[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:15.372131[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:15.373159[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:15.374281[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:15.374281[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:15.375310[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:24:15.375310[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-03-21 19:24:54.813081[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-21 19:25:41.326661[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:41.419492[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:41.512078[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:41.547982[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:41.648341[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:41.693915[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:41.763332[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:41.859061[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:41.930759[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:41.968486[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:42.004391[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:42.016358[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:42.029434[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:42.031440[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:42.032442[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:42.032442[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:42.032442[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:25:42.032442[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:03.323760[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:03.417442[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:03.508521[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:03.546334[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:03.647700[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:03.693449[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:03.762017[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:03.850912[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:03.922625[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:03.954891[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:03.989003[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:04.001644[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:04.013404[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:04.015463[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:04.016466[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:04.016466[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:04.016466[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:04.016466[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:58.414554[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:58.499743[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:58.581524[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:58.615888[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:58.710161[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:58.752984[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:58.814910[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:58.902026[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:58.968117[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:59.001040[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:59.034066[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:59.046635[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:59.057197[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:59.059340[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:59.060372[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:59.060372[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:59.060372[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:29:59.061382[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-21 19:30:06.493326[Thread 0x000052e0]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 4, can not switch
+[error]	2026-03-21 19:30:21.036913[Thread 0x00002c4c]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Non-ASCII7 characters are only allowed inside text blocks and string literals, not inside code blocks.
+右头_PLA+_7h3m
+^
+[error]	2026-03-21 19:30:37.237232[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:30:37.238343[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:30:37.239372[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:30:37.239372[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:30:51.769317[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:30:51.771325[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:30:51.771325[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:30:51.772635[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:30:58.534482[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:30:58.537790[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:30:58.539870[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:30:58.541994[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:30:59.454100[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:30:59.458872[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:30:59.462241[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:30:59.466480[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:31:02.016404[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:31:02.022862[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:31:02.028305[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:31:02.030297[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:31:04.423520[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:31:04.426657[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:31:04.429712[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:31:04.431869[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:31:23.177675[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:31:23.178672[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:31:23.179669[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:31:23.180666[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:32:25.710538[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:32:31.720428[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-21 19:32:34.032201[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2026-03-21 19:32:36.218095[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:32:36.222316[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:32:36.225802[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 19:32:36.227871[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-21 19:32:48.488674[Thread 0x00001f94]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 173 NextTarget: 173 Distance to top: 39 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0000017116E1F430: Radius: 1349954 at layer: 174 NextTarget: 174 Distance to top: 38 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[error]	2026-03-21 19:34:04.083785[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:34:32.389379[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:34:33.032319[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:36:39.091529[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:36:40.867384[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:37:15.032128[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:37:15.747019[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:38:01.942195[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:38:11.855997[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 19:39:17.924897[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-21 19:39:56.248385[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[warning]	2026-03-21 23:44:55.609916[Thread 0x000052e0]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 4, can not switch
+[error]	2026-03-21 23:44:56.458649[Thread 0x00002c4c]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[error]	2026-03-21 23:46:24.352636[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 23:46:29.087559[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-21 23:46:30.625226[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2026-03-21 23:46:54.134219[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 23:47:09.409672[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 23:47:09.990420[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 23:47:31.358443[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 23:47:31.360509[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 23:47:31.361615[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 23:47:31.363027[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-21 23:47:32.033527[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 23:47:32.805495[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 23:47:41.499747[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-21 23:47:42.425123[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 07:01:48.174245[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 07:01:49.263813[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 07:01:50.528887[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 07:01:52.530281[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 07:01:53.597968[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 07:01:54.934055[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 07:01:56.053286[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 07:01:56.055413[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 07:01:56.891623[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 07:31:40.243872[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 07:32:40.516626[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 07:32:41.703864[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 07:32:42.401422[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 07:32:47.518143[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 07:32:56.761373[Thread 0x00002c4c]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Non-ASCII7 characters are only allowed inside text blocks and string literals, not inside code blocks.
+右眼_PLA_6m11s
+^
+[error]	2026-03-22 08:21:56.149236[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 08:21:56.280342[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:21:56.500267[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-22 08:21:58.025724[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-22 08:21:58.029084[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-22 08:21:58.031503[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-03-22 08:22:02.795882[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:33.610273[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:35.476915[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:36.464543[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:37.266964[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:37.544819[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:38.133920[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:38.445326[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:38.689644[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:39.219945[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:39.873999[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:45.981214[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:47.813482[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:56.722424[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:57.154319[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:57.895281[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:58.283498[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:58.580437[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:58.928736[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:59.306723[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:22:59.461680[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:00.042314[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:00.537250[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:00.814248[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:01.284729[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:01.589565[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:02.026779[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:02.322507[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:02.935925[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:03.272197[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:04.405746[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:04.684307[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:04.929281[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:05.388146[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:05.802689[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:06.195594[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:06.578172[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:06.933484[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:07.316854[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:07.968938[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:08.381340[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:08.695329[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:10.736324[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:23:13.186855[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-22 08:23:15.623434[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2026-03-22 08:23:18.398094[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-22 08:23:23.430337[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2026-03-22 08:23:34.214951[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:24:02.685801[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-22 08:24:18.189371[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-22 08:24:20.894232[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2026-03-22 08:35:29.025146[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:35:33.185517[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-22 08:35:34.111839[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-22 08:35:36.064408[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-22 08:35:59.705383[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-22 08:36:17.604269[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2026-03-22 08:41:49.482113[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 08:41:49.485104[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 08:41:50.102041[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 08:41:50.104103[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 08:41:50.586429[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 08:41:50.590600[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 08:41:51.894393[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 08:41:51.896387[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 08:41:52.622511[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 08:41:52.624015[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-22 08:45:20.829279[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-22 17:24:57.548207[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-22 19:45:07.968983[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2026-03-22 19:45:09.892154[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 19:45:14.395086[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 19:45:14.397219[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-22 19:47:03.848571[Thread 0x00002c4c]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Non-ASCII7 characters are only allowed inside text blocks and string literals, not inside code blocks.
+右肩膀1_PLA_18m32s
+^
+[error]	2026-03-23 05:55:01.186224[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-23 05:55:44.814769[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2026-03-23 05:55:51.868836[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-23 05:56:08.533164[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-23 05:57:23.629498[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-23 05:57:34.391208[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2026-03-23 05:58:51.563378[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-23 05:58:51.568471[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-23 05:58:51.572756[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-23 05:59:08.117991[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-23 05:59:08.125264[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-23 05:59:08.129341[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-23 05:59:40.991244[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2026-03-23 05:59:42.721994[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-23 05:59:42.729098[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-23 05:59:42.736852[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-23 06:00:05.202253[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-23 06:00:13.804899[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-23 06:00:22.422817[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-23 06:00:30.442066[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-23 06:01:05.665342[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-23 06:01:13.332780[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-23 06:01:18.160047[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-23 17:20:33.825860[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 17:20:34.488636[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 17:20:34.625371[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 17:20:34.628902[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 17:21:29.625574[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 17:21:30.004037[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 17:21:30.112934[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 17:21:30.115996[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 17:23:32.945406[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 17:23:33.339876[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 17:23:33.525406[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 17:23:33.529413[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 17:30:42.147982[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 17:30:42.608173[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 17:30:42.801732[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 17:30:42.808714[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 18:02:46.655203[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 18:02:47.038493[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 18:02:47.173374[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 18:02:47.179431[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 18:03:11.207841[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-23 18:03:12.626460[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 18:03:43.145218[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 18:04:52.966047[Thread 0x000052e0]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 4, can not switch
+[error]	2026-03-23 18:04:53.343535[Thread 0x00002c4c]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[warning]	2026-03-23 18:04:56.018643[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-23 18:05:17.633308[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-23 18:05:35.042694[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 18:05:35.702324[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 18:05:35.713735[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-23 18:05:35.725472[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-03-24 04:59:19.258613[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-24 04:59:19.262972[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-24 04:59:19.265110[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-24 04:59:24.620055[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-24 05:00:02.453412[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-24 05:00:02.456671[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-24 05:00:03.041642[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-24 05:00:03.045257[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-24 05:00:04.108400[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-24 05:00:04.110984[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-24 05:00:05.028031[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-24 05:00:05.033021[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-24 05:00:07.477856[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-24 05:00:07.480848[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-24 05:00:10.953140[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-24 05:00:13.143448[Thread 0x00004ef0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2026-03-24 05:04:42.750901[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-24 05:04:43.504253[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-24 05:04:43.516414[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-24 05:04:43.525606[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-24 05:05:25.010536[Thread 0x000052e0]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 2, can not switch
+[warning]	2026-03-24 05:05:27.835679[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-24 05:05:28.031883[Thread 0x000052e0]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 2, can not switch
+[warning]	2026-03-24 05:05:28.431696[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-24 05:05:28.526222[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-24 05:05:34.600082[Thread 0x000052e0]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 2, can not switch
+[warning]	2026-03-24 05:05:41.121858[Thread 0x000052e0]:Slic3r::GUI::Plater::priv::update_restart_background_process: plate count 2, can not switch
+[error]	2026-03-24 05:05:41.211583[Thread 0x00002c4c]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[warning]	2026-03-24 05:05:53.656513[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-24 05:05:54.133386[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-03-24 05:05:54.206600[Thread 0x00002c4c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-03-24 16:31:38.387858[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-24 16:36:48.259896[Thread 0x000052e0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-24 16:37:45.778615[Thread 0x000052e0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

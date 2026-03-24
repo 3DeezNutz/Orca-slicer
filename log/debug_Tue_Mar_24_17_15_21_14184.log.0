@@ -1,0 +1,31 @@
+[info]	2026-03-24 17:15:21.404305[Thread 0x000019d8]:gui mode, Current OrcaSlicer Version 2.3.2 build c724a3f5
+[info]	2026-03-24 17:15:21.404305[Thread 0x000019d8]:Migrating legacy_networking=true to network_plugin_version=01.10.01.01
+[error]	2026-03-24 17:15:25.806969[Thread 0x000019d8]:can not find parent 0.20mm Speed @MINIIS for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Speed @MINIIS - Copy.json!
+[error]	2026-03-24 17:15:25.808971[Thread 0x000019d8]:can not find parent 0.20mm Standard @Creality Ender3S1 for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2026-03-24 17:15:25.808971[Thread 0x000019d8]:can not find parent 0.20mm Standard @MINIIS for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @MINIIS - Copy.json!
+[error]	2026-03-24 17:15:25.808971[Thread 0x000019d8]:can not find parent 0.20mm Standard @MINIIS for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard TPU @MINIIS - Copy.json!
+[error]	2026-03-24 17:15:25.932467[Thread 0x000019d8]:can not find parent Prusa MINIIS 0.4 nozzle for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa Mini+ 0.4 nozzle.json!
+[error]	2026-03-24 17:15:25.932467[Thread 0x000019d8]:can not find parent Prusa MINIIS 0.4 nozzle for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa MINIIS 0.4 nozzle - Copy.json!
+[warning]	2026-03-24 17:15:28.872897[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-03-24 17:15:30.943268[Thread 0x000019d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-24 17:15:31.370620[Thread 0x000019d8]:17:15:31: Error: can't open file 'C:\Users\tommy\Desktop\OrcaSlicer\resources\images\printer_preview_Voron0.png' (error 2: The system cannot find the file specified.)
+[warning]	2026-03-24 17:15:31.370620[Thread 0x000019d8]:17:15:31: Error: Failed to load image from file "C:\Users\tommy\Desktop\OrcaSlicer\resources\images\printer_preview_Voron0.png".
+[error]	2026-03-24 17:15:31.370620[Thread 0x000019d8]:create_scaled_bitmapCould not load bitmap: printer_preview_Voron0
+[error]	2026-03-24 17:15:31.418809[Thread 0x000019d8]:Slic3r::_parse_printer_type Unsupported printer type: Voron 0.1
+[error]	2026-03-24 17:15:35.054925[Thread 0x000019d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-24 17:15:35.444074[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-24 17:15:35.450409[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-24 17:15:37.464659[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-24 17:15:39.484665[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-24 17:15:41.518964[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-24 17:15:43.491481[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-24 17:15:45.492787[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-24 17:15:47.494211[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-24 17:15:49.481192[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-24 17:15:51.483125[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-24 17:15:53.481387[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-24 17:15:55.484388[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-24 17:15:57.494705[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-24 17:15:59.484923[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-24 17:16:01.487425[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-24 17:16:03.498018[Thread 0x000019d8]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
