@@ -1,3 +1,0 @@
-[fatal]	2026-03-11 05:23:44.437166[Thread 0x00003bb8]:OnInit Got Fatal error: boost::filesystem::remove_all: Access is denied [system:5]: "C:\Users\tommy\AppData\Roaming\OrcaSlicer\system\OrcaFilamentLibrary\filament\Bambu\Bambu PPS-CF @base.json"
-[warning]	2026-03-11 05:23:44.437166[Thread 0x00003bb8]:05:23:44: Error: OrcaSlicer got an unhandled exception: boost::filesystem::remove_all: Access is denied [system:5]: "C:\Users\tommy\AppData\Roaming\OrcaSlicer\system\OrcaFilamentLibrary\filament\Bambu\Bambu PPS-CF @base.json"
-[error]	2026-03-11 05:23:44.437166[Thread 0x00003bb8]:Uncaught exception: boost::filesystem::remove_all: Access is denied [system:5]: "C:\Users\tommy\AppData\Roaming\OrcaSlicer\system\OrcaFilamentLibrary\filament\Bambu\Bambu PPS-CF @base.json"
