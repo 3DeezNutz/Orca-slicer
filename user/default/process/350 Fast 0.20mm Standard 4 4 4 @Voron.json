@@ -3,10 +3,12 @@
     "bottom_shell_thickness": "1",
     "bridge_flow": "0.9",
     "bridge_no_support": "1",
+    "bridge_speed": "15",
     "brim_type": "no_brim",
     "default_acceleration": "7500",
     "default_jerk": "0",
     "elefant_foot_compensation": "0.12",
+    "enable_extra_bridge_layer": "external_bridge_only",
     "ensure_vertical_shell_thickness": "ensure_moderate",
     "from": "User",
     "gap_infill_speed": "30",
@@ -22,7 +24,6 @@
     "internal_solid_infill_acceleration": "15000",
     "internal_solid_infill_line_width": "0.55",
     "internal_solid_infill_speed": "250",
-    "is_custom_defined": "0",
     "line_width": "0.42",
     "name": "350 Fast 0.20mm Standard 4 4 4 @Voron",
     "only_one_wall_first_layer": "1",
@@ -30,6 +31,12 @@
     "outer_wall_acceleration": "7500",
     "outer_wall_line_width": "0.42",
     "outer_wall_speed": "230",
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "print_settings_id": "350 Fast 0.20mm Standard 4 4 4 @Voron",
     "skirt_height": "2",
     "skirt_speed": "125",

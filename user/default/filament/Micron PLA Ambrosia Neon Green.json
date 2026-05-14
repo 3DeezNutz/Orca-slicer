@@ -3,7 +3,7 @@
         "Voron 2.4 300 0.4 nozzle"
     ],
     "default_filament_colour": [
-        "#FF8040"
+        "#80FF00"
     ],
     "enable_pressure_advance": [
         "1"
@@ -15,13 +15,13 @@
         "Direct Drive Standard"
     ],
     "filament_flow_ratio": [
-        "0.993"
+        "0.97"
     ],
     "filament_max_volumetric_speed": [
         "27"
     ],
     "filament_settings_id": [
-        "Micron PLA Ambrosia Orange"
+        "Micron PLA Ambrosia Neon Green"
     ],
     "filament_vendor": [
         "Ambrosia "
@@ -34,7 +34,7 @@
         "60"
     ],
     "inherits": "SUNLU PLA+ @System",
-    "name": "Micron PLA Ambrosia Orange",
+    "name": "Micron PLA Ambrosia Neon Green",
     "pressure_advance": [
         "0.032"
     ],

@@ -3,7 +3,7 @@
         "Voron 0.1 0.4 nozzle"
     ],
     "default_filament_colour": [
-        "#000000"
+        "#1C9CFB"
     ],
     "enable_pressure_advance": [
         "1"
@@ -21,26 +21,29 @@
         "Direct Drive Standard"
     ],
     "filament_flow_ratio": [
-        "0.976"
+        "0.981"
     ],
     "filament_max_volumetric_speed": [
         "26"
     ],
     "filament_settings_id": [
-        "V0 ABS Sunlu Black"
+        "V0 ASA Ambrosia Terrestrial Blue"
     ],
     "filament_start_gcode": [
-        "; Filament gcode\nSET_GCODE_OFFSET z=0\n\nSET_GCODE_OFFSET Z_ADJUST=-0.075"
+        "; Filament gcode\nSET_GCODE_OFFSET z=0\n\nSET_GCODE_OFFSET Z_ADJUST=0.00"
+    ],
+    "filament_type": [
+        "ASA"
     ],
     "filament_vendor": [
-        "Sunlu"
+        "Ambrosia "
     ],
     "from": "User",
     "hot_plate_temp": [
         "105"
     ],
     "inherits": "Generic ABS @System",
-    "name": "V0 ABS Sunlu Black",
+    "name": "V0 ASA Ambrosia Terrestrial Blue",
     "nozzle_temperature": [
         "270"
     ],

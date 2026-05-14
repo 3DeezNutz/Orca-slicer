@@ -1,42 +1,63 @@
 {
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
     "compatible_printers": [
         "Voron 2.4 300 0.4 nozzle"
     ],
     "default_filament_colour": [
-        "#FF8040"
+        "#808080"
     ],
     "enable_pressure_advance": [
         "1"
     ],
+    "fan_cooling_layer_time": [
+        "30"
+    ],
     "filament_cost": [
-        "20"
+        "22.99"
     ],
     "filament_extruder_variant": [
         "Direct Drive Standard"
     ],
     "filament_flow_ratio": [
-        "0.993"
+        "0.954"
     ],
     "filament_max_volumetric_speed": [
         "27"
     ],
     "filament_settings_id": [
-        "Micron PLA Ambrosia Orange"
+        "Micron ASA Ambrosia Galactic Grey"
+    ],
+    "filament_type": [
+        "ASA"
     ],
     "filament_vendor": [
-        "Ambrosia "
+        "Ambrosia"
     ],
     "from": "User",
     "hot_plate_temp": [
-        "60"
+        "105"
     ],
     "hot_plate_temp_initial_layer": [
-        "60"
+        "105"
     ],
     "inherits": "SUNLU PLA+ @System",
-    "name": "Micron PLA Ambrosia Orange",
+    "name": "Micron ASA Ambrosia Galactic Grey",
+    "nozzle_temperature": [
+        "270"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "nozzle_temperature_range_high": [
+        "300"
+    ],
+    "nozzle_temperature_range_low": [
+        "250"
+    ],
     "pressure_advance": [
-        "0.032"
+        "0.017"
     ],
     "slow_down_layer_time": [
         "6"
