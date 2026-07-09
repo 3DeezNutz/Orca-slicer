@@ -1,0 +1,24 @@
+[info]	2026-07-03 07:52:39.611323[Thread 0x00000f00]:gui mode, Current OrcaSlicer Version 2.4.1 build 19db9aa9
+[error]	2026-07-03 07:52:41.891001[Thread 0x00000f00]:can not find parent 0.20mm Speed @MINIIS for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\a1cb9eef-361c-4197-ba0b-2a3ad7b3c3d0\process\0.20mm Speed @MINIIS - Copy.json!
+[error]	2026-07-03 07:52:41.894044[Thread 0x00000f00]:can not find parent 0.20mm Standard @Creality Ender3S1 for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\a1cb9eef-361c-4197-ba0b-2a3ad7b3c3d0\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2026-07-03 07:52:41.897501[Thread 0x00000f00]:can not find parent 0.20mm Standard @MINIIS for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\a1cb9eef-361c-4197-ba0b-2a3ad7b3c3d0\process\0.20mm Standard @MINIIS - Copy.json!
+[error]	2026-07-03 07:52:41.897501[Thread 0x00000f00]:can not find parent 0.20mm Standard @MINIIS for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\a1cb9eef-361c-4197-ba0b-2a3ad7b3c3d0\process\0.20mm Standard TPU @MINIIS - Copy.json!
+[error]	2026-07-03 07:52:42.052636[Thread 0x00000f00]:can not find parent Prusa MINIIS 0.4 nozzle for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\a1cb9eef-361c-4197-ba0b-2a3ad7b3c3d0\machine\Prusa Mini+ 0.4 nozzle.json!
+[error]	2026-07-03 07:52:42.052636[Thread 0x00000f00]:can not find parent Prusa MINIIS 0.4 nozzle for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\a1cb9eef-361c-4197-ba0b-2a3ad7b3c3d0\machine\Prusa MINIIS 0.4 nozzle - Copy.json!
+[warning]	2026-07-03 07:52:44.596508[Thread 0x00000f00]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-07-03 07:52:47.536460[Thread 0x00000f00]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-07-03 07:52:48.204675[Thread 0x00000f00]:Slic3r::_parse_printer_type Unsupported printer type: Voron 2.4 350
+[error]	2026-07-03 07:52:50.887126[Thread 0x00000f00]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-07-03 07:52:51.359191[Thread 0x00000f00]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-07-03 09:40:11.608991[Thread 0x00000f00]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-07-03 09:42:09.134007[Thread 0x00000f00]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-07-03 09:43:12.512386[Thread 0x00004de0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":280.000000,"clearance_radius":65.000000,"printable_height":165.000000,
+[error]	2026-07-03 11:30:32.924132[Thread 0x00000f00]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-07-03 11:30:33.569362[Thread 0x00000f00]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-07-03 14:12:19.307815[Thread 0x00006284]:OrcaCloudServiceAgent: HTTP error - curl:Couldn't resolve host name:
+Could not resolve host: api.orcaslicer.com
+[Error 6]
+[error]	2026-07-03 14:12:19.308812[Thread 0x00006284]:get_subscribed_bundles failed: http_code=404, response=
+[warning]	2026-07-03 14:12:19.308812[Thread 0x00006284]:start_sync_user_preset: failed to fetch subscribed bundles, result=-2
+[warning]	2026-07-03 14:12:19.662550[Thread 0x00000f00]:API call to OrcaCloud failed with status=404
+[error]	2026-07-04 00:32:16.892530[Thread 0x00000f00]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

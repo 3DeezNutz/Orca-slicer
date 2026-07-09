@@ -1,0 +1,28 @@
+[info]	2026-07-03 07:19:22.569875[Thread 0x00006158]:gui mode, Current OrcaSlicer Version 2.4.1 build 19db9aa9
+[error]	2026-07-03 07:19:25.537415[Thread 0x00006158]:can not find parent 0.20mm Speed @MINIIS for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\a1cb9eef-361c-4197-ba0b-2a3ad7b3c3d0\process\0.20mm Speed @MINIIS - Copy.json!
+[error]	2026-07-03 07:19:25.541307[Thread 0x00006158]:can not find parent 0.20mm Standard @Creality Ender3S1 for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\a1cb9eef-361c-4197-ba0b-2a3ad7b3c3d0\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2026-07-03 07:19:25.541307[Thread 0x00006158]:can not find parent 0.20mm Standard @MINIIS for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\a1cb9eef-361c-4197-ba0b-2a3ad7b3c3d0\process\0.20mm Standard @MINIIS - Copy.json!
+[error]	2026-07-03 07:19:25.542333[Thread 0x00006158]:can not find parent 0.20mm Standard @MINIIS for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\a1cb9eef-361c-4197-ba0b-2a3ad7b3c3d0\process\0.20mm Standard TPU @MINIIS - Copy.json!
+[error]	2026-07-03 07:19:25.708325[Thread 0x00006158]:can not find parent Prusa MINIIS 0.4 nozzle for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\a1cb9eef-361c-4197-ba0b-2a3ad7b3c3d0\machine\Prusa Mini+ 0.4 nozzle.json!
+[error]	2026-07-03 07:19:25.709343[Thread 0x00006158]:can not find parent Prusa MINIIS 0.4 nozzle for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\a1cb9eef-361c-4197-ba0b-2a3ad7b3c3d0\machine\Prusa MINIIS 0.4 nozzle - Copy.json!
+[warning]	2026-07-03 07:19:28.817696[Thread 0x00006158]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-07-03 07:19:31.307492[Thread 0x00006158]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-07-03 07:19:32.101503[Thread 0x00006158]:Slic3r::_parse_printer_type Unsupported printer type: Voron 2.4 300
+[error]	2026-07-03 07:19:34.967126[Thread 0x00006158]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-07-03 07:19:39.685434[Thread 0x00006158]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-07-03 07:34:28.355304[Thread 0x0000696c]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2026-07-03 07:36:08.295341[Thread 0x0000696c]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2026-07-03 07:37:49.505628[Thread 0x0000873c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-07-03 07:37:49.518593[Thread 0x0000873c]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2026-07-03 07:38:12.243555[Thread 0x00006158]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-07-03 07:38:13.785031[Thread 0x00006158]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-07-03 07:38:21.078959[Thread 0x00006158]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-07-03 07:38:21.274838[Thread 0x00006158]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-07-03 07:38:21.427119[Thread 0x00006158]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-07-03 07:38:23.934019[Thread 0x00006158]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-07-03 07:44:03.195002[Thread 0x00006158]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-07-03 07:46:50.922145[Thread 0x00006158]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-07-03 07:46:57.727754[Thread 0x00006158]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-07-03 07:47:40.323411[Thread 0x00002e58]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-07-03 07:47:40.334381[Thread 0x00002e58]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2026-07-03 07:52:36.752814[Thread 0x00006158]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

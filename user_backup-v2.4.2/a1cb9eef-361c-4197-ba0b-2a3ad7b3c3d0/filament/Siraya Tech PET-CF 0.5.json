@@ -1,0 +1,70 @@
+{
+    "compatible_printers": [
+        "Voron 2.4 300 0.5 nozzle PET CF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "38"
+    ],
+    "filament_end_gcode": [
+        "; filament end gcode\nSET_GCODE_OFFSET z=0\n\n"
+    ],
+    "filament_flow_ratio": [
+        "1.04"
+    ],
+    "filament_max_volumetric_speed": [
+        "7"
+    ],
+    "filament_notes": [
+        "Shirnkage \n\nXY= 99.6%\nZ = 98.7%"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_settings_id": [
+        "Siraya Tech PET-CF 0.5"
+    ],
+    "filament_start_gcode": [
+        "; Filament gcode\nSET_GCODE_OFFSET z=0\nSET_GCODE_OFFSET Z_ADJUST=0.04"
+    ],
+    "filament_vendor": [
+        "Siraya Tech"
+    ],
+    "filament_wipe": [
+        "0"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "Bambu PET-CF @System",
+    "is_custom_defined": "0",
+    "name": "Siraya Tech PET-CF 0.5",
+    "nozzle_temperature": [
+        "300"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "300"
+    ],
+    "nozzle_temperature_range_high": [
+        "310"
+    ],
+    "nozzle_temperature_range_low": [
+        "280"
+    ],
+    "pressure_advance": [
+        "0.014"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "1"
+    ],
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "version": "2.3.0.3"
+}

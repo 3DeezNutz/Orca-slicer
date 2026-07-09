@@ -1,0 +1,13 @@
+[info]	2026-07-03 06:54:38.077741[Thread 0x00004de0]:gui mode, Current OrcaSlicer Version 2.3.2 build c724a3f5
+[error]	2026-07-03 06:54:44.930545[Thread 0x00004de0]:can not find parent 0.20mm Speed @MINIIS for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Speed @MINIIS - Copy.json!
+[error]	2026-07-03 06:54:44.979407[Thread 0x00004de0]:can not find parent 0.20mm Standard @Creality Ender3S1 for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @Creality Ender3S1 - Copy.json!
+[error]	2026-07-03 06:54:44.992150[Thread 0x00004de0]:can not find parent 0.20mm Standard @MINIIS for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard @MINIIS - Copy.json!
+[error]	2026-07-03 06:54:45.007717[Thread 0x00004de0]:can not find parent 0.20mm Standard @MINIIS for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm Standard TPU @MINIIS - Copy.json!
+[error]	2026-07-03 06:54:46.936903[Thread 0x00004de0]:can not find parent Prusa MINIIS 0.4 nozzle for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa Mini+ 0.4 nozzle.json!
+[error]	2026-07-03 06:54:46.950007[Thread 0x00004de0]:can not find parent Prusa MINIIS 0.4 nozzle for config C:\Users\tommy\AppData\Roaming\OrcaSlicer\user\default\machine\Prusa MINIIS 0.4 nozzle - Copy.json!
+[warning]	2026-07-03 06:54:52.419917[Thread 0x00004de0]:Slic3r::BBLNetworkPlugin::get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-07-03 06:54:58.300147[Thread 0x00004de0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-07-03 06:54:59.664326[Thread 0x00004de0]:06:54:59: Error: can't open file 'C:\Users\tommy\Desktop\OrcaSlicer\resources\images\printer_preview_Voron2_300.png' (error 2: The system cannot find the file specified.)
+[warning]	2026-07-03 06:54:59.664326[Thread 0x00004de0]:06:54:59: Error: Failed to load image from file "C:\Users\tommy\Desktop\OrcaSlicer\resources\images\printer_preview_Voron2_300.png".
+[error]	2026-07-03 06:54:59.664326[Thread 0x00004de0]:create_scaled_bitmapCould not load bitmap: printer_preview_Voron2_300
+[error]	2026-07-03 06:54:59.757721[Thread 0x00004de0]:Slic3r::_parse_printer_type Unsupported printer type: Voron 2.4 300

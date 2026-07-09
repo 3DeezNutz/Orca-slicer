@@ -1,0 +1,11 @@
+{
+    "from": "User",
+    "inherits": "Prusa MINIIS 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Prusa Mini+ 0.4 nozzle",
+    "print_host": "http://192.168.2.132/",
+    "printer_settings_id": "Prusa Mini+ 0.4 nozzle",
+    "printhost_apikey": "nB5jdJAN4230N_w8jVp3tdYKo9kpiexPjnY1UPZZxjc",
+    "template_custom_gcode": "; Wait for bed to reach 80% of required temp then set to required temp\n{% if printer_profile.heatedBed %}\nM190 S{{ (plugins.smartpreheat.bed * 0.8)|round }}\nM140 S{{ plugins.smartpreheat.bed }}\n{% endif %}\n\n; Set tool temps\n{% for tool, temp in plugins.smartpreheat.tools.items() %}\nM104 T{{ tool }} S{{ temp }}\n{% endfor %}\n\n; Wait for bed\n{% if printer_profile.heatedBed %}\nM190 S{{ plugins.smartpreheat.bed }}\n{% endif %}\n\n; Wait for tools\n{% for tool, temp in plugins.smartpreheat.tools.items() %}\nM109 T{{ tool }} S{{ temp }}\n{% endfor %}\n",
+    "version": "2.2.0.4"
+}

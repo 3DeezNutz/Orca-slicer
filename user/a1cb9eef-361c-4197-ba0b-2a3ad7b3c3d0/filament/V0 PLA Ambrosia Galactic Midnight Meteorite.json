@@ -1,0 +1,39 @@
+{
+    "compatible_printers": [
+        "Voron 0.1 0.4 nozzle"
+    ],
+    "default_filament_colour": [
+        "#8000FF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.99"
+    ],
+    "filament_max_volumetric_speed": [
+        "24"
+    ],
+    "filament_settings_id": [
+        "V0 PLA Ambrosia Galactic Midnight Meteorite"
+    ],
+    "filament_vendor": [
+        "Ambrosia "
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "SUNLU PLA+ @System",
+    "name": "V0 PLA Ambrosia Galactic Midnight Meteorite",
+    "pressure_advance": [
+        "0.015"
+    ],
+    "version": "2.3.1.10"
+}
